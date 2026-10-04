@@ -11,21 +11,10 @@ from dotenv import load_dotenv
 
 from instagram import publish_to_instagram
 
-
-# ============================================================
-# LOAD ENVIRONMENT
-# ============================================================
-
 load_dotenv()
-
-
-# ============================================================
-# CONFIGURATION
-# ============================================================
 
 CLOUDFLARE_API_TOKEN = os.getenv("CLOUDFLARE_API_TOKEN")
 CLOUDFLARE_ACCOUNT_ID = os.getenv("CLOUDFLARE_ACCOUNT_ID")
-
 PUBLIC_IMAGE_BASE_URL = os.getenv(
     "PUBLIC_IMAGE_BASE_URL",
     "https://vighnesh1477.github.io/git2gram/images"
@@ -38,61 +27,29 @@ OUTPUT_DIR = Path("output")
 IMAGES_DIR = Path("images")
 
 MAX_CLOUDFLARE_RETRIES = 3
-
 CLOUDFLARE_TIMEOUT = 300
-
 RETRY_WAIT = 15
 
 
-# ============================================================
-# VALIDATE CONFIGURATION
-# ============================================================
-
 if not CLOUDFLARE_API_TOKEN:
-    raise RuntimeError(
-        "CLOUDFLARE_API_TOKEN is missing."
-    )
+    raise RuntimeError("CLOUDFLARE_API_TOKEN is missing.")
 
 if not CLOUDFLARE_ACCOUNT_ID:
-    raise RuntimeError(
-        "CLOUDFLARE_ACCOUNT_ID is missing."
-    )
+    raise RuntimeError("CLOUDFLARE_ACCOUNT_ID is missing.")
 
 
-# ============================================================
-# PATHS
-# ============================================================
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+IMAGES_DIR.mkdir(parents=True, exist_ok=True)
 
-OUTPUT_DIR.mkdir(
-    parents=True,
-    exist_ok=True
-)
-
-IMAGES_DIR.mkdir(
-    parents=True,
-    exist_ok=True
-)
-
-
-# ============================================================
-# FIND FIRST JSON
-# ============================================================
 
 def get_next_json():
-
-    files = sorted(
-        PROMPTS_DIR.glob("*.json")
-    )
+    files = sorted(PROMPTS_DIR.glob("*.json"))
 
     if not files:
         return None
 
     return files[0]
 
-
-# ============================================================
-# GENERATE IMAGE WITH CLOUDFLARE
-# ============================================================
 
 def generate_image(prompt, output_path):
 
@@ -106,31 +63,14 @@ def generate_image(prompt, output_path):
     }
 
     files = {
-        "prompt": (
-            None,
-            prompt
-        ),
-        "width": (
-            None,
-            "1024"
-        ),
-        "height": (
-            None,
-            "1024"
-        )
+        "prompt": (None, prompt),
+        "width": (None, "1024"),
+        "height": (None, "1024")
     }
 
+    for attempt in range(1, MAX_CLOUDFLARE_RETRIES + 1):
 
-    for attempt in range(
-        1,
-        MAX_CLOUDFLARE_RETRIES + 1
-    ):
-
-        print()
-        print(
-            f"Cloudflare attempt "
-            f"{attempt}/{MAX_CLOUDFLARE_RETRIES}"
-        )
+        print(f"\nCloudflare attempt {attempt}/{MAX_CLOUDFLARE_RETRIES}")
 
         try:
 
@@ -141,180 +81,72 @@ def generate_image(prompt, output_path):
                 timeout=CLOUDFLARE_TIMEOUT
             )
 
-            print(
-                "Cloudflare status:",
-                response.status_code
-            )
-
-
-            # =================================================
-            # SUCCESS
-            # =================================================
+            print("Cloudflare status:", response.status_code)
 
             if response.status_code == 200:
 
                 data = response.json()
 
                 if not data.get("success"):
-                    print(
-                        "Cloudflare returned success=false."
-                    )
-                    print(
-                        json.dumps(
-                            data,
-                            indent=2
-                        )
-                    )
+                    print("Cloudflare returned success=false.")
+                    print(json.dumps(data, indent=2))
 
                 else:
 
-                    result = data.get(
-                        "result",
-                        {}
-                    )
-
-                    image_base64 = result.get(
-                        "image"
-                    )
-
+                    result = data.get("result", {})
+                    image_base64 = result.get("image")
 
                     if image_base64:
 
-                        image_data = base64.b64decode(
-                            image_base64
-                        )
+                        image_data = base64.b64decode(image_base64)
 
-                        with open(
-                            output_path,
-                            "wb"
-                        ) as f:
-
+                        with open(output_path, "wb") as f:
                             f.write(image_data)
 
-
-                        print(
-                            "Image saved:",
-                            output_path
-                        )
+                        print("Image saved:", output_path)
 
                         return True
 
+                    print("Cloudflare response did not contain an image.")
+                    print(json.dumps(data, indent=2))
 
-                    # Some responses may use a different
-                    # structure, so show the response.
-                    print(
-                        "Cloudflare response did not "
-                        "contain an image."
-                    )
+            elif response.status_code in [408, 429, 500, 502, 503, 504]:
 
-                    print(
-                        json.dumps(
-                            data,
-                            indent=2
-                        )
-                    )
-
-
-            # =================================================
-            # TIMEOUT / TEMPORARY ERROR
-            # =================================================
-
-            elif response.status_code in [
-                408,
-                429,
-                500,
-                502,
-                503,
-                504
-            ]:
-
-                print(
-                    "Temporary Cloudflare error."
-                )
-
-                try:
-                    print(
-                        response.text[:2000]
-                    )
-                except Exception:
-                    pass
-
-
-            # =================================================
-            # OTHER ERROR
-            # =================================================
+                print("Temporary Cloudflare error.")
+                print(response.text[:2000])
 
             else:
 
-                print(
-                    "Cloudflare request failed."
-                )
+                print("Cloudflare request failed.")
+                print(response.text[:3000])
 
-                print(
-                    response.text[:3000]
-                )
-
-                # Don't retry obvious permanent
-                # authentication/configuration errors.
                 return False
-
 
         except requests.exceptions.Timeout:
 
-            print(
-                "Cloudflare request timed out."
-            )
-
+            print("Cloudflare request timed out.")
 
         except requests.exceptions.RequestException as e:
 
-            print(
-                "Cloudflare request error:",
-                str(e)
-            )
-
+            print("Cloudflare request error:", str(e))
 
         except Exception as e:
 
-            print(
-                "Unexpected Cloudflare error:",
-                str(e)
-            )
-
-
-        # =====================================================
-        # RETRY
-        # =====================================================
+            print("Unexpected Cloudflare error:", str(e))
 
         if attempt < MAX_CLOUDFLARE_RETRIES:
 
-            print(
-                f"Waiting {RETRY_WAIT} seconds "
-                "before retry..."
-            )
-
+            print(f"Waiting {RETRY_WAIT} seconds before retry...")
             time.sleep(RETRY_WAIT)
 
-
-    print()
-    print(
-        "Cloudflare image generation failed "
-        "after all retries."
-    )
+    print("Cloudflare image generation failed after all retries.")
 
     return False
 
 
-# ============================================================
-# GIT COMMAND
-# ============================================================
-
 def run_git(command):
 
-    print(
-        "Running:",
-        " ".join(command)
-    )
+    print("Running:", " ".join(command))
 
     result = subprocess.run(
         command,
@@ -331,98 +163,45 @@ def run_git(command):
     return result.returncode == 0
 
 
-# ============================================================
-# PUSH IMAGE TO GITHUB
-# ============================================================
-
 def push_image_to_github(image_path):
 
     filename = image_path.name
 
-    github_image = (
-        IMAGES_DIR /
-        filename
-    )
+    github_image = IMAGES_DIR / filename
 
-    shutil.copy2(
-        image_path,
-        github_image
-    )
+    shutil.copy2(image_path, github_image)
 
-    print(
-        "Copied to:",
-        github_image
-    )
+    print("Copied to:", github_image)
 
+    print("Pushing image to GitHub...")
 
-    print(
-        "Pushing image to GitHub..."
-    )
-
-
-    # Add image
-    if not run_git([
-        "git",
-        "add",
-        str(github_image)
-    ]):
-
+    if not run_git(["git", "add", str(github_image)]):
         return False
 
-
-    # Check whether there is actually
-    # anything to commit.
     status = subprocess.run(
-        [
-            "git",
-            "diff",
-            "--cached",
-            "--quiet"
-        ]
+        ["git", "diff", "--cached", "--quiet"]
     )
-
 
     if status.returncode == 0:
 
-        print(
-            "Image already exists in Git."
-        )
+        print("Image already exists in Git.")
 
         return True
 
-
-    # Commit
-    if not run_git([
-        "git",
-        "commit",
-        "-m",
-        f"Add {filename}"
-    ]):
-
+    if not run_git(
+        ["git", "commit", "-m", f"Add {filename}"]
+    ):
         return False
 
-
-    # Push
-    if not run_git([
-        "git",
-        "push",
-        "origin",
-        "main"
-    ]):
-
+    if not run_git(
+        ["git", "push", "origin", "main"]
+    ):
         return False
 
-
-    print(
-        "Image pushed to GitHub."
-    )
+    print("Image pushed to GitHub.")
 
     return True
 
-
-# ============================================================
-# WAIT FOR GITHUB PAGES
-# ============================================================
 
 def wait_for_public_image(
     image_url,
@@ -430,23 +209,12 @@ def wait_for_public_image(
     wait_seconds=10
 ):
 
-    print()
-    print(
-        "Checking public image URL:"
-    )
-
+    print("\nChecking public image URL:")
     print(image_url)
 
+    for attempt in range(1, attempts + 1):
 
-    for attempt in range(
-        1,
-        attempts + 1
-    ):
-
-        print(
-            f"Public URL check "
-            f"{attempt}/{attempts}"
-        )
+        print(f"Public URL check {attempt}/{attempts}")
 
         try:
 
@@ -455,34 +223,23 @@ def wait_for_public_image(
                 timeout=30
             )
 
-            print(
-                "HTTP status:",
-                response.status_code
+            print("HTTP status:", response.status_code)
+
+            content_type = response.headers.get(
+                "Content-Type",
+                ""
             )
 
+            print("Content-Type:", content_type)
 
-            if response.status_code == 200:
+            if (
+                response.status_code == 200
+                and content_type.startswith("image/")
+            ):
 
-                content_type = response.headers.get(
-                    "Content-Type",
-                    ""
-                )
+                print("Public image is available.")
 
-                print(
-                    "Content-Type:",
-                    content_type
-                )
-
-                if content_type.startswith(
-                    "image/"
-                ):
-
-                    print(
-                        "Public image is available."
-                    )
-
-                    return True
-
+                return True
 
         except requests.RequestException as e:
 
@@ -491,56 +248,84 @@ def wait_for_public_image(
                 str(e)
             )
 
-
         if attempt < attempts:
-
-            time.sleep(
-                wait_seconds
-            )
-
+            time.sleep(wait_seconds)
 
     print(
-        "GitHub Pages image was not "
-        "available in time."
+        "GitHub Pages image was not available in time."
     )
 
     return False
 
 
-# ============================================================
-# PROCESS NEXT POST
-# ============================================================
+def delete_json_from_github(json_file):
+
+    print("\nDeleting processed JSON from GitHub:")
+
+    print(json_file)
+
+    try:
+
+        json_file.unlink()
+
+    except Exception as e:
+
+        print("Could not delete JSON:", str(e))
+
+        return False
+
+    print("JSON deleted locally.")
+
+    if not run_git(
+        ["git", "add", str(json_file)]
+    ):
+        return False
+
+    status = subprocess.run(
+        ["git", "diff", "--cached", "--quiet"]
+    )
+
+    if status.returncode == 0:
+
+        print("No Git change detected.")
+
+        return True
+
+    if not run_git(
+        [
+            "git",
+            "commit",
+            "-m",
+            f"Remove processed topic {json_file.name}"
+        ]
+    ):
+        return False
+
+    if not run_git(
+        ["git", "push", "origin", "main"]
+    ):
+        return False
+
+    print("JSON deletion pushed to GitHub.")
+
+    return True
+
 
 def process_next_post():
 
     json_file = get_next_json()
 
-
     if json_file is None:
 
-        print()
-        print(
-            "No pending JSON files."
-        )
+        print("\nNo pending JSON files.")
 
         return True
 
-
-    print()
-    print("=" * 60)
+    print("\n" + "=" * 60)
     print("NEXT POST")
     print("=" * 60)
 
-
-    print(
-        "JSON:",
-        json_file
-    )
-
-
-    # ========================================================
-    # READ JSON
-    # ========================================================
+    print("JSON:", json_file)
 
     try:
 
@@ -554,22 +339,16 @@ def process_next_post():
 
     except Exception as e:
 
-        print(
-            "Could not read JSON:",
-            str(e)
-        )
+        print("Could not read JSON:", str(e))
 
         return False
-
 
     topic_name = data.get(
         "name",
         "Untitled"
     )
 
-    prompt = data.get(
-        "prompt"
-    )
+    prompt = data.get("prompt")
 
     caption = data.get(
         "caption",
@@ -581,24 +360,13 @@ def process_next_post():
         []
     )
 
-
     if not prompt:
 
-        print(
-            "Image prompt is missing."
-        )
+        print("Image prompt is missing.")
 
         return False
 
-
-    # ========================================================
-    # BUILD CAPTION
-    # ========================================================
-
-    if isinstance(
-        hashtags,
-        list
-    ):
+    if isinstance(hashtags, list):
 
         hashtag_text = " ".join(
             str(tag)
@@ -607,10 +375,7 @@ def process_next_post():
 
     else:
 
-        hashtag_text = str(
-            hashtags
-        )
-
+        hashtag_text = str(hashtags)
 
     if hashtag_text:
 
@@ -623,16 +388,7 @@ def process_next_post():
 
         final_caption = caption
 
-
-    print(
-        "Topic:",
-        topic_name
-    )
-
-
-    # ========================================================
-    # IMAGE NAME
-    # ========================================================
+    print("Topic:", topic_name)
 
     image_name = (
         json_file.stem +
@@ -644,83 +400,50 @@ def process_next_post():
         image_name
     )
 
-
-    # ========================================================
-    # CLOUDFLARE
-    # ========================================================
-
     print(
         "Generating image with Cloudflare..."
     )
-
 
     success = generate_image(
         prompt,
         output_path
     )
 
-
     if not success:
 
-        print(
-            "Image generation failed."
-        )
+        print("Image generation failed.")
 
         print(
             f"JSON kept for retry: {json_file}"
         )
 
         return False
-
-
-    # ========================================================
-    # PUSH IMAGE TO GITHUB
-    # ========================================================
 
     if not push_image_to_github(
         output_path
     ):
 
-        print(
-            "GitHub image push failed."
-        )
+        print("GitHub image push failed.")
 
         print(
             f"JSON kept for retry: {json_file}"
         )
 
         return False
-
-
-    # ========================================================
-    # PUBLIC IMAGE URL
-    # ========================================================
 
     image_url = (
         f"{PUBLIC_IMAGE_BASE_URL}/"
         f"{image_name}"
     )
 
-
-    print()
-    print(
-        "Public image URL:"
-    )
-
+    print("\nPublic image URL:")
     print(image_url)
-
-
-    # ========================================================
-    # WAIT FOR GITHUB PAGES
-    # ========================================================
 
     if not wait_for_public_image(
         image_url
     ):
 
-        print(
-            "Public image is not ready."
-        )
+        print("Public image is not ready.")
 
         print(
             f"JSON kept for retry: {json_file}"
@@ -728,30 +451,19 @@ def process_next_post():
 
         return False
 
-
-    # ========================================================
-    # INSTAGRAM
-    # ========================================================
-
-    print()
     print(
-        "Creating Instagram media container..."
+        "\nCreating Instagram media container..."
     )
 
-
-    instagram_success = (
-        publish_to_instagram(
-            image_url,
-            final_caption
-        )
+    instagram_success = publish_to_instagram(
+        image_url,
+        final_caption
     )
-
 
     if not instagram_success:
 
-        print()
         print(
-            "Instagram publishing failed."
+            "\nInstagram publishing failed."
         )
 
         print(
@@ -760,46 +472,27 @@ def process_next_post():
 
         return False
 
+    print(
+        "\nInstagram post published successfully."
+    )
 
-    # ========================================================
-    # DELETE JSON ONLY AFTER SUCCESS
-    # ========================================================
-
-    try:
-
-        json_file.unlink()
-
-        print()
-        print(
-            f"Deleted successfully: {json_file}"
-        )
-
-    except Exception as e:
+    if not delete_json_from_github(
+        json_file
+    ):
 
         print(
-            "WARNING: Instagram succeeded, "
-            "but JSON could not be deleted."
-        )
-
-        print(
-            str(e)
+            "\nWARNING: Instagram succeeded, "
+            "but JSON deletion was not pushed."
         )
 
         return False
 
-
-    print()
-    print("=" * 60)
+    print("\n" + "=" * 60)
     print("POST COMPLETED SUCCESSFULLY")
     print("=" * 60)
 
-
     return True
 
-
-# ============================================================
-# MAIN
-# ============================================================
 
 if __name__ == "__main__":
 
