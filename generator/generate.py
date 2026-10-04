@@ -352,5 +352,7 @@ def process_next_post():
 
 
 if __name__ == "__main__":
+    success = process_next_post()
 
-    process_next_post()
+    if not success:
+        raise SystemExit(1)
