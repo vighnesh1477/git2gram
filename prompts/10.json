@@ -1,16 +1,13 @@
 {
   "id": 10,
-  "name": "Planet-Scale Greenhouse",
-  "description": "A planet-sized glass dome contains many seasons at once, with snow, rain, desert, and forest visible inside.",
-  "prompt": "A planet-sized glass greenhouse floating in space, inside visible seasons at once, tiny snow, rain, desert, forest, aurora, stars outside, reflective glass, awe-inspiring scale, photorealistic sci-fi, ultra detailed, no text, no logos, no watermarks",
-  "caption": "A world that keeps every season on the same day. What season would you keep forever?",
+  "name": "Color Emitting Vintage Radio",
+  "description": "A vintage radio emitting thick colorful smoke that forms shapes in the air.",
+  "prompt": "A vintage wooden radio sitting in a dark room, emitting thick colorful smoke that forms shapes in the air, retro aesthetic, volumetric lighting, no text, no watermark",
+  "caption": "Turn it up until the colors come alive. 📻",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#SpaceArt",
-    "#GreenhousePlanet",
-    "#FuturisticNature",
-    "#CosmicDesign",
-    "#AIDrawing"
+    "#vintageaesthetic",
+    "#radio",
+    "#colorful",
+    "#retro"
   ]
 }

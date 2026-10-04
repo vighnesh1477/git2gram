@@ -1,16 +1,13 @@
 {
   "id": 9,
-  "name": "Neon Koi in the Data River",
-  "description": "A river of digital light flows with glowing koi made of pixels, reflections, and neon ripples.",
-  "prompt": "A luminous river of data flowing across a dark concrete riverbed, neon koi made of flowing light, pixel ripples, blue violet and magenta, abstract digital art with natural koi forms, high contrast, ultra detailed, no text, no logos, no watermarks",
-  "caption": "If feelings were rivers, which color would yours be today?",
+  "name": "Light Spiral Staircase",
+  "description": "A spiral staircase made of pure light leading upward into the sun.",
+  "prompt": "A spiral staircase made of pure light leading upward into a bright sun, steps glowing white, clouds below, impossible architecture, majestic, no text, no watermark",
+  "caption": "Up the stairs, higher than the clouds. ✨",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#DigitalNature",
-    "#NeonKoi",
-    "#CyberArt",
-    "#AbstractArt",
-    "#AIDrawing"
+    "#lightart",
+    "#architecture",
+    "#impossiblearchitecture",
+    "#sunset"
   ]
 }

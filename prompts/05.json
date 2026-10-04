@@ -1,16 +1,13 @@
 {
   "id": 5,
-  "name": "Midnight Subway Aquarium",
-  "description": "An empty late-night subway car becomes a glowing underwater aquarium filled with fish and drifting seagrass.",
-  "prompt": "An empty midnight subway car transformed into an underwater aquarium, neon interior reflections on shallow water, glowing koi, angelfish, seagrass along seats, mist, moody blue and pink light, cinematic perspective, photorealistic surreal, ultra detailed, no text, no logos, no watermarks",
-  "caption": "The last train of the night becomes a secret ocean. What animal should live in your empty hallway?",
+  "name": "Bronze Leaf Forest",
+  "description": "A forest of trees with metallic bronze leaves slowly turning in the wind.",
+  "prompt": "A forest of trees with metallic bronze leaves slowly turning in the wind, autumn light, intricate metal texture, nature meets sculpture, wide angle, no text, no watermark",
+  "caption": "Autumn turned the leaves into gold leaf. 🍂",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#NeonAquarium",
-    "#UrbanSurreal",
-    "#OceanLife",
-    "#CinematicArt",
-    "#AIDrawing"
+    "#metallicnature",
+    "#bronzeart",
+    "#forestvibes",
+    "#sculpture"
   ]
 }

@@ -1,16 +1,13 @@
 {
   "id": 3,
-  "name": "Cloud Terminal at the End of the Sky",
-  "description": "A lonely cloud bus stop floats in an endless sky, with one suitcase and a paper cup waiting for no one.",
-  "prompt": "A surreal small bus stop standing on a floating cloud island above an endless sky, soft morning light, one suitcase, a paper coffee cup, distant floating stones, gentle wind, pastel cyan and cream, dreamy, cinematic, ultra detailed, no text, no logos, no watermarks",
-  "caption": "What would you pack for a one-way trip to the clouds?",
+  "name": "Paper Lantern Sky Fish",
+  "description": "Giant glowing paper lantern fish swimming in the night sky above a mountain town.",
+  "prompt": "Giant glowing paper lantern fish swimming in the night sky above a quiet mountain town, warm orange light, stars, magical atmosphere, low angle view, no text, no watermark",
+  "caption": "The sky is an ocean tonight. 🏮",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#CloudDreams",
-    "#SurrealTravel",
-    "#WhimsicalArt",
-    "#VisualConcept",
-    "#AIImage"
+    "#nightphotography",
+    "#lanterns",
+    "#magicalrealism",
+    "#visualart"
   ]
 }

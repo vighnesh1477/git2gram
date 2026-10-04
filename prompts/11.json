@@ -1,16 +1,13 @@
 {
   "id": 11,
-  "name": "Overgrown Arcade in a Silent Mall",
-  "description": "An abandoned retro arcade becomes quiet and melancholic, with plants growing through old consoles and glowing screens.",
-  "prompt": "An abandoned retro arcade inside a silent shopping mall, rain crossing broken windows, vines growing through consoles, joysticks, glowing CRT screens with abstract static, moss on floor, teal and rust palette, melancholy cinematic light, ultra detailed, no text, no logos, no watermarks",
-  "caption": "The machines are quiet now, but the memories still flicker. What arcade game holds your first victory?",
+  "name": "Turtle Shell Archipelago",
+  "description": "A giant sea turtle floating with a small village built on its shell.",
+  "prompt": "A giant sea turtle floating in the ocean with a small village of houses built on its shell, tiny people, bright blue water, fantasy map style, aerial view, no text, no watermark",
+  "caption": "Every home has a journey. 🐢",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#Nostalgia",
-    "#AbandonedArt",
-    "#ArcadeCulture",
-    "#OvergrownCity",
-    "#AIImage"
+    "#turtlevillage",
+    "#fantasyart",
+    "#oceanart",
+    "#islandlife"
   ]
 }

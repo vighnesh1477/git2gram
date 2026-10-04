@@ -1,16 +1,13 @@
 {
   "id": 19,
-  "name": "Office Desk with a Volcano Inkwell",
-  "description": "A quiet office desk hides a tiny erupting volcano inside an inkwell, with smoke drifting over blank papers.",
-  "prompt": "A modern office desk in a quiet room, a black inkwell with a tiny erupting volcano, glowing orange mist, blank papers, window with stormy night, contrast of corporate calm and wild nature, photorealistic surreal, ultra detailed, no text, no logos, no watermarks",
-  "caption": "What would be the least boring thing to hide inside your workplace?",
+  "name": "Glow Jungle",
+  "description": "A dense jungle at night where the leaves and vines glow with soft electric green light.",
+  "prompt": "A dense jungle at night where the leaves and vines glow with soft electric green light, mysterious atmosphere, deep shadows, bioluminescent plants, no text, no watermark",
+  "caption": "The jungle never truly sleeps. 🌿",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#OfficeSurreal",
-    "#TinyVolcano",
-    "#WorkplaceFantasy",
-    "#VisualMetaphor",
-    "#AIImage"
+    "#jungle",
+    "#bioluminescence",
+    "#nightwalk",
+    "#plantlover"
   ]
 }

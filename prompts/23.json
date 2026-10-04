@@ -1,16 +1,13 @@
 {
   "id": 23,
-  "name": "Firefly Tunnel at a Night Train Platform",
-  "description": "Thousands of fireflies form a glowing tunnel over an empty rural train platform at night.",
-  "prompt": "An empty rural train platform at night covered in thousands of fireflies forming a glowing tunnel, old wooden benches, faint moonlight, distant hills, warm yellow and blue contrast, peaceful mystery, cinematic, ultra detailed, no text, no logos, no watermarks",
-  "caption": "What would you whisper if you could say it to a train leaving into the night?",
+  "name": "Planet Bell Tower",
+  "description": "A gothic tower where the bells are actually small planets ringing.",
+  "prompt": "A gothic tower where the bells are actually small planets ringing, stars orbiting the tower, midnight sky, magical architecture, detailed, no text, no watermark",
+  "caption": "The chime that calls the planets home. 🔔",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#FireflyTunnel",
-    "#NightTrain",
-    "#PeacefulArt",
-    "#MysteryVibes",
-    "#AIDrawing"
+    "#tower",
+    "#planets",
+    "#architecture",
+    "#magical"
   ]
 }

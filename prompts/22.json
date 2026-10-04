@@ -1,16 +1,13 @@
 {
   "id": 22,
-  "name": "The Old Camera That Projects a Garden",
-  "description": "A vintage film camera in a dark garden projects a glowing living garden of flowers and trees into the night air.",
-  "prompt": "A vintage film camera on a wooden bench in a dark garden, its lens projecting a glowing living projection of blooming flowers and trees into the night air, no readable images, soft light, nostalgic, magical realism, cinematic, ultra detailed, no text, no logos, no watermarks",
-  "caption": "Some cameras don't record the past; they bring it back to bloom. What memory would you project tonight?",
+  "name": "Living Frame Horizon",
+  "description": "A giant picture frame floating in a meadow with a living ocean scene inside.",
+  "prompt": "A giant ornate picture frame floating in a meadow, inside the frame is a living ocean scene with waves crashing, contrast between grass and sea, surreal, no text, no watermark",
+  "caption": "Stepping into a painting is possible. 🖼️",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#MemoryProjection",
-    "#MagicalRealism",
-    "#GardenDreams",
-    "#Nostalgia",
-    "#AIDrawing"
+    "#framing",
+    "#surrealism",
+    "#seascape",
+    "#artistic"
   ]
 }

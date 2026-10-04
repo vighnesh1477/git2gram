@@ -1,16 +1,13 @@
 {
   "id": 17,
-  "name": "Floating Market on a Glacial River",
-  "description": "Small lantern-lit boats drift along a pale glacial river, carrying impossible fruits and quiet morning mist.",
-  "prompt": "A dreamlike floating market drifting on a pale glacial river, small boats, glowing lanterns, baskets of impossible fruits, mist, turquoise ice, quiet morning, cinematic wide angle, photorealistic surreal, ultra detailed, no text, no logos, no watermarks",
-  "caption": "What would you sell in a market that only floats once a year?",
+  "name": "World Seed",
+  "description": "A giant cracked seed revealing a tiny spinning earth inside the shell.",
+  "prompt": "A giant cracked seed in a soil bed revealing a tiny spinning earth inside the shell, macro nature photography, sunlight rays, hope and growth, no text, no watermark",
+  "caption": "Everything begins from something small. 🌍",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#FloatingMarket",
-    "#GlacialDreams",
-    "#SurrealTravel",
-    "#WhimsicalArt",
-    "#AIImage"
+    "#seed",
+    "#growth",
+    "#earthday",
+    "#naturephotography"
   ]
 }

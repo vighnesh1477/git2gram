@@ -1,16 +1,13 @@
 {
   "id": 8,
-  "name": "Arctic Ice Fossil Library",
-  "description": "Clear blocks of arctic ice reveal ancient fossils, insects, shells, and bones under a polar sunrise.",
-  "prompt": "A vast arctic ice field with clear ice blocks revealing ancient fossils, jaw bones, shells, insects, shallow puddles, polar sunrise, glowing blue and white tones, mysterious scale, photorealistic, cinematic wide shot, no text, no logos, no watermarks",
-  "caption": "The ice keeps what the earth almost forgot. What ancient thing should be preserved for the future?",
+  "name": "Umbrella Leaf Tree",
+  "description": "A giant tree whose leaves are hundreds of open vintage umbrellas in pastel colors.",
+  "prompt": "A giant solitary tree in a field, its leaves are hundreds of open vintage umbrellas in pastel colors, soft raining sky, whimsical, storybook illustration style, no text, no watermark",
+  "caption": "The best kind of shelter grows from the ground. ☂️",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#ArcticArt",
-    "#Fossils",
-    "#GeologyArt",
-    "#SurrealNature",
-    "#AIImage"
+    "#umbrellaart",
+    "#whimsical",
+    "#foliage",
+    "#illustration"
   ]
 }

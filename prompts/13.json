@@ -1,16 +1,13 @@
 {
   "id": 13,
-  "name": "Clockwork Hummingbird in the Aerial Spire",
-  "description": "A delicate mechanical hummingbird hovers inside a golden open-air spire filled with slowly turning gears.",
-  "prompt": "A delicate clockwork hummingbird hovering inside a towering open-air spire, golden gears, tiny jeweled wings, sky at golden hour, gears and cogs in background, wind, hyperdetailed steampunk fantasy, cinematic, no text, no logos, no watermarks",
-  "caption": "If a small machine could choose one song to hum, what would it be?",
+  "name": "Musical Cave Flutes",
+  "description": "Hollow rock formations shaped like flutes blowing glowing musical notes in a cave.",
+  "prompt": "Inside a dark cave, hollow rock formations shaped like giant flutes blowing glowing musical notes, bioluminescent blue light, underground fantasy, no text, no watermark",
+  "caption": "The earth plays its own melody. 🎵",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#Steampunk",
-    "#ClockworkArt",
-    "#FantasyDesign",
-    "#GoldenHour",
-    "#AIDrawing"
+    "#caveart",
+    "#music",
+    "#bioluminescence",
+    "#underground"
   ]
 }

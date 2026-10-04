@@ -1,16 +1,13 @@
 {
   "id": 14,
-  "name": "Mirror Shore of Half-Remembered Places",
-  "description": "A coastal shore is lined with smooth black mirrors, each reflecting a different impossible memory.",
-  "prompt": "A surreal shoreline where smooth black mirrors rise from the wet sand, each mirror reflects a different impossible memory: a treehouse, a field of lilies, a red bicycle, a stormy port, sunset light, reflective water, emotional, photorealistic surreal, no text, no logos, no watermarks",
-  "caption": "Some places only exist when we remember them. Which mirror would you step into?",
+  "name": "Zero-G Retro Diner",
+  "description": "A 1950s diner floating in deep space with zero gravity coffee cups.",
+  "prompt": "A 1950s style diner floating in deep space, neon signs buzzing, astronauts eating at the counter, zero gravity coffee cups, vibrant colors, retro futurism, no text, no watermark",
+  "caption": "Late night snacks in the middle of the galaxy. 🍔",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#MemoryArt",
-    "#MirrorSea",
-    "#SurrealCoastal",
-    "#NostalgicArt",
-    "#AIImage"
+    "#retrofuturism",
+    "#spacefood",
+    "#diner",
+    "#neonvibes"
   ]
 }

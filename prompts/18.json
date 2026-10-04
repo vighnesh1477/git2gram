@@ -1,16 +1,13 @@
 {
   "id": 18,
-  "name": "Moonlit Kitchen of a Forgotten House",
-  "description": "A quiet empty kitchen at night holds moonlight, old jars, and a soft blue glow in the glass.",
-  "prompt": "A quiet abandoned kitchen at night under moonlight, old wooden table, cracked window, glass jars with soft blue light, dust motes, moonbeam, nostalgic mystery, cinematic photorealistic, no text, no logos, no watermarks",
-  "caption": "Every empty house still keeps a recipe. What food makes you feel safest?",
+  "name": "Wind Carved Sandstone",
+  "description": "Wind has carved sandstone into the shape of giant sleeping animals.",
+  "prompt": "A desert landscape where wind has carved sandstone into the shape of giant sleeping animals, warm ochre tones, dramatic shadows, wide landscape, no text, no watermark",
+  "caption": "The wind sculpts what time leaves behind. 🌬️",
   "hashtags": [
-    "#AIArt",
-    "#WonderCanvas",
-    "#MoonlitMystery",
-    "#NostalgicHouse",
-    "#QuietArt",
-    "#CinematicMood",
-    "#AIDrawing"
+    "#desertart",
+    "#sandstone",
+    "#windcarved",
+    "#landscapephotography"
   ]
 }
