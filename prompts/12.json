@@ -1,6 +1,16 @@
 {
   "id": 12,
-  "name": "Steampunk Cloud Whale",
-  "description": "Giant mechanical whale swimming through clouds with steam trails",
-  "prompt": "Massive steampunk whale made of brass and copper swimming through fluffy clouds, steam pipes along its body releasing white vapor, gear mechanisms visible through transparent skin sections, sunset lighting casting golden hues on metal, aerial side view showing scale against cloudscape, fantasy creature design, intricate mechanical details, cinematic atmosphere"
+  "name": "Jellyfish Cathedral",
+  "description": "A vast cathedral interior is formed from translucent jellyfish membranes and glowing tentacles.",
+  "prompt": "A vast cathedral interior made of translucent jellyfish membranes, hanging tentacles forming arches, soft light filtering like stained glass, bioluminescent blue and rose, quiet sacred atmosphere, photorealistic surreal, ultra detailed, no text, no logos, no watermarks",
+  "caption": "Some places are built. Some are born. What living thing should become a cathedral?",
+  "hashtags": [
+    "#AIArt",
+    "#WonderCanvas",
+    "#JellyfishArt",
+    "#LivingArchitecture",
+    "#SurrealNature",
+    "#CathedralDreams",
+    "#AIDrawing"
+  ]
 }

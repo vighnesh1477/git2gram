@@ -1,330 +1,229 @@
 import requests
 import json
 import os
+from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv()
 
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 
+PROMPTS_DIR = Path("prompts")
+HISTORY_FILE = Path("topic_history.json")
+
+PROMPTS_DIR.mkdir(exist_ok=True)
 
 MODEL = "openrouter/free"
 
-OUTPUT_DIR = os.path.join(
-    os.path.dirname(os.path.dirname(__file__)),
-    "prompts"
-)
-
-# ============================================================
-# OPENROUTER
-# ============================================================
-
-URL = "https://openrouter.ai/api/v1/chat/completions"
-
-HEADERS = {
-    "Authorization": f"Bearer {API_KEY}",
-    "Content-Type": "application/json"
-}
-
-# ============================================================
-# PROMPT
-# ============================================================
 
 SYSTEM_PROMPT = """
-You are a professional global trend researcher and creative director
-for a highly visual Instagram account.
+You are the content strategist for an Instagram AI-art account called
+WonderCanvas.
 
-Your task is to create the BEST 24 image concepts for TODAY.
+Generate exactly 24 completely fresh image concepts for today's posts.
 
-The content must NOT feel like a generic children's page.
-
-The images should attract:
-
-- children
+The audience is GENERAL:
+- kids
 - teenagers
-- parents
 - young adults
-- general audiences
+- parents
+- adults
+- AI-art lovers
 
-The goal is to create images that make people STOP SCROLLING.
+Do NOT make the account mainly children's content.
 
-The image should create feelings such as:
-
-- WOW
+The concepts should have strong:
+- WOW effect
 - curiosity
+- emotional appeal
 - nostalgia
-- wonder
-- beauty
-- mystery
-- cuteness
-- amazement
-- imagination
-- emotional connection
+- visual surprise
+- scroll-stopping potential
 
-Think:
+Think about current visual trends, popular aesthetics, internet culture,
+interesting science, fantasy, nature, futuristic concepts, surrealism,
+nostalgia and visually unusual ideas.
 
-"I have never seen this before."
+Every concept must be suitable for ONE single Instagram image.
 
-"That looks amazing."
-
-"I want to see this."
-
-"This reminds me of something from childhood."
-
-"How did they make this?"
-
-TREND RESEARCH:
-
-Think about current global trends, emerging aesthetics,
-seasonal interests, popular visual concepts, internet culture,
-nature, wildlife, fascinating places, technology, science,
-nostalgia, fantasy, architecture, food, travel and unusual
-real-world phenomena.
-
-Prioritize concepts that feel CURRENT and visually relevant.
-
-Do not simply generate generic topics that have existed forever.
-
-NOVELTY:
-
-All 24 topics must be meaningfully different.
-
-Do NOT create 24 variations of the same idea.
-
-For example, these are NOT sufficiently different:
-
-Tiny Forest Village
-Tiny Jungle Village
-Tiny Mountain Village
-Tiny Beach Village
-
-Instead, create genuinely different concepts.
-
-REPETITION:
-
-Avoid common repetitive concepts.
-
-Every topic should feel fresh and interesting.
-
-The topics should also be suitable for future daily generation,
-so avoid using the exact same concepts repeatedly.
-
-AUDIENCE:
-
-The content must be family-friendly but NOT childish.
-
-A child should enjoy it.
-
-A parent should enjoy it.
-
-A young adult should find it visually interesting.
-
-The image should feel like premium social-media content.
-
-VISUAL QUALITY:
-
-Every topic must work as ONE powerful image.
-
-Avoid ideas that require:
-
-- dialogue
-- multiple scenes
-- long stories
-- explanations
-- text inside the image
-
-IMAGE PROMPT:
-
-For every topic create a detailed prompt suitable for an AI
-image-generation model.
-
-The prompt should describe:
-
-- main subject
-- environment
-- composition
-- camera viewpoint
-- lighting
-- atmosphere
-- colors
-- depth
-- important visual details
-- artistic or photographic style
-- visual quality
-
-The image should immediately look impressive in an Instagram feed.
-
-Do NOT include:
-
-- text
-- captions
+Avoid:
+- repeated concepts
+- boring generic landscapes
+- text inside images
 - logos
 - watermarks
-- written words
+- brand names
+- political content
+- sexual content
+- graphic gore
 
-inside the generated image.
+For each topic generate:
 
-OUTPUT:
+1. name
+2. description
+3. detailed image-generation prompt
+4. Instagram caption
+5. 6-12 hashtags
 
-Return EXACTLY 24 objects.
-
-Each object MUST have:
-
-{
-    "name": "short memorable topic name",
-    "description": "short 1-2 sentence description",
-    "prompt": "detailed image generation prompt"
-}
+Captions should create curiosity and encourage comments/shares.
 
 Return ONLY valid JSON.
 
-Do not use markdown.
+Required format:
 
-Do not write anything before or after the JSON.
-
-Make all 24 ideas feel like they were created by a
-professional global visual-content creator.
+{
+  "topics": [
+    {
+      "id": 1,
+      "name": "...",
+      "description": "...",
+      "prompt": "...",
+      "caption": "...",
+      "hashtags": [
+        "#AIArt",
+        "#WonderCanvas"
+      ]
+    }
+  ]
+}
 """
 
-# ============================================================
-# REQUEST
-# ============================================================
 
-DATA = {
-    "model": MODEL,
-    "messages": [
-        {
-            "role": "system",
-            "content": SYSTEM_PROMPT
-        },
-        {
-            "role": "user",
-            "content": "Generate today's 24 image topics."
-        }
-    ],
-    "temperature": 1.0
-}
+def load_history():
+    if not HISTORY_FILE.exists():
+        return []
 
-print("Generating 24 topics...")
-print("Please wait...")
+    try:
+        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return []
 
-response = requests.post(
-    URL,
-    headers=HEADERS,
-    json=DATA,
-    timeout=180
-)
 
-# ============================================================
-# CHECK RESPONSE
-# ============================================================
+def save_history(history):
+    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(history, f, indent=2, ensure_ascii=False)
 
-print("Status:", response.status_code)
 
-if response.status_code != 200:
-    print("\nOpenRouter Error:")
-    print(response.text)
-    exit()
+def generate_topics():
 
-result = response.json()
-
-content = result["choices"][0]["message"]["content"]
-
-# Remove possible markdown fences
-content = content.strip()
-
-if content.startswith("```json"):
-    content = content[7:]
-
-if content.startswith("```"):
-    content = content[3:]
-
-if content.endswith("```"):
-    content = content[:-3]
-
-content = content.strip()
-
-# ============================================================
-# PARSE JSON
-# ============================================================
-
-try:
-    topics = json.loads(content)
-except json.JSONDecodeError as e:
-    print("\nJSON parsing failed.")
-    print("Error:", e)
-    print("\nAI returned:")
-    print(content)
-    exit()
-
-# ============================================================
-# VALIDATE
-# ============================================================
-
-if not isinstance(topics, list):
-    print("Error: AI response is not a JSON array.")
-    exit()
-
-if len(topics) != 24:
-    print(f"Error: Expected 24 topics, received {len(topics)}.")
-    exit()
-
-for i, topic in enumerate(topics, start=1):
-
-    required = ["name", "description", "prompt"]
-
-    for field in required:
-        if field not in topic:
-            print(f"Error: Topic {i} is missing '{field}'.")
-            exit()
-
-# ============================================================
-# CREATE OUTPUT DIRECTORY
-# ============================================================
-
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-# ============================================================
-# SAVE 24 JSON FILES
-# ============================================================
-
-for i, topic in enumerate(topics, start=1):
-
-    file_path = os.path.join(
-        OUTPUT_DIR,
-        f"{i:02d}.json"
-    )
-
-    data = {
-        "id": i,
-        "name": topic["name"],
-        "description": topic["description"],
-        "prompt": topic["prompt"]
-    }
-
-    with open(
-        file_path,
-        "w",
-        encoding="utf-8"
-    ) as file:
-
-        json.dump(
-            data,
-            file,
-            indent=2,
-            ensure_ascii=False
+    if not API_KEY:
+        raise RuntimeError(
+            "OPENROUTER_API_KEY is missing from .env"
         )
 
-# ============================================================
-# SUCCESS
-# ============================================================
+    history = load_history()
 
-print("\n========================================")
-print("SUCCESS")
-print("========================================")
-print("24 topics generated successfully.")
-print(f"Saved to: {OUTPUT_DIR}")
-print("")
+    # Keep prompt size reasonable
+    previous_topics = history[-200:]
 
-for i, topic in enumerate(topics, start=1):
-    print(f"{i:02d}. {topic['name']}")
+    history_text = "\n".join(
+        f"- {topic}"
+        for topic in previous_topics
+    )
+
+    user_prompt = f"""
+Generate today's 24 fresh WonderCanvas topics.
+
+IMPORTANT:
+Do NOT repeat or closely recreate any previous topic.
+
+Previous topics:
+{history_text}
+
+Make today's concepts substantially different.
+
+Return exactly 24 topics.
+"""
+
+    headers = {
+        "Authorization": f"Bearer {API_KEY}",
+        "Content-Type": "application/json"
+    }
+
+    payload = {
+        "model": MODEL,
+        "messages": [
+            {
+                "role": "system",
+                "content": SYSTEM_PROMPT
+            },
+            {
+                "role": "user",
+                "content": user_prompt
+            }
+        ]
+    }
+
+    print("Generating today's 24 topics...")
+
+    response = requests.post(
+        "https://openrouter.ai/api/v1/chat/completions",
+        headers=headers,
+        json=payload,
+        timeout=180
+    )
+
+    print("OpenRouter status:", response.status_code)
+
+    if response.status_code != 200:
+        print(response.text)
+        raise RuntimeError("OpenRouter request failed")
+
+    result = response.json()
+
+    content = result["choices"][0]["message"]["content"].strip()
+
+    # Remove markdown code fences if returned
+    if content.startswith("```"):
+        content = content.replace("```json", "")
+        content = content.replace("```", "")
+        content = content.strip()
+
+    data = json.loads(content)
+
+    topics = data["topics"]
+
+    if len(topics) != 24:
+        raise RuntimeError(
+            f"Expected 24 topics, received {len(topics)}"
+        )
+
+    # Remove old unfinished queue
+    for file in PROMPTS_DIR.glob("*.json"):
+        file.unlink()
+
+    today_names = []
+
+    for index, topic in enumerate(topics, start=1):
+
+        topic["id"] = index
+
+        filename = PROMPTS_DIR / f"{index:02d}.json"
+
+        with open(filename, "w", encoding="utf-8") as f:
+            json.dump(
+                topic,
+                f,
+                indent=2,
+                ensure_ascii=False
+            )
+
+        today_names.append(topic["name"])
+
+        print(f"Created: {filename}")
+
+    # Add today's topics to history
+    history.extend(today_names)
+
+    # Keep history manageable
+    history = history[-500:]
+
+    save_history(history)
+
+    print()
+    print("Successfully created 24 JSON files.")
+
+
+if __name__ == "__main__":
+    generate_topics()

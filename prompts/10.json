@@ -1,6 +1,16 @@
 {
   "id": 10,
-  "name": "Tree-City Symbiosis",
-  "description": "Ancient massive tree with modern buildings growing from its branches",
-  "prompt": "Enormous ancient oak tree with bark texture like stone, modern glass buildings growing from its branches like organic growth, roots intertwining with architecture, sunset light filtering through leaves casting dappled shadows on buildings, aerial view looking down at the hybrid ecosystem, biopunk aesthetic, photorealistic style, wonder and scale, warm golden hour colors"
+  "name": "Planet-Scale Greenhouse",
+  "description": "A planet-sized glass dome contains many seasons at once, with snow, rain, desert, and forest visible inside.",
+  "prompt": "A planet-sized glass greenhouse floating in space, inside visible seasons at once, tiny snow, rain, desert, forest, aurora, stars outside, reflective glass, awe-inspiring scale, photorealistic sci-fi, ultra detailed, no text, no logos, no watermarks",
+  "caption": "A world that keeps every season on the same day. What season would you keep forever?",
+  "hashtags": [
+    "#AIArt",
+    "#WonderCanvas",
+    "#SpaceArt",
+    "#GreenhousePlanet",
+    "#FuturisticNature",
+    "#CosmicDesign",
+    "#AIDrawing"
+  ]
 }

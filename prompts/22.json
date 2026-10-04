@@ -1,6 +1,16 @@
 {
   "id": 22,
-  "name": "Solar Donut Eclipse",
-  "description": "Solar eclipse forming perfect donut shape over mountain lake",
-  "prompt": "Perfect solar eclipse creating a bright donut of fire around the moon, reflected in a pristine mountain lake below, surrounding peaks silhouetted against twilight sky, ring of fire brilliant orange and red, mountain reflections doubling the effect in water, astrophotography style, dramatic composition, warm and cool color contrast, epic scale, 8k detail"
+  "name": "The Old Camera That Projects a Garden",
+  "description": "A vintage film camera in a dark garden projects a glowing living garden of flowers and trees into the night air.",
+  "prompt": "A vintage film camera on a wooden bench in a dark garden, its lens projecting a glowing living projection of blooming flowers and trees into the night air, no readable images, soft light, nostalgic, magical realism, cinematic, ultra detailed, no text, no logos, no watermarks",
+  "caption": "Some cameras don't record the past; they bring it back to bloom. What memory would you project tonight?",
+  "hashtags": [
+    "#AIArt",
+    "#WonderCanvas",
+    "#MemoryProjection",
+    "#MagicalRealism",
+    "#GardenDreams",
+    "#Nostalgia",
+    "#AIDrawing"
+  ]
 }

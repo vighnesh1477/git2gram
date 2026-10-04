@@ -1,6 +1,16 @@
 {
   "id": 14,
-  "name": "Plankton Galaxy Ocean",
-  "description": "Ocean surface glowing with bioluminescent plankton resembling a galaxy",
-  "prompt": "Aerial view of ocean surface at night covered with bioluminescent plankton creating swirling galaxy-like patterns of blue and green light, waves creating flowing light trails, stars visible in actual sky above, long exposure photography style, magical natural phenomenon, deep blue water contrasting with glowing plankton, cinematic wide shot, 8k resolution"
+  "name": "Mirror Shore of Half-Remembered Places",
+  "description": "A coastal shore is lined with smooth black mirrors, each reflecting a different impossible memory.",
+  "prompt": "A surreal shoreline where smooth black mirrors rise from the wet sand, each mirror reflects a different impossible memory: a treehouse, a field of lilies, a red bicycle, a stormy port, sunset light, reflective water, emotional, photorealistic surreal, no text, no logos, no watermarks",
+  "caption": "Some places only exist when we remember them. Which mirror would you step into?",
+  "hashtags": [
+    "#AIArt",
+    "#WonderCanvas",
+    "#MemoryArt",
+    "#MirrorSea",
+    "#SurrealCoastal",
+    "#NostalgicArt",
+    "#AIImage"
+  ]
 }

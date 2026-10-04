@@ -1,6 +1,16 @@
 {
   "id": 5,
-  "name": "Retro Greenhouse Automatons",
-  "description": "Vintage 1950s robots tending exotic plants in a futuristic greenhouse",
-  "prompt": "1950s retro-futuristic greenhouse with rounded glass walls, chrome robots with vintage dials and robotic arms carefully watering exotic glowing plants, steam rising from soil, warm amber lighting mixing with green plant hues, polished concrete floor reflections, retro advertising style, hyperrealistic details, nostalgic futurism, studio lighting"
+  "name": "Midnight Subway Aquarium",
+  "description": "An empty late-night subway car becomes a glowing underwater aquarium filled with fish and drifting seagrass.",
+  "prompt": "An empty midnight subway car transformed into an underwater aquarium, neon interior reflections on shallow water, glowing koi, angelfish, seagrass along seats, mist, moody blue and pink light, cinematic perspective, photorealistic surreal, ultra detailed, no text, no logos, no watermarks",
+  "caption": "The last train of the night becomes a secret ocean. What animal should live in your empty hallway?",
+  "hashtags": [
+    "#AIArt",
+    "#WonderCanvas",
+    "#NeonAquarium",
+    "#UrbanSurreal",
+    "#OceanLife",
+    "#CinematicArt",
+    "#AIDrawing"
+  ]
 }

@@ -1,6 +1,16 @@
 {
   "id": 6,
-  "name": "Crystal Cave Rainbow Refraction",
-  "description": "Underground crystal cave with light refracting into rainbow spectra",
-  "prompt": "Interior of massive crystal cave with hexagonal prisms and amethyst formations catching light, rainbow spectra projected onto wet stone walls, a single beam of sunlight entering through a crack above, crystal clear water pooling on floor, reflections doubling the colors, geological photography style, vibrant saturated colors, depth and scale, 8k resolution"
+  "name": "Teacup Monsoon",
+  "description": "A tiny city of umbrellas and houses is sheltered beneath a giant teacup filled with a glowing storm.",
+  "prompt": "A tiny city of pastel umbrellas and miniature houses viewed from a macro angle, above them a giant glowing teacup filled with a storm cloud, golden raindrops falling, dramatic scale, whimsical cinematic lighting, hyperdetailed, no text, no logos, no watermarks",
+  "caption": "Tiny cities have their own weather. What would your umbrella city be called?",
+  "hashtags": [
+    "#AIArt",
+    "#WonderCanvas",
+    "#TinyWorlds",
+    "#WhimsicalArt",
+    "#SurrealNature",
+    "#MacroImagery",
+    "#AIDrawing"
+  ]
 }

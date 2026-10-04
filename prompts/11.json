@@ -1,6 +1,16 @@
 {
   "id": 11,
-  "name": "Snowflake Cathedral Micro",
-  "description": "Giant microscopic view of snowflake forming a Gothic cathedral structure",
-  "prompt": "Extreme macro photography of a single snowflake at microscopic level revealing intricate Gothic cathedral architecture within its crystalline structure, arches and spires made of ice, blue and white color palette, shallow depth of field, frost particles floating around, scientific beauty meets religious architecture, 100x magnification, crisp details, ethereal lighting"
+  "name": "Overgrown Arcade in a Silent Mall",
+  "description": "An abandoned retro arcade becomes quiet and melancholic, with plants growing through old consoles and glowing screens.",
+  "prompt": "An abandoned retro arcade inside a silent shopping mall, rain crossing broken windows, vines growing through consoles, joysticks, glowing CRT screens with abstract static, moss on floor, teal and rust palette, melancholy cinematic light, ultra detailed, no text, no logos, no watermarks",
+  "caption": "The machines are quiet now, but the memories still flicker. What arcade game holds your first victory?",
+  "hashtags": [
+    "#AIArt",
+    "#WonderCanvas",
+    "#Nostalgia",
+    "#AbandonedArt",
+    "#ArcadeCulture",
+    "#OvergrownCity",
+    "#AIImage"
+  ]
 }
