@@ -1,13 +1,16 @@
 {
   "id": 10,
-  "name": "Color Emitting Vintage Radio",
-  "description": "A vintage radio emitting thick colorful smoke that forms shapes in the air.",
-  "prompt": "A vintage wooden radio sitting in a dark room, emitting thick colorful smoke that forms shapes in the air, retro aesthetic, volumetric lighting, no text, no watermark",
-  "caption": "Turn it up until the colors come alive. 📻",
+  "name": "Bioluminescent Book Garden at Night",
+  "description": "A nighttime garden where open books glow like luminous flowers, surrounded by fireflies and dark mossy paths.",
+  "prompt": "A single magical night image of a garden where open books grow like luminous flowers, pages glowing blue-green, fireflies hovering, dark moss, stone path, bioluminescent plants, dreamy science-fantasy, no readable text, no logos, no watermark.",
+  "caption": "Some stories grow instead of being read.",
   "hashtags": [
-    "#vintageaesthetic",
-    "#radio",
-    "#colorful",
-    "#retro"
+    "#aiart",
+    "#bioluminescent",
+    "#bookgarden",
+    "#nightgarden",
+    "#fantasy",
+    "#aigenerated",
+    "#digitalart"
   ]
 }

@@ -1,13 +1,16 @@
 {
   "id": 7,
-  "name": "Ceramic Moon Surface",
-  "description": "The moon surface resembling cracked white porcelain with glowing blue cracks.",
-  "prompt": "The surface of the moon looking like cracked white porcelain with glowing blue cracks, smooth texture, earth rising in the background, serene, no text, no watermark",
-  "caption": "The moon is made of something softer than rock. 🌕",
+  "name": "Clockwork Garden Gate at Dawn",
+  "description": "A giant brass garden gate with intricate gears opens into a glowing flower garden at dawn, surrounded by mist and butterflies.",
+  "prompt": "A single detailed image of a giant brass clockwork garden gate slowly opening at dawn. Intricate gears, vines, glowing flowers, mist, soft sunlight, butterflies, fantasy steampunk nature, warm metallic and green palette, no text, no logos, no watermark.",
+  "caption": "The garden is waiting behind the gears.",
   "hashtags": [
-    "#moonphase",
-    "#porcelain",
-    "#spaceexploration",
-    "#sciencelover"
+    "#aiart",
+    "#clockworkgarden",
+    "#steampunknature",
+    "#dawnlight",
+    "#fantasydesign",
+    "#aigenerated",
+    "#digitalart"
   ]
 }

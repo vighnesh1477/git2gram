@@ -1,13 +1,16 @@
 {
   "id": 19,
-  "name": "Glow Jungle",
-  "description": "A dense jungle at night where the leaves and vines glow with soft electric green light.",
-  "prompt": "A dense jungle at night where the leaves and vines glow with soft electric green light, mysterious atmosphere, deep shadows, bioluminescent plants, no text, no watermark",
-  "caption": "The jungle never truly sleeps. 🌿",
+  "name": "Sunken Glass Observatory with a Coral Chandelier",
+  "description": "An underwater glass observatory dome rests on the seabed, with a coral chandelier inside and light rays piercing through the water.",
+  "prompt": "A single underwater image of a sunken glass observatory dome on the seabed. A coral chandelier hangs inside, light rays pierce the water, small fish swim through, ancient-looking architecture, teal and gold palette, no text, no logos, no watermark.",
+  "caption": "The ocean has its own quiet observatories.",
   "hashtags": [
-    "#jungle",
-    "#bioluminescence",
-    "#nightwalk",
-    "#plantlover"
+    "#aiart",
+    "#underwaterarchitecture",
+    "#coralchandelier",
+    "#oceanfantasy",
+    "#glassdome",
+    "#aigenerated",
+    "#digitalart"
   ]
 }

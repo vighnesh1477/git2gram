@@ -1,13 +1,16 @@
 {
   "id": 22,
-  "name": "Living Frame Horizon",
-  "description": "A giant picture frame floating in a meadow with a living ocean scene inside.",
-  "prompt": "A giant ornate picture frame floating in a meadow, inside the frame is a living ocean scene with waves crashing, contrast between grass and sea, surreal, no text, no watermark",
-  "caption": "Stepping into a painting is possible. 🖼️",
+  "name": "Observation Deck in an Abandoned Ferris Wheel",
+  "description": "One cabin of an abandoned ferris wheel becomes a stargazing observation deck, with glass walls, cozy lights, and a star-filled sky.",
+  "prompt": "A single cinematic image of one abandoned ferris wheel cabin converted into a stargazing observation deck. Glass walls, cozy warm lights, small telescope, wooden floor, star-filled night sky, quiet abandoned amusement park, no people, no text, no logos, no watermark.",
+  "caption": "Even abandoned places can point you toward the stars.",
   "hashtags": [
-    "#framing",
-    "#surrealism",
-    "#seascape",
-    "#artistic"
+    "#aiart",
+    "#ferriswheel",
+    "#stargazing",
+    "#abandonedplace",
+    "#nightsky",
+    "#aigenerated",
+    "#digitalart"
   ]
 }

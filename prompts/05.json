@@ -1,13 +1,16 @@
 {
   "id": 5,
-  "name": "Bronze Leaf Forest",
-  "description": "A forest of trees with metallic bronze leaves slowly turning in the wind.",
-  "prompt": "A forest of trees with metallic bronze leaves slowly turning in the wind, autumn light, intricate metal texture, nature meets sculpture, wide angle, no text, no watermark",
-  "caption": "Autumn turned the leaves into gold leaf. 🍂",
+  "name": "Floating Bakery Above a Sea of Clouds",
+  "description": "A small floating bakery with hanging bread baskets and glowing windows drifts above an endless cloud sea at sunset.",
+  "prompt": "A single fantasy image of a small floating bakery suspended above an endless sea of clouds at sunset. Wooden balconies, hanging bread baskets, warm glowing windows, loaves and pastries on display, steam rising, golden-pink sky, soft pastel colors, whimsical, detailed, no text, no logos, no watermark.",
+  "caption": "The best bakery might be just above the clouds.",
   "hashtags": [
-    "#metallicnature",
-    "#bronzeart",
-    "#forestvibes",
-    "#sculpture"
+    "#aiart",
+    "#floatingbakery",
+    "#cloudsea",
+    "#fantasyfood",
+    "#whimsical",
+    "#digitalart",
+    "#aigenerated"
   ]
 }

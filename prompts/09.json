@@ -1,13 +1,16 @@
 {
   "id": 9,
-  "name": "Light Spiral Staircase",
-  "description": "A spiral staircase made of pure light leading upward into the sun.",
-  "prompt": "A spiral staircase made of pure light leading upward into a bright sun, steps glowing white, clouds below, impossible architecture, majestic, no text, no watermark",
-  "caption": "Up the stairs, higher than the clouds. ✨",
+  "name": "Harbor Moored With Cloud Boats",
+  "description": "A quiet harbor at dawn is filled with soft white cloud boats moored to stone piers, with sea mist and seagulls.",
+  "prompt": "A single serene image of a harbor at dawn where the moored boats are made of soft white clouds. Stone piers, calm water, faint sea mist, seagulls, pastel blue and gold sky, impossible but peaceful, hyper-detailed, no text, no logos, no watermark.",
+  "caption": "Some ships are made of morning.",
   "hashtags": [
-    "#lightart",
-    "#architecture",
-    "#impossiblearchitecture",
-    "#sunset"
+    "#aiart",
+    "#cloudboats",
+    "#harbor",
+    "#impossibleworld",
+    "#serene",
+    "#digitalart",
+    "#aigenerated"
   ]
 }

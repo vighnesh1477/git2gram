@@ -1,13 +1,16 @@
 {
   "id": 4,
-  "name": "Singing Stone Canyon",
-  "description": "Ancient stone columns emitting visible colored sound waves like ribbons.",
-  "prompt": "Ancient stone columns in a canyon, visible colored sound waves rippling out of them like ribbons, wind blowing, golden hour, surreal, no text, no watermark",
-  "caption": "Can you hear the music of the stones? 🎶",
+  "name": "Library of Sealed Time Capsules",
+  "description": "A warm old library filled with glass and brass time capsules, each holding a tiny miniature scene of a lost moment.",
+  "prompt": "A single cozy image of an old library with tall shelves filled with glass and brass time capsules. Each capsule contains a tiny miniature scene: a rainy street, a garden, a train station, a mountain path. Warm lamplight, dust motes, wooden floor, deep shadows, nostalgic, hyper-detailed, no people, no text, no logos, no watermark.",
+  "caption": "Which moment would you keep inside a capsule?",
   "hashtags": [
-    "#soundwaves",
-    "#surrealism",
-    "#canyons",
-    "#artoftheday"
+    "#aiart",
+    "#nostalgia",
+    "#timecapsule",
+    "#library",
+    "#miniatureworld",
+    "#visualstory",
+    "#aigenerated"
   ]
 }

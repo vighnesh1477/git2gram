@@ -1,13 +1,16 @@
 {
   "id": 11,
-  "name": "Turtle Shell Archipelago",
-  "description": "A giant sea turtle floating with a small village built on its shell.",
-  "prompt": "A giant sea turtle floating in the ocean with a small village of houses built on its shell, tiny people, bright blue water, fantasy map style, aerial view, no text, no watermark",
-  "caption": "Every home has a journey. 🐢",
+  "name": "Museum Where Shadows Become Animals",
+  "description": "A quiet museum room casts large animal shadows on the walls while the display cases contain only simple geometric objects.",
+  "prompt": "A single surreal museum interior with polished floors and display cases. Soft light projects large animal shadows on the walls—a deer, a whale, a bird, a fox—while the objects inside remain simple geometric forms. Mysterious, elegant, no people, no text, no logos, no watermark.",
+  "caption": "What if the shadows remembered what the objects forgot?",
   "hashtags": [
-    "#turtlevillage",
-    "#fantasyart",
-    "#oceanart",
-    "#islandlife"
+    "#aiart",
+    "#surrealmuseum",
+    "#shadows",
+    "#mystery",
+    "#visualconcept",
+    "#aigenerated",
+    "#digitalart"
   ]
 }

@@ -1,13 +1,16 @@
 {
   "id": 6,
-  "name": "Astronaut Star Fisher",
-  "description": "An astronaut casting a line into a nebula to catch a glowing star.",
-  "prompt": "An astronaut floating in a colorful nebula casting a fishing line with a glowing star caught on the hook, deep space background, vibrant purples and pinks, dreamlike, no text, no watermark",
-  "caption": "Catching a star is easier than you think. 🌠",
+  "name": "Moss Bridge Between Ancient Ruins",
+  "description": "An arched moss-covered stone bridge connects two weathered ruined towers in a misty forest, with sunbeams cutting through green canopy.",
+  "prompt": "A single atmospheric image of an ancient moss-covered stone bridge arching between two weathered ruined towers in a misty forest. Sunbeams cut through green canopy, ferns, small water drips, mysterious quiet mood, fantasy realism, cinematic, no text, no logos, no watermark.",
+  "caption": "Old places still keep the quietest secrets.",
   "hashtags": [
-    "#spaceart",
-    "#astronaut",
-    "#nebula",
-    "#dreamscape"
+    "#aiart",
+    "#ancientruins",
+    "#mossybridge",
+    "#mistyforest",
+    "#fantasyarchitecture",
+    "#aigenerated",
+    "#digitalart"
   ]
 }
