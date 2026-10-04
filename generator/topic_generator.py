@@ -1,75 +1,165 @@
-import requests
-import json
 import os
+import json
+import requests
 from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv()
 
+# ============================================================
+# CONFIGURATION
+# ============================================================
+
 API_KEY = os.getenv("OPENROUTER_API_KEY")
+
+MODEL = "openrouter/free"
 
 PROMPTS_DIR = Path("prompts")
 HISTORY_FILE = Path("topic_history.json")
 
-PROMPTS_DIR.mkdir(exist_ok=True)
+OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
-MODEL = "openrouter/free"
+TOTAL_TOPICS = 24
+MAX_HISTORY = 500
 
 
-SYSTEM_PROMPT = """
-You are the content strategist for an Instagram AI-art account called
-WonderCanvas.
+# ============================================================
+# VALIDATE API KEY
+# ============================================================
 
-Generate exactly 24 completely fresh image concepts for today's posts.
+if not API_KEY:
+    raise RuntimeError("OPENROUTER_API_KEY is missing.")
 
-The audience is GENERAL:
-- kids
+
+# ============================================================
+# LOAD TOPIC HISTORY
+# ============================================================
+
+def load_history():
+
+    if not HISTORY_FILE.exists():
+        return []
+
+    try:
+        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+            history = json.load(f)
+
+        if isinstance(history, list):
+            return history
+
+    except Exception:
+        print("Warning: Could not read topic_history.json.")
+
+    return []
+
+
+# ============================================================
+# SAVE TOPIC HISTORY
+# ============================================================
+
+def save_history(history):
+
+    history = history[-MAX_HISTORY:]
+
+    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(
+            history,
+            f,
+            indent=2,
+            ensure_ascii=False
+        )
+
+
+# ============================================================
+# CLEAN MODEL RESPONSE
+# ============================================================
+
+def clean_response(content):
+
+    content = content.strip()
+
+    # Remove markdown code fences if model adds them
+    if content.startswith("```"):
+        lines = content.splitlines()
+
+        if lines and lines[0].startswith("```"):
+            lines = lines[1:]
+
+        if lines and lines[-1].strip() == "```":
+            lines = lines[:-1]
+
+        content = "\n".join(lines).strip()
+
+    return content
+
+
+# ============================================================
+# REQUEST TOPICS FROM OPENROUTER
+# ============================================================
+
+def request_topics(history):
+
+    previous_topics = history[-200:]
+
+    history_text = json.dumps(
+        previous_topics,
+        ensure_ascii=False
+    )
+
+    system_prompt = """
+You are an expert AI content strategist creating concepts for a
+general-audience AI art Instagram account.
+
+Generate exactly 24 UNIQUE visual concepts.
+
+The audience includes:
+- children
 - teenagers
 - young adults
 - parents
 - adults
-- AI-art lovers
+- older people
 
-Do NOT make the account mainly children's content.
+The concepts should create strong curiosity, emotion, nostalgia,
+wonder, beauty, surprise, or a "wow" reaction.
 
-The concepts should have strong:
-- WOW effect
-- curiosity
-- emotional appeal
-- nostalgia
-- visual surprise
-- scroll-stopping potential
+IMPORTANT:
+- Every concept must work as a SINGLE AI-generated image.
+- Do not create stories requiring multiple images.
+- Do not depend on animation or video.
+- Do not use copyrighted characters.
+- Do not use real people's names.
+- Do not use political content.
+- Do not use disturbing/gory content.
+- Do not use sexual content.
+- Do not include text inside the generated image.
+- Do not include logos or watermarks.
+- Avoid repetitive ideas.
+- Prefer visually spectacular and highly shareable concepts.
+- Mix fantasy, nature, futuristic worlds, nostalgia, science,
+  architecture, animals, culture-inspired environments,
+  imaginative objects, emotional scenes, and impossible worlds.
+- Make every idea visually different.
 
-Think about current visual trends, popular aesthetics, internet culture,
-interesting science, fantasy, nature, futuristic concepts, surrealism,
-nostalgia and visually unusual ideas.
+Each topic MUST contain:
 
-Every concept must be suitable for ONE single Instagram image.
+id
+name
+description
+prompt
+caption
+hashtags
 
-Avoid:
-- repeated concepts
-- boring generic landscapes
-- text inside images
-- logos
-- watermarks
-- brand names
-- political content
-- sexual content
-- graphic gore
+The image prompt must be detailed enough for an image-generation
+model.
 
-For each topic generate:
+The caption should be engaging and suitable for Instagram.
 
-1. name
-2. description
-3. detailed image-generation prompt
-4. Instagram caption
-5. 6-12 hashtags
-
-Captions should create curiosity and encourage comments/shares.
+Hashtags must be an array of strings beginning with #.
 
 Return ONLY valid JSON.
 
-Required format:
+The JSON structure MUST be:
 
 {
   "topics": [
@@ -79,86 +169,62 @@ Required format:
       "description": "...",
       "prompt": "...",
       "caption": "...",
-      "hashtags": [
-        "#AIArt",
-        "#WonderCanvas"
-      ]
+      "hashtags": ["#...", "#..."]
     }
   ]
 }
+
+There must be exactly 24 objects in the topics array.
 """
 
 
-def load_history():
-    if not HISTORY_FILE.exists():
-        return []
-
-    try:
-        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return []
-
-
-def save_history(history):
-    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-        json.dump(history, f, indent=2, ensure_ascii=False)
-
-
-def generate_topics():
-
-    if not API_KEY:
-        raise RuntimeError(
-            "OPENROUTER_API_KEY is missing from .env"
-        )
-
-    history = load_history()
-
-    # Keep prompt size reasonable
-    previous_topics = history[-200:]
-
-    history_text = "\n".join(
-        f"- {topic}"
-        for topic in previous_topics
-    )
-
     user_prompt = f"""
-Generate today's 24 fresh WonderCanvas topics.
+Create 24 fresh topics.
 
-IMPORTANT:
-Do NOT repeat or closely recreate any previous topic.
+Previously used topic names are provided below.
+DO NOT repeat or closely copy them.
 
 Previous topics:
 {history_text}
 
-Make today's concepts substantially different.
-
-Return exactly 24 topics.
+Return ONLY valid JSON.
 """
+
+
+    payload = {
+        "model": MODEL,
+
+        "response_format": {
+            "type": "json_object"
+        },
+
+        "messages": [
+            {
+                "role": "system",
+                "content": system_prompt
+            },
+            {
+                "role": "user",
+                "content": user_prompt
+            }
+        ],
+
+        "temperature": 0.9,
+
+        "max_tokens": 12000
+    }
+
 
     headers = {
         "Authorization": f"Bearer {API_KEY}",
         "Content-Type": "application/json"
     }
 
-    payload = {
-        "model": MODEL,
-        "messages": [
-            {
-                "role": "system",
-                "content": SYSTEM_PROMPT
-            },
-            {
-                "role": "user",
-                "content": user_prompt
-            }
-        ]
-    }
 
-    print("Generating today's 24 topics...")
+    print("Sending request to OpenRouter...")
 
     response = requests.post(
-        "https://openrouter.ai/api/v1/chat/completions",
+        OPENROUTER_URL,
         headers=headers,
         json=payload,
         timeout=180
@@ -168,62 +234,252 @@ Return exactly 24 topics.
 
     if response.status_code != 200:
         print(response.text)
-        raise RuntimeError("OpenRouter request failed")
+        raise RuntimeError(
+            f"OpenRouter request failed: HTTP {response.status_code}"
+        )
+
 
     result = response.json()
 
-    content = result["choices"][0]["message"]["content"].strip()
 
-    # Remove markdown code fences if returned
-    if content.startswith("```"):
-        content = content.replace("```json", "")
-        content = content.replace("```", "")
-        content = content.strip()
-
-    data = json.loads(content)
-
-    topics = data["topics"]
-
-    if len(topics) != 24:
+    try:
+        content = result["choices"][0]["message"]["content"]
+    except (KeyError, IndexError, TypeError):
+        print(json.dumps(result, indent=2, ensure_ascii=False))
         raise RuntimeError(
-            f"Expected 24 topics, received {len(topics)}"
+            "Could not extract model response from OpenRouter."
         )
 
-    # Remove old unfinished queue
-    for file in PROMPTS_DIR.glob("*.json"):
-        file.unlink()
 
-    today_names = []
+    return clean_response(content)
 
-    for index, topic in enumerate(topics, start=1):
 
-        topic["id"] = index
+# ============================================================
+# PARSE JSON WITH RETRY
+# ============================================================
 
-        filename = PROMPTS_DIR / f"{index:02d}.json"
+def generate_topics():
 
-        with open(filename, "w", encoding="utf-8") as f:
-            json.dump(
-                topic,
-                f,
-                indent=2,
-                ensure_ascii=False
+    print("Generating today's 24 topics...")
+
+    history = load_history()
+
+    max_attempts = 3
+
+    for attempt in range(1, max_attempts + 1):
+
+        print(f"Attempt {attempt}/{max_attempts}")
+
+        try:
+
+            content = request_topics(history)
+
+            try:
+
+                data = json.loads(content)
+
+            except json.JSONDecodeError as e:
+
+                print("Invalid JSON received from OpenRouter.")
+                print("JSON error:", e)
+
+                print("\nResponse preview:")
+                print(content[:3000])
+
+                if attempt == max_attempts:
+                    raise RuntimeError(
+                        "OpenRouter repeatedly returned invalid JSON."
+                    )
+
+                continue
+
+
+            # =================================================
+            # VALIDATE STRUCTURE
+            # =================================================
+
+            if not isinstance(data, dict):
+                raise RuntimeError(
+                    "OpenRouter response is not a JSON object."
+                )
+
+
+            topics = data.get("topics")
+
+
+            if not isinstance(topics, list):
+                raise RuntimeError(
+                    "Response does not contain a 'topics' array."
+                )
+
+
+            if len(topics) != TOTAL_TOPICS:
+
+                print(
+                    f"Expected {TOTAL_TOPICS} topics, "
+                    f"but received {len(topics)}."
+                )
+
+                if attempt == max_attempts:
+                    raise RuntimeError(
+                        f"Expected {TOTAL_TOPICS} topics, "
+                        f"received {len(topics)}."
+                    )
+
+                continue
+
+
+            # =================================================
+            # VALIDATE EACH TOPIC
+            # =================================================
+
+            required_fields = [
+                "id",
+                "name",
+                "description",
+                "prompt",
+                "caption",
+                "hashtags"
+            ]
+
+
+            valid = True
+
+
+            for index, topic in enumerate(topics, start=1):
+
+                if not isinstance(topic, dict):
+
+                    print(
+                        f"Topic {index} is not an object."
+                    )
+
+                    valid = False
+                    break
+
+
+                for field in required_fields:
+
+                    if field not in topic:
+
+                        print(
+                            f"Topic {index} missing field: {field}"
+                        )
+
+                        valid = False
+                        break
+
+
+                if not valid:
+                    break
+
+
+                if not isinstance(topic["hashtags"], list):
+
+                    print(
+                        f"Topic {index} hashtags must be an array."
+                    )
+
+                    valid = False
+                    break
+
+
+            if not valid:
+
+                if attempt == max_attempts:
+                    raise RuntimeError(
+                        "Generated topics failed validation."
+                    )
+
+                continue
+
+
+            # =================================================
+            # REMOVE OLD JSON QUEUE
+            # =================================================
+
+            PROMPTS_DIR.mkdir(
+                parents=True,
+                exist_ok=True
             )
 
-        today_names.append(topic["name"])
 
-        print(f"Created: {filename}")
+            for old_file in PROMPTS_DIR.glob("*.json"):
 
-    # Add today's topics to history
-    history.extend(today_names)
+                old_file.unlink()
 
-    # Keep history manageable
-    history = history[-500:]
 
-    save_history(history)
+            # =================================================
+            # SAVE 24 JSON FILES
+            # =================================================
 
-    print()
-    print("Successfully created 24 JSON files.")
+            new_history = list(history)
 
+            for index, topic in enumerate(topics, start=1):
+
+                topic["id"] = index
+
+                filename = (
+                    PROMPTS_DIR /
+                    f"{index:02d}.json"
+                )
+
+
+                with open(
+                    filename,
+                    "w",
+                    encoding="utf-8"
+                ) as f:
+
+                    json.dump(
+                        topic,
+                        f,
+                        indent=2,
+                        ensure_ascii=False
+                    )
+
+
+                print(
+                    f"Created: {filename}"
+                )
+
+
+                new_history.append(
+                    topic["name"]
+                )
+
+
+            # =================================================
+            # SAVE HISTORY
+            # =================================================
+
+            save_history(new_history)
+
+
+            print()
+            print("=" * 60)
+            print("SUCCESS")
+            print(f"Created {TOTAL_TOPICS} topic JSON files.")
+            print("=" * 60)
+
+            return
+
+
+        except Exception as e:
+
+            print()
+            print("Generation attempt failed:")
+            print(str(e))
+            print()
+
+            if attempt == max_attempts:
+                raise
+
+
+# ============================================================
+# MAIN
+# ============================================================
 
 if __name__ == "__main__":
+
     generate_topics()
