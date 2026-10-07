@@ -1,17 +1,14 @@
 {
   "id": 23,
-  "name": "The Paper Lantern Hot Air Balloon",
-  "description": "A whimsical hot air balloon constructed from thousands of glowing paper lanterns floating peacefully over a mountainous landscape at sunset.",
-  "prompt": "A whimsical hot air balloon constructed from thousands of glowing paper lanterns, floating peacefully over a mountainous landscape at sunset, warm orange and pink sky, highly detailed, fantasy travel, 8k, magical and serene atmosphere.",
-  "caption": "Floating into the sunset on a thousand glowing wishes. 🏮🎈 What dreams are you carrying into the evening sky?",
+  "name": "Shell Spiral Lighthouse",
+  "description": "A tower of stacked seashells forming a spiral lighthouse, glowing from within.",
+  "prompt": "Tower built from countless iridescent seashells stacked in a spiral, lighthouse beacon glowing warmly from within, ocean waves below, sunrise, dreamy, detailed.",
+  "caption": "Guiding ships with a shell of light 🌊🦪✨",
   "hashtags": [
-    "#LanternBalloon",
-    "#SkyTravel",
-    "#WhimsicalArt",
-    "#AIArt",
-    "#SunsetFlight",
-    "#PaperLanterns",
-    "#FantasyAdventure",
-    "#Serene"
+    "#ShellLighthouse",
+    "#SpiralTower",
+    "#OceanGlow",
+    "#ShellBeacon",
+    "#MarineLight"
   ]
 }

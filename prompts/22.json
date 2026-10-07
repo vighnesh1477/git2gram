@@ -1,17 +1,14 @@
 {
   "id": 22,
-  "name": "The Cathedral of Light",
-  "description": "A majestic cathedral constructed from beams of pure light and crystal, with stained glass windows showing cosmic scenes, glowing with divine radiance.",
-  "prompt": "A majestic cathedral constructed from beams of pure light and crystal, towering spires, stained glass windows showing cosmic scenes, glowing with divine radiance, highly detailed, fantasy architecture, 8k, ethereal and grand atmosphere.",
-  "caption": "A sanctuary built from the stars themselves. ✨🏰 What celestial harmony fills this cathedral of light?",
+  "name": "Luminous Koi Reflection Pond",
+  "description": "A koi pond whose surface reflects a sky of swirling galaxies.",
+  "prompt": "Serene koi pond with shimmering koi fish, water reflecting a sky of swirling galaxies and nebulae, night sky deep blues, stars dotting, magical, hyperreal.",
+  "caption": "Your reflection meets the cosmos 🐟🌌",
   "hashtags": [
-    "#CathedralOfLight",
-    "#CosmicArchitecture",
-    "#AIArt",
-    "#FantasyArt",
-    "#DivineLight",
-    "#StainedGlass",
-    "#EpicScale",
-    "#Spiritual"
+    "#KoiCosmos",
+    "#GalaxyPond",
+    "#ReflectedStars",
+    "#FishSky",
+    "#AquaticUniverse"
   ]
 }

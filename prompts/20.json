@@ -1,17 +1,14 @@
 {
   "id": 20,
-  "name": "The Cloud Subway Station",
-  "description": "A vintage-style subway station built on a platform amidst soft, golden clouds, with a glowing train arriving from the horizon.",
-  "prompt": "A vintage-style subway station built on a platform amidst soft, golden clouds, a glowing train arriving from the horizon, warm golden hour light, surreal, highly detailed, fantasy architecture, 8k, dreamy atmosphere.",
-  "caption": "The next stop is the edge of the sky. 🚉☁️ Where will the cloud train take you today?",
+  "name": "Crystal Sphere Floating Greenhouse",
+  "description": "A floating greenhouse suspended from a massive crystal sphere, tended by robotic gardeners with petal hands.",
+  "prompt": "Floating greenhouse suspended from a gigantic crystal sphere, robots with flower-petal arms caring for delicate plants, glass walls reflecting sky, pastel clouds, magical, highly detailed.",
+  "caption": "Robots nurture a sky garden in glass 🌱🤖✨",
   "hashtags": [
-    "#CloudSubway",
-    "#SkyStation",
-    "#SurrealArt",
-    "#AIArt",
-    "#GoldenClouds",
-    "#FantasyTravel",
-    "#DreamyLandscape",
-    "#VintageVibes"
+    "#CrystalGreenhouse",
+    "#RoboticGardeners",
+    "#SkyFarm",
+    "#PetalsHands",
+    "#FloatingNature"
   ]
 }

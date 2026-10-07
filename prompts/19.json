@@ -1,17 +1,14 @@
 {
   "id": 19,
-  "name": "The Leaf Fox",
-  "description": "A beautiful, artistic depiction of a fox composed entirely of vibrant, falling autumn leaves, blending seamlessly into a golden forest background.",
-  "prompt": "A beautiful fox composed entirely of vibrant, falling autumn leaves in shades of red, orange, and gold, blending into a golden forest background, highly detailed, artistic, fantasy nature, 8k, warm and poetic atmosphere.",
-  "caption": "A creature of autumn, dancing in the golden wind. 🍂🦊 What stories do the falling leaves tell?",
+  "name": "Sands of a Living Book",
+  "description": "A giant sand dune shaped like an open book, with waves of liquid amber inside.",
+  "prompt": "Massive sand dune sculpted into an open ancient book, pages made of fine golden sand, inside swirling liquid amber like moving ink, vast desert horizon, epic, hyperdetailed.",
+  "caption": "Read the desert's own story 📖🏜️",
   "hashtags": [
-    "#LeafFox",
-    "#AutumnMagic",
-    "#FantasyCreature",
-    "#AIArt",
-    "#GoldenForest",
-    "#ArtisticNature",
-    "#PoeticArt",
-    "#SeasonalBeauty"
+    "#LivingBook",
+    "#SandPages",
+    "#AmberWaves",
+    "#DesertLiterature",
+    "#GoldenSands"
   ]
 }
