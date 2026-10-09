@@ -1,14 +1,17 @@
 {
   "id": 22,
-  "name": "Floating Library Powered by Windmill Wings",
-  "description": "A grand library whose reading rooms are lifted by colossal windmill wings, pages fluttering in the breeze.",
-  "prompt": "A massive floating library with giant windmill wings turning slowly, lifting reading halls filled with floating books, soft breezes, ultra detailed, 8K, cinematic",
-  "caption": "Let the wind turn the pages of knowledge. 📖💨",
+  "name": "The Cathedral of Glass and Light",
+  "description": "A majestic, towering cathedral constructed entirely of colorful stained glass and prisms, with brilliant beams of sunlight filtering through to create a spectacular light show.",
+  "prompt": "A majestic, towering cathedral constructed entirely of colorful, translucent stained glass and giant prisms. Brilliant beams of white sunlight filter through the walls, splitting into vibrant rainbows of light that fill the interior. The architecture is elegant, gothic, and futuristic, creating a breathtaking play of colors and light. Spiritual, beautiful, highly detailed.",
+  "caption": "A sanctuary built of light and color, where the sun paints a masterpiece every day. ✨🌈",
   "hashtags": [
-    "#WindmillLibrary",
-    "#FloatingKnowledge",
-    "#EcoFantasy",
+    "#CathedralOfLight",
+    "#StainedGlass",
+    "#PrismArt",
+    "#ColorfulArchitecture",
+    "#SacredSpace",
     "#AIArt",
-    "#SteampunkDreams"
+    "#BeautifulDesign",
+    "#LightShow"
   ]
 }
