@@ -1,17 +1,16 @@
 {
   "id": 22,
-  "name": "The Origami Mooncake Festival",
-  "description": "An autumn celebration where mooncakes are crafted from delicate origami paper in every color, floating above a traditional village as lanterns and paper cranes dance in the evening breeze.",
-  "prompt": "A beautiful autumn festival scene with dozens of round origami mooncakes in vibrant colors floating gently above a traditional Asian village, delicate paper cranes and silk lanterns dancing in the evening breeze, warm amber street lights and glowing windows illuminating the scene, families gathering below, autumn leaves floating in the air, highly detailed, festive and heartwarming atmosphere, cultural fantasy art",
-  "caption": "Celebrating with paper sweets under the harvest moon... 🥮🍂 What flavor would your folded treat be?",
+  "name": "The Jellyfish Hot Air Balloon Festival",
+  "description": "Hundreds of translucent jellyfish inflated as hot air balloons, floating above a coastal town, their tentacles trailing in the wind while their bell-shaped bodies glow with bioluminescent patterns.",
+  "prompt": "Hundreds of translucent jellyfish inflated as hot air balloons floating above coastal town, tentacles trailing gracefully in wind, bell-shaped bodies glowing with bioluminescent patterns, detailed marine creature textures, sunset lighting, fantasy coastal setting, ethereal atmosphere",
+  "caption": "When sea meets sky, magic takes flight. Watch the jellyfish dance on the evening breeze. 🪐🎈",
   "hashtags": [
-    "#OrigamiMooncakes",
-    "#AutumnFestival",
-    "#PaperDelicacies",
-    "#CulturalCelebration",
-    "#HarvestMoon",
-    "#TraditionalMagic",
-    "#FestiveAtmosphere",
-    "#AsianArt"
+    "#JellyfishBalloons",
+    "#BioluminescentSky",
+    "#CoastalMagic",
+    "#FloatingFestival",
+    "#SeaMeetsSky",
+    "#GlowingCreatures",
+    "#FantasyFlight"
   ]
 }
