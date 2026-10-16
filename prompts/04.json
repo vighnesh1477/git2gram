@@ -1,16 +1,17 @@
 {
   "id": 4,
-  "name": "The Clocktower of Reversed Time",
-  "description": "A grand Victorian-style clocktower where time flows backward, with gears spinning in reverse, autumn leaves rising from the ground back into trees, and people walking backwards through the cobblestone square.",
-  "prompt": "Elaborate Victorian clocktower with massive gears spinning backwards, autumn leaves ascending from cobblestone streets into golden trees, people walking backwards in period clothing, steampunk aesthetic, dramatic lighting, detailed mechanical elements, cinematic composition",
-  "caption": "What if yesterday was tomorrow? Step into a world where time takes a detour. ⏳",
+  "name": "The Clockmaker's Forgotten Workshop",
+  "description": "A cozy, cluttered workshop filled with hundreds of intricate brass clocks, all ticking in different rhythms, tended to by a small mechanical fox with glowing amber eyes.",
+  "prompt": "A warm, inviting, and highly detailed steampunk interior scene of a cluttered clockmaker's workshop. Wooden shelves line the walls, packed with hundreds of ornate brass and copper clocks of all shapes and sizes, each with intricate gears and Roman numerals. Gears, springs, and tiny tools are scattered across wooden workbenches. In the center of the room, a small, elegant mechanical fox made of polished brass sits beside a magnifying glass, its glowing amber eyes focused intently on a tiny timepiece. Warm light from oil lamps and glowing clock faces illuminates the dust motes in the air. Rich textures, warm tones, and a sense of nostalgic craftsmanship. Photorealistic digital painting.",
+  "caption": "Time waits for no one, but in this little workshop, it pauses to listen to the tick-tock tales of a mechanical friend. ⏰🦊",
   "hashtags": [
-    "#ReverseTime",
     "#SteampunkArt",
-    "#Clocktower",
-    "#TimeTravel",
-    "#VictorianEra",
-    "#MechanicalMarvels",
-    "#FantasyArchitecture"
+    "#Clockmaker",
+    "#MechanicalFox",
+    "#DigitalPainting",
+    "#VintageVibes",
+    "#BrassAndCopper",
+    "#Timepieces",
+    "#Nostalgia"
   ]
 }
