@@ -1,17 +1,14 @@
 {
   "id": 1,
-  "name": "Starlight Carousel Over the Ocean",
-  "description": "A magical carousel made of glowing starlight floats above a calm midnight ocean, each horse crafted from swirling galaxies and trailing stardust.",
-  "prompt": "A surreal, highly detailed fantasy scene of a grand carousel constructed entirely from luminous starlight and cosmic dust, hovering above a glassy midnight blue ocean under a star-filled sky. Each carousel horse is intricately formed from swirling galaxies, nebulae, and glowing constellations, with trails of sparkling stardust flowing behind them. The carousel platform glows softly with silver and gold light, surrounded by floating orbs of light. The reflection of the entire scene shimmers perfectly on the calm ocean surface below. Art style is hyper-realistic digital painting with soft lighting and dreamy atmosphere.",
-  "caption": "Sometimes magic doesn't need a circus—just an ocean, a sky full of stars, and a ride through the cosmos. ✨ What constellation would you ride? 🌌",
+  "name": "Aurora Ice Carousel",
+  "description": "A grand carousel made of glowing ice horse figures, rotating gently under the dancing colors of the aurora borealis, creating a mesmerizing spectacle of light and frost.",
+  "prompt": "A large ice carousel with horse-like figures made of translucent crystalline ice, their surfaces softly illuminated by vibrant aurora borealis curtains overhead, sparkling starlight reflecting off the surrounding snowy plain, hyperrealistic, cinematic lighting, ultra-detailed, fantasy illustration",
+  "caption": "Spin into the night! This ice carousel dances with the northern lights, turning frost into wonder. ❄️✨ #AuroraIceCarousel #WinterWonder #FantasyArt",
   "hashtags": [
+    "#AuroraIceCarousel",
+    "#WinterWonder",
     "#FantasyArt",
-    "#StarlightMagic",
-    "#CosmicDreams",
-    "#DigitalPainting",
-    "#WonderLust",
-    "#Dreamscape",
-    "#ArtisticVision",
-    "#MagicalMoments"
+    "#IceCarousel",
+    "#NorthernLights"
   ]
 }

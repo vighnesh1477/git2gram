@@ -1,17 +1,14 @@
 {
   "id": 11,
-  "name": "The Honeycomb Library of Dancing Light",
-  "description": "A vast library built inside a giant, natural honeycomb structure, where books are made of light and float gently, their contents dancing as patterns in the air.",
-  "prompt": "A mesmerizing and futuristic interior scene of a library built within an enormous, naturally formed honeycomb structure. The walls and ceiling consist of millions of hexagonal cells, glowing with a soft golden light. Instead of traditional books, glowing orbs of light containing swirling, readable text float gently between the cells, moving like fireflies. Each orb pulses with different colors—amber, white, soft blue—representing different genres or topics. Thin beams of light connect the orbs, forming a network of knowledge. The floor is reflective, mirroring the dance of light above. The atmosphere is quiet, mystical, and full of potential. Ultra-modern sci-fi aesthetic with volumetric lighting and a warm, inviting glow.",
-  "caption": "Knowledge isn't locked away here—it dances freely, a symphony of light for every seeker. What story catches your eye? 📖✨",
+  "name": "Floating Market of Jellyfish Lanterns",
+  "description": "A whimsical market on water where translucent jellyfish lanterns float, casting soft glows, vendors sell glowing fruits and starlight tea.",
+  "prompt": "A tranquil water surface hosting a floating market of bioluminescent jellyfish lanterns, their gentle glow illuminating stalls with glowing fruit, paper lanterns, and steaming tea, magical realism, night atmosphere, vivid colors",
+  "caption": "Drift through a night market where jellyfish become lanterns. Every purchase sparkles! 🐙💡 #JellyfishMarket #FloatingLanterns #NightBazaar",
   "hashtags": [
-    "#FutureLibrary",
-    "#Honeycomb",
-    "#LibraryArt",
-    "#SciFiInterior",
-    "#LightAndKnowledge",
-    "#DigitalArt",
-    "#ReadingNook",
-    "#BookLoversUnite"
+    "#JellyfishMarket",
+    "#FloatingLanterns",
+    "#NightBazaar",
+    "#BioluminescentMarket",
+    "#MagicalWater"
   ]
 }

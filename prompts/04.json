@@ -1,17 +1,14 @@
 {
   "id": 4,
-  "name": "The Clockmaker's Forgotten Workshop",
-  "description": "A cozy, cluttered workshop filled with hundreds of intricate brass clocks, all ticking in different rhythms, tended to by a small mechanical fox with glowing amber eyes.",
-  "prompt": "A warm, inviting, and highly detailed steampunk interior scene of a cluttered clockmaker's workshop. Wooden shelves line the walls, packed with hundreds of ornate brass and copper clocks of all shapes and sizes, each with intricate gears and Roman numerals. Gears, springs, and tiny tools are scattered across wooden workbenches. In the center of the room, a small, elegant mechanical fox made of polished brass sits beside a magnifying glass, its glowing amber eyes focused intently on a tiny timepiece. Warm light from oil lamps and glowing clock faces illuminates the dust motes in the air. Rich textures, warm tones, and a sense of nostalgic craftsmanship. Photorealistic digital painting.",
-  "caption": "Time waits for no one, but in this little workshop, it pauses to listen to the tick-tock tales of a mechanical friend. ⏰🦊",
+  "name": "Midnight Sunken Cathedral",
+  "description": "An underwater cathedral of dark marble and coral, its stained glass windows glowing with bioluminescent colors, surrounded by schools of luminous fish.",
+  "prompt": "A grand underwater cathedral with towering dark stone arches, intricate coral carvings, and stained glass panels radiating electric blue and violet light, fish swimming around, hyperrealistic, deep sea fantasy, volumetric lighting",
+  "caption": "Beneath the waves lies a cathedral of light. Come explore the silent splendor of the deep. 🌊✨ #MidnightCathedral #UnderwaterWonder #BioluminescentBeauty",
   "hashtags": [
-    "#SteampunkArt",
-    "#Clockmaker",
-    "#MechanicalFox",
-    "#DigitalPainting",
-    "#VintageVibes",
-    "#BrassAndCopper",
-    "#Timepieces",
-    "#Nostalgia"
+    "#MidnightCathedral",
+    "#UnderwaterWonder",
+    "#BioluminescentBeauty",
+    "#SunkenCathedral",
+    "#OceanFantasy"
   ]
 }

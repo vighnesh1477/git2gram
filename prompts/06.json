@@ -1,17 +1,14 @@
 {
   "id": 6,
-  "name": "The Cloud Sculptor's Masterpiece",
-  "description": "A lone figure stands atop a mountain, shaping massive, billowing clouds into incredible, ephemeral sculptures that drift across the sky like living art.",
-  "prompt": "A majestic and inspiring scene of a solitary figure standing on a rocky mountain peak at sunrise. Below them, a vast valley stretches out, and above, the sky is filled with enormous, billowing clouds sculpted into incredible forms—an enormous dragon made of mist, a castle floating on a cloud, a giant bird in flight. The clouds are soft and realistic, catching the golden-pink hues of dawn. The figure, dressed in flowing robes, waves a wooden staff, and more cloud shapes form from their movements. The atmosphere is one of pure creativity and awe. Highly detailed fantasy landscape with dramatic lighting and a sense of scale.",
-  "caption": "Every sunrise is a blank canvas, and the sky, the greatest sculptor's clay. What would you create from the clouds? ☁️🎨",
+  "name": "Starlight Bamboo Forest",
+  "description": "A bamboo grove glowing with tiny star-like specks along the stalks, moonlit night, with fireflies drifting among the luminous shoots.",
+  "prompt": "A bamboo forest at night, bamboo stalks emitting soft starlight from within, moonlight filtering through, fireflies floating between, magical realism, highly detailed, ethereal glow",
+  "caption": "Step into a forest where every shoot shines like a tiny star. Night magic awaits! 🌙🌿 #StarlightBamboo #MoonlitForest #NatureMagic",
   "hashtags": [
-    "#CloudArt",
-    "#FantasyLandscape",
-    "#DigitalPainting",
-    "#SkySculptor",
-    "#SunriseMagic",
-    "#Creativity",
-    "#MajesticViews",
-    "#ArtOfTheDay"
+    "#StarlightBamboo",
+    "#MoonlitForest",
+    "#NatureMagic",
+    "#LuminousBamboo",
+    "#ForestOfStars"
   ]
 }
