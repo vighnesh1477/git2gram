@@ -1,16 +1,15 @@
 {
   "id": 5,
-  "name": "Planet Dandelion Clock",
-  "description": "An enormous dandelion clock where each seed is a tiny glowing planet, floating in a twilight meadow with a small figure reaching up.",
-  "prompt": "A giant luminous dandelion seed head in a twilight meadow, each seed a tiny glowing planet with rings and continents, a small silhouetted figure reaching toward it, soft purple and orange sky, magical bokeh, ethereal lighting, wonder and curiosity, highly detailed, no text, no watermarks",
-  "caption": "Make a wish on a universe. 🌠🌱✨ Some dandelions don't scatter seeds—they scatter worlds.",
+  "name": "The Mechanical Garden of Tomorrow",
+  "description": "A futuristic greenhouse filled with mechanical flowers that bloom with digital petals and metallic leaves that shimmer with circuit patterns.",
+  "prompt": "A sleek futuristic greenhouse where mechanical flowers bloom with digital holographic petals in shifting neon colors. Metallic leaves etched with glowing circuit board patterns pulse with soft electric light. Robotic butterflies with LED wings flutter between chrome stems. Steam rises gently from polished copper bases. Clean white and silver architecture contrasts with vibrant digital flora. Cyberpunk meets nature, ultra-detailed, neon glow effects.",
+  "caption": "In tomorrow's garden, flowers bloom with code and petals made of light! 🌸⚙️",
   "hashtags": [
-    "#AIArt",
-    "#SurrealArt",
-    "#Dandelion",
-    "#Planets",
-    "#Twilight",
-    "#Wonder",
-    "#DigitalArt"
+    "#MechanicalGarden",
+    "#FutureFlora",
+    "#CyberNature",
+    "#DigitalArt",
+    "#TechGarden",
+    "#FuturisticDesign"
   ]
 }
