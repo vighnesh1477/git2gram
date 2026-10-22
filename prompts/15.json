@@ -1,15 +1,13 @@
 {
   "id": 15,
-  "name": "The Memory Keeper's Treehouse",
-  "description": "A massive treehouse built around an ancient tree whose bark displays flickering memories like fireflies - happy moments, adventures, and quiet reflections.",
-  "prompt": "A sprawling treehouse village nestled in the branches of a colossal ancient tree whose trunk is covered in bark that flickers with soft golden memory fragments like fireflies. Tiny windows glow with warm light where little figures can be seen living out cherished moments - birthday parties, first kisses, family gatherings. Rope bridges connect treehouses shaped like vintage cameras, music boxes, and storybooks. The tree's leaves shimmer with autumn gold and emerald green. Cozy fantasy atmosphere, nostalgic warmth, detailed rustic textures.",
-  "caption": "This tree remembers every smile, every tear, every moment worth keeping forever... 💛🏠",
+  "name": "The Time‑Woven Desert Garden",
+  "description": "A desert oasis where vines of living clocks entwine, each leaf showing a different hour, and sundials bloom into flowers that track the passage of time.",
+  "prompt": "A mesmerizing Time‑Woven Desert Garden: desert oasis surrounded by vines made of interlocking clocks, each leaf displaying a glowing hour, sundial flowers blooming and rotating with the sun, golden sand, soft warm lighting, ultra‑realistic, surreal desert.",
+  "caption": "Tend the Time‑Woven Desert Garden and watch hours blossom into petals⏳🌸.",
   "hashtags": [
-    "#MemoryTree",
-    "#TreehouseDreams",
-    "#NostalgicArt",
-    "#FireflyLights",
-    "#AncientWisdom",
-    "#CozyFantasy"
+    "#TimeGarden",
+    "#DesertOasis",
+    "#LivingClocks",
+    "#BloomingHours"
   ]
 }

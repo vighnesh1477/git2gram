@@ -1,15 +1,13 @@
 {
   "id": 7,
-  "name": "The Memory Carousel of Lost Toys",
-  "description": "A vintage carousel where each horse is carved from different types of wood, and as it spins, forgotten toys appear in the reflections of a magical mirror lake.",
-  "prompt": "An antique wooden carousel with hand-carved horses made from various exotic woods - mahogany, cherry, walnut. As it spins slowly, the reflection in a nearby mirror-smooth lake reveals forgotten childhood toys - tin robots, rag dolls, wooden trains - appearing and disappearing like memories. Golden carousel lights illuminate the scene in warm amber glow. Surrounding trees display vintage toy advertisements carved in bark. Nostalgic atmosphere, autumnal color palette, painterly realism.",
-  "caption": "Round and round we go - where lost toys find their way back home... 🪀🐴",
+  "name": "The Moonlit Glass Forest",
+  "description": "A forest of towering glass trees whose leaves are delicate mirrors, reflecting moonlight and creating a dazzling canopy of starlight; fireflies drift among the trunks.",
+  "prompt": "A serene Moonlit Glass Forest: towering translucent tree trunks with mirrored leaves reflecting soft moonlight, creating a shimmering canopy, fireflies floating gently between branches, gentle breezes rustling the glass, ethereal atmosphere, ultra‑realistic rendering, fantasy woodland.",
+  "caption": "Walk beneath a canopy of glass that mirrors the moon—each step reveals a new galaxy of light 🌙🌳.",
   "hashtags": [
-    "#MemoryCarousel",
-    "#LostToys",
-    "#NostalgiaArt",
-    "#VintageCarousel",
-    "#ChildhoodMemories",
-    "#WoodenHorses"
+    "#GlassForest",
+    "#MoonlitMirrors",
+    "#EtherealWoods",
+    "#StarlightCanopy"
   ]
 }

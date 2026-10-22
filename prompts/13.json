@@ -1,15 +1,13 @@
 {
   "id": 13,
-  "name": "The Starlight Piano Staircase",
-  "description": "A grand piano staircase made of crystallized starlight where each step plays a different musical note, leading to a observatory dome filled with swirling constellations.",
-  "prompt": "An elegant staircase crafted from crystallized starlight ascending towards a magnificent glass observatory dome. Each marble-like step glows with different constellation patterns and emits a soft musical chime when stepped upon. The railing is formed from twisted comet tails that shimmer with stardust. At the top, the observatory reveals a rotating celestial sphere filled with recognizable constellations connected by beams of pure light. Midnight blue and silver palette, ethereal glow, architectural fantasy.",
-  "caption": "Take the stairs - each step composes a symphony written in starlight... 🎹🌟",
+  "name": "The Suspended Waterfall Library",
+  "description": "A library built into a cascading waterfall, with shelves carved into stone, books floating on the water currents, and light refracting through mist.",
+  "prompt": "A Suspended Waterfall Library: stone shelves carved into the side of a cascading waterfall, floating books drifting on water streams, mist diffusing golden sunlight, reflections on water, photorealistic, magical realism.",
+  "caption": "Read where the water reads too—the Suspended Waterfall Library whispers stories in every droplet 💧📚.",
   "hashtags": [
-    "#StarlightStairs",
-    "#MusicalArchitecture",
-    "#ObservatoryDreams",
-    "#CrystalMusic",
-    "#CelestialDesign",
-    "#LightFantasy"
+    "#WaterfallLibrary",
+    "#FloatingBooks",
+    "#MistAndPages",
+    "#CascadeRead"
   ]
 }

@@ -1,15 +1,13 @@
 {
   "id": 2,
-  "name": "The Bubble Tea Galaxy",
-  "description": "A swirling galaxy made entirely of bubble tea with tapioca pearls as stars and milky way streams flowing through cosmic space.",
-  "prompt": "A whimsical galaxy formed from swirling bubble tea, with tapioca pearls glowing like stars and spiral arms of creamy milk forming nebulae. Floating boba spheres drift through space, leaving trails of sweetness. Colorful straws twist like comets across a pastel cosmic backdrop. Ultra-vibrant colors, surreal space fantasy, high detail, dreamlike atmosphere.",
-  "caption": "One sip and you're floating through the Milky Way... literally! 🧋🌌",
+  "name": "The Clockwork Orchid Garden",
+  "description": "A surreal garden where clock gears and cogs bloom into delicate orchids, each petal moving with tiny synchronized ticks, surrounded by misty sunrise and dewdrops that catch the light.",
+  "prompt": "A surreal Clockwork Orchid Garden: intricate brass gears and springs forming delicate orchid blossoms, each petal moving with subtle mechanical ticking, surrounding misty morning atmosphere, droplets of dew shimmering on metallic petals, soft golden sunrise filtering through, hyperrealistic detail, fantasy art style.",
+  "caption": "Watch time bloom into beauty—the Clockwork Orchid Garden whispers the melody of moments in flower form 🌸⏰.",
   "hashtags": [
-    "#BubbleTeaGalaxy",
-    "#SpaceArt",
-    "#SurrealDigitalArt",
-    "#CuteSpace",
-    "#BobaStars",
-    "#GalaxyLove"
+    "#ClockworkNature",
+    "#SurrealGarden",
+    "#MechanicalBloom",
+    "#TimeFlower"
   ]
 }

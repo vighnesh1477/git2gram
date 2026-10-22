@@ -1,15 +1,13 @@
 {
   "id": 12,
-  "name": "The Candyfloss Cloud Factory",
-  "description": "A whimsical factory perched on cotton candy clouds where machines spin sugar into perfect pink clouds and lollipops rain from candy cane smokestacks.",
-  "prompt": "A delightful candy factory built on fluffy pink cotton candy clouds, complete with twisting candy cane smokestacks that puff rainbow steam. Mechanical arms spin liquid sugar into perfect fluffy clouds while conveyor belts carry oversized lollipops and jelly bean cargo. Gumdrop buttons sparkle in the sunlight filtering through the sugary atmosphere. Workers made of marzipan operate sweetness-producing machinery. Bright pastel colors, whimsical industrial fantasy, cartoonish details with realistic textures.",
-  "caption": "Warning: This factory manufactures pure joy and sugar-coated dreams! 🍭🏭",
+  "name": "The Gilded Spiral Snail House",
+  "description": "A whimsical snail's home shaped like a golden spiral shell, adorned with tiny lanterns, perched on a luminescent mushroom forest floor, leaving trails of sparkle.",
+  "prompt": "A whimsical Gilded Spiral Snail House: a golden spiral shell home decorated with tiny glowing lanterns, perched atop a luminous mushroom forest floor, sparkling dust and trails of iridescent slime, soft ambient glow, fantasy illustration, warm color palette.",
+  "caption": "Even the smallest creatures dwell in grandeur—the Gilded Spiral Snail House shines like a jewel in the forest 🌟🐌.",
   "hashtags": [
-    "#CandyFactory",
-    "#CloudMachines",
-    "#SweetDreams",
-    "#WhimsicalIndustrial",
-    "#PinkClouds",
-    "#FantasyManufacturing"
+    "#SnailHome",
+    "#GoldenShell",
+    "#MushroomForest",
+    "#MiniatureMagic"
   ]
 }

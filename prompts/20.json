@@ -1,15 +1,13 @@
 {
   "id": 20,
-  "name": "The Dandelion Clock dimension",
-  "description": "A realm where time is measured by dandelion clocks - each puff releases a different era, from prehistoric times to far-future worlds.",
-  "prompt": "A surreal landscape where enormous dandelion clocks serve as timekeepers, each massive seed head containing swirling galaxies of specific historical eras. When puffs are released, they transport viewers to different timelines - dinosaurs roaming primordial forests, medieval knights jousting, steampunk cities with airships, and futuristic space colonies among the stars. The seeds themselves are tiny planets orbiting the central clock structure. Soft pastel colors blend with dramatic temporal shifts, fantasy science concept art.",
-  "caption": "Blow gently and travel through time - one puff equals infinite possibilities... ⏰🌼",
+  "name": "The Neon Coral Reef",
+  "description": "An underwater city of neon‑lit coral structures, fish swim through glowing arches, and bioluminescent waves create an electric underwater ballet.",
+  "prompt": "A vibrant Neon Coral Reef: towering coral formations bathed in neon blues and purples, schools of glowing fish dart through archways, bioluminescent waves creating electric ripples, deep ocean backdrop, hyperrealistic, cyber‑nature scene.",
+  "caption": "Dive into the Neon Coral Reef—where nature electrifies the ocean depths in a symphony of color 🔵⚡️.",
   "hashtags": [
-    "#DandelionTime",
-    "#TemporalTravel",
-    "#TimePuff",
-    "#EraExploration",
-    "#FantasyScience",
-    "#SeedPortals"
+    "#NeonReef",
+    "#UnderwaterNeon",
+    "#CoralLights",
+    "#ElectricOcean"
   ]
 }

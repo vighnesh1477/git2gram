@@ -1,15 +1,13 @@
 {
   "id": 16,
-  "name": "The Crystal Geode Amusement Park",
-  "description": "An entire amusement park carved from giant crystal geodes, where rides are made of prismatic stone and attractions reflect rainbows across the landscape.",
-  "prompt": "A fantastical amusement park built entirely from massive crystal geodes split open to reveal sparkling interiors. Roller coasters snake through prismatic tunnels, carousels are crafted from polished amethyst centers, and Ferris wheels are constructed from interlocking quartz segments that cast rainbow reflections everywhere. Visitors made of light ride attractions that shimmer with internal luminescence. The entire scene bursts with kaleidoscopic colors under a sunset sky. Whimsical fantasy, geological beauty, ultra-detailed mineral textures.",
-  "caption": "Step right up! Where every ride is a gem and every turn reveals a new spectrum of wonder! 💎🎡",
+  "name": "The Glass Mushroom City",
+  "description": "A sprawling metropolis built from bioluminescent glass mushrooms, each cap houses a tiny glowing window, streets of crystal pathways, floating lanterns drift overhead.",
+  "prompt": "A surreal Glass Mushroom City: towering glass mushrooms forming buildings, each cap containing glowing windows, crystal walkways connecting structures, floating lanterns drifting along streets, night sky deep blue, hyperrealistic, fantastical urban landscape.",
+  "caption": "Welcome to the Glass Mushroom City—where even the smallest dwellings shine with city‑wide brilliance 🌌🏢.",
   "hashtags": [
-    "#GeodePark",
-    "#CrystalRides",
-    "#AmusementFantasy",
-    "#PrismaticPlay",
-    "#GemstoneWonderland",
-    "#RainbowFun"
+    "#GlassMushroom",
+    "#FantasyCity",
+    "#BioluminescentArchitecture",
+    "#CityOfLight"
   ]
 }

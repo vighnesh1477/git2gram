@@ -1,15 +1,13 @@
 {
   "id": 11,
-  "name": "The Sundial of Shifting Seasons",
-  "description": "An enormous stone sundial in a mystical clearing where each hour represents a different season, with spring flowers blooming and autumn leaves falling simultaneously.",
-  "prompt": "A massive ancient stone sundial standing in a circular clearing where time flows differently. At the center, a crystalline gnomon casts shadows that shift through all four seasons simultaneously - spring blossoms bloom at dawn positions, summer warmth radiates midday, autumn leaves fall in afternoon light, winter frost sparkles at dusk. Around the dial, seasonal plants grow in harmony - cherry trees next to pine, sunflowers beside snowdrops. Ethereal lighting, magical realism, detailed botanical illustration style.",
-  "caption": "Time doesn't move in straight lines here - it spirals through seasons in a single day. ⏳🌸",
+  "name": "The Antikythera Sky Map",
+  "description": "An ancient celestial map projected onto a mountain plateau, its stone carvings glow with constellations, and a mechanical sun circles above, casting dynamic shadows.",
+  "prompt": "An ancient Antikythera Sky Map carved into a massive mountain plateau: stone reliefs of constellations glowing with soft blue light, a mechanical sun orbiting above, casting shifting shadows across the landscape, dramatic lighting, ultra‑detailed, epic fantasy terrain.",
+  "caption": "Explore the Antikythera Sky Map—where stone and mechanism unite to chart the heavens ✨⭐.",
   "hashtags": [
-    "#ShiftingSeasons",
-    "#MysticalSundial",
-    "#TimeArt",
-    "#SeasonalMagic",
-    "#FantasyLandscapes",
-    "#AncientWonders"
+    "#SkyMap",
+    "#AncientAstronomy",
+    "#CelestialCarvings",
+    "#MechanicSky"
   ]
 }

@@ -1,15 +1,13 @@
 {
   "id": 22,
-  "name": "The Marshmallow Moon Market",
-  "description": "A bustling night market on a moon made entirely of soft marshmallow, where vendors sell cloud candy and star-shaped pastries.",
-  "prompt": "A whimsical night market set on a moon sculpted entirely from fluffy white marshmallow, with buildings constructed from gingerbread and candy cane posts. Vendors in striped aprons sell cloud-shaped cotton candy, star-shaped moon pies, and caramel-dipped meteorites to customers who are friendly aliens and humans alike. Glowing jellyfish lanterns provide soft illumination while floating platforms carry shoppers between stalls. The surface of the moon shows bite marks and sugary crumbles. Warm golden lighting, cozy fantasy atmosphere, detailed confectionery architecture.",
-  "caption": "Sweet treats from across the galaxy - all hand-made with moon dust and stardust! 🍡🌙",
+  "name": "The Mosaic Cloud Palace",
+  "description": "A palace constructed from floating colored clouds shaped into arches and towers, each cloud contains tiny golden windows that emit soft light at dusk.",
+  "prompt": "A breathtaking Mosaic Cloud Palace: floating clouds molded into architectural forms, each cloud containing golden windows that glow at dusk, pastel sky backdrop, dynamic composition, luminous, fantasy scenery.",
+  "caption": "Step into the Mosaic Cloud Palace—where the very sky forms a home of light and color ☁️🏰.",
   "hashtags": [
-    "#MarshmallowMoon",
-    "#CandyMarket",
-    "#GalacticTreats",
-    "#SpaceConfectionery",
-    "#SweetVoyage",
-    "#AlienCuisine"
+    "#CloudPalace",
+    "#MosaicSky",
+    "#FloatingArchitecture",
+    "#DuskGlow"
   ]
 }

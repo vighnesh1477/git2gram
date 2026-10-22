@@ -1,15 +1,13 @@
 {
   "id": 5,
-  "name": "The Mechanical Garden of Tomorrow",
-  "description": "A futuristic greenhouse filled with mechanical flowers that bloom with digital petals and metallic leaves that shimmer with circuit patterns.",
-  "prompt": "A sleek futuristic greenhouse where mechanical flowers bloom with digital holographic petals in shifting neon colors. Metallic leaves etched with glowing circuit board patterns pulse with soft electric light. Robotic butterflies with LED wings flutter between chrome stems. Steam rises gently from polished copper bases. Clean white and silver architecture contrasts with vibrant digital flora. Cyberpunk meets nature, ultra-detailed, neon glow effects.",
-  "caption": "In tomorrow's garden, flowers bloom with code and petals made of light! 🌸⚙️",
+  "name": "The Living Rainbow Bridge",
+  "description": "A breathtaking bridge composed of interlocking crystal steps that emit a continuous spectrum of colors, spanning a glowing canyon where luminous flora and fauna celebrate with light.",
+  "prompt": "A magnificent Living Rainbow Bridge made of iridescent crystal steps that pulse with vivid colors, spanning a luminous canyon filled with bioluminescent flora and fauna, soft ambient lighting, dynamic reflection on water below, ultra‑detailed, fantasy landscape art.",
+  "caption": "Step onto the Living Rainbow Bridge and walk through a cascade of colors—where every footfall paints a new hue 🌈🚶.",
   "hashtags": [
-    "#MechanicalGarden",
-    "#FutureFlora",
-    "#CyberNature",
-    "#DigitalArt",
-    "#TechGarden",
-    "#FuturisticDesign"
+    "#RainbowBridge",
+    "#LivingColors",
+    "#BioluminescentCanyon",
+    "#FantasyArchitecture"
   ]
 }

@@ -1,15 +1,13 @@
 {
   "id": 14,
-  "name": "The Butterfly Effect Garden",
-  "description": "A garden where every butterfly's wingbeat causes colorful ripples in reality, changing the colors of flowers and the patterns in the sky.",
-  "prompt": "An enchanted garden where dozens of iridescent butterflies flutter through air thick with visible color waves. Each delicate wingbeat sends ripples of vibrant energy that transform nearby flowers - roses shift from red to blue, sunflowers brighten to gold, tulips pulse with electric patterns. The butterflies' paths create temporary art in the sky, painting swirling designs that fade like smoke rings. Lush vegetation frames the magical chaos with hyper-realistic detail. Bright saturated colors, kinetic energy visualization, fantasy botanical art.",
-  "caption": "Every flutter changes everything - welcome to the garden where butterflies paint reality itself! 🦋🎨",
+  "name": "The Bioluminescent Bird Market",
+  "description": "A night market in an enchanted forest where birds made of glowing feathers perch on stalls, selling radiant feathers, songs, and starlight.",
+  "prompt": "A vibrant Bioluminescent Bird Market: birds with iridescent glowing feathers perched on wooden stalls, vendors offering radiant plumage and singing melodies, firefly lights hanging above, dense forest backdrop, dynamic composition, fantasy night scene.",
+  "caption": "Trade in songs and starlight at the Bioluminescent Bird Market—where every feather shines with its own story 🐦✨.",
   "hashtags": [
-    "#ButterflyEffect",
-    "#ColorGarden",
-    "#MagicalNature",
-    "#RealityRipples",
-    "#KineticArt",
-    "#EnchantedFlowers"
+    "#BirdMarket",
+    "#Bioluminescent",
+    "#FeatherTrade",
+    "#NightForestBazaar"
   ]
 }

@@ -1,15 +1,13 @@
 {
   "id": 3,
-  "name": "The Library of Echoing Shadows",
-  "description": "A vast library where shadows cast by books come alive and tell stories, creating silhouettes that dance along the walls.",
-  "prompt": "An infinite library with towering bookshelves stretching into darkness. Each book casts a shadow that moves independently, telling its own story through elegant silhouette animations on parchment-colored walls. Warm golden lamp light illuminates floating dust motes. Deep mahogany shelves contrast with ethereal blue shadows. Dramatic chiaroscuro lighting, mysterious atmosphere, ultra-realistic textures.",
-  "caption": "Every book here tells two stories - the one inside...and the shadow that dances outside. 📚🌑",
+  "name": "The Floating Lantern Bazaar",
+  "description": "A bustling market suspended among clouds, stalls made of translucent glass shelves hold glowing lanterns that drift gently, merchants trade in shards of starlight and rainbow-colored fabrics.",
+  "prompt": "A vibrant Floating Lantern Bazaar in the sky: translucent glass market stalls laden with floating lanterns emitting warm amber light, merchants wearing flowing robes exchange bundles of starlight and rainbow silk, clouds below create a soft backdrop, dynamic composition, luminous colors, magical realism style.",
+  "caption": "Rise above the ordinary and wander the Floating Lantern Bazaar—where every stall sparkles with sky‑borne treasures ✨.",
   "hashtags": [
-    "#LibraryOfShadows",
-    "#BookLovers",
-    "#MysteriousArt",
-    "#ShadowStories",
-    "#FantasyLibrary",
-    "#DarkAcademia"
+    "#SkyBazaar",
+    "#FloatingMarket",
+    "#LanternLights",
+    "#CloudCommerce"
   ]
 }

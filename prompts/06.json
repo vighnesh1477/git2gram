@@ -1,15 +1,13 @@
 {
   "id": 6,
-  "name": "The Cloud Baker's Workshop",
-  "description": "A whimsical kitchen floating in the clouds where a friendly cloud-baker kneads dough made of cotton candy and bakes cookies that taste like sunshine.",
-  "prompt": "A charming cloud-shaped kitchen suspended in a pastel sky, complete with candy cane railings and frosting-covered walls. A jolly cloud-baker with flour-dusted cheeks kneads dough made of pink cotton candy while baking cookies that glow with golden sunshine hues. Marshmallow clouds puff around wooden mixing bowls filled with rainbow sprinkles. Soft morning light bathes everything in warm peach tones. Storybook illustration style, cozy fantasy, soft focus.",
-  "caption": "Fresh from the oven - cookies baked with sunshine and sprinkled with stardust! ☁️🍪",
+  "name": "The Gilded Clockwork Bazaar",
+  "description": "A bustling market where clockwork automata sell golden brass contraptions, ornate gears serve as stall awnings, and the air hums with melodic ticking.",
+  "prompt": "A vibrant Gilded Clockwork Bazaar: stalls adorned with ornate brass clock gears and cogs, automata vendors offering gleaming mechanical trinkets, warm golden sunlight glinting off polished metal, bustling crowd of whimsical creatures, dynamic composition, hyperrealistic, steampunk fantasy style.",
+  "caption": "Trade in time‑crafted wonders at the Gilded Clockwork Bazaar—where every tick holds treasure ⏱️✨.",
   "hashtags": [
-    "#CloudBaker",
-    "#FantasyCooking",
-    "#WhimsicalArt",
-    "#CookieMagic",
-    "#CloudKitchen",
-    "#SweetDreams"
+    "#ClockworkMarket",
+    "#SteampunkBazaar",
+    "#GildedGears",
+    "#MechanizedMarts"
   ]
 }

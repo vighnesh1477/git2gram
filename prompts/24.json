@@ -1,15 +1,13 @@
 {
   "id": 24,
-  "name": "The Clockwork Garden of Metamorphosis",
-  "description": "A garden where mechanical flowers bloom and transform into living butterflies, powered by intricate clockwork mechanisms and steam-powered beauty.",
-  "prompt": "An intricate steampunk garden where ornate brass flowers with clockwork centers slowly bloom, releasing delicate mechanical butterflies with copper wings and gemstone bodies. Steam vents release gentle puffs of vapor that catch the sunlight filtering through glass ceiling panels. Gears of various sizes turn silently within the flower stems, powering the transformation process. Ruby and sapphire dewdrops form on metallic petals while moss grows between copper pipes. Warm golden brass tones mixed with cool garden greens, industrial fantasy aesthetic, hyper-detailed machinery.",
-  "caption": "Where innovation meets nature - beauty born from brass, steam, and endless possibility... ⚙️🦋",
+  "name": "The Ethereal Balloon Gardens",
+  "description": "Floating gardens suspended from giant balloon vines, each balloon decorated with blooming flower clusters that drift lazily over a valley of pastel hills.",
+  "prompt": "A whimsical Ethereal Balloon Gardens: gardens suspended from giant balloon vines, each balloon adorned with vibrant flower clusters, drifting gently over pastel hills, soft sunrise light, dynamic composition, fantasy illustration.",
+  "caption": "Float among the Ethereal Balloon Gardens—where gardens drift like clouds and blooms kiss the sky 🌿☁️.",
   "hashtags": [
-    "#ClockworkGarden",
-    "#MechanicalMetamorphosis",
-    "#SteampunkNature",
-    "#BrassBeauty",
-    "#TransformationArt",
-    "#IndustrialFantasy"
+    "#BalloonGardens",
+    "#FloatingFlora",
+    "#DreamyValleys",
+    "#SkyGarden"
   ]
 }
