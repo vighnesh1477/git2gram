@@ -1,13 +1,17 @@
 {
   "id": 12,
-  "name": "The Gilded Spiral Snail House",
-  "description": "A whimsical snail's home shaped like a golden spiral shell, adorned with tiny lanterns, perched on a luminescent mushroom forest floor, leaving trails of sparkle.",
-  "prompt": "A whimsical Gilded Spiral Snail House: a golden spiral shell home decorated with tiny glowing lanterns, perched atop a luminous mushroom forest floor, sparkling dust and trails of iridescent slime, soft ambient glow, fantasy illustration, warm color palette.",
-  "caption": "Even the smallest creatures dwell in grandeur—the Gilded Spiral Snail House shines like a jewel in the forest 🌟🐌.",
+  "name": "The Floating Market of Holographic Fruit",
+  "description": "A bustling market on a calm lake where vendors sell impossible fruits that project holographic illusions of their flavors - rainbow watermelons, crystal apples, and singing oranges.",
+  "prompt": "bustling floating market on calm lake, vendors selling impossible holographic fruits that project flavor illusions, rainbow watermelons, crystal apples, singing oranges, colorful boats and stalls, magical marketplace atmosphere, detailed fruit designs, warm lighting",
+  "caption": "Taste the rainbow without leaving your seat 🍎🍊✨ What flavor calls to your imagination?",
   "hashtags": [
-    "#SnailHome",
-    "#GoldenShell",
-    "#MushroomForest",
-    "#MiniatureMagic"
+    "#FloatingMarket",
+    "#HolographicFruit",
+    "#MagicalMarket",
+    "#ImpossibleFood",
+    "#RainbowProduce",
+    "#MarketLife",
+    "#FantasyShopping",
+    "#TasteTheRainbow"
   ]
 }

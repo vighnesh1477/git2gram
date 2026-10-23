@@ -1,13 +1,17 @@
 {
   "id": 22,
-  "name": "The Mosaic Cloud Palace",
-  "description": "A palace constructed from floating colored clouds shaped into arches and towers, each cloud contains tiny golden windows that emit soft light at dusk.",
-  "prompt": "A breathtaking Mosaic Cloud Palace: floating clouds molded into architectural forms, each cloud containing golden windows that glow at dusk, pastel sky backdrop, dynamic composition, luminous, fantasy scenery.",
-  "caption": "Step into the Mosaic Cloud Palace—where the very sky forms a home of light and color ☁️🏰.",
+  "name": "The Obsidian Orb Ship Docked at a Cloud Harbor",
+  "description": "A sleek black ship made of polished obsidian orbs rests at a harbor built on clouds, with glowing runes along its hull and misty water below.",
+  "prompt": "sleek black ship made of polished obsidian orbs docked at cloud harbor, glowing runes along hull, misty ethereal water below, dramatic lighting with stormy sky background, highly detailed metallic and glass textures, fantasy maritime setting, cinematic composition",
+  "caption": "Where shadow meets sky, adventures await ⚓🌑 What mysteries lie beyond the horizon of clouds?",
   "hashtags": [
-    "#CloudPalace",
-    "#MosaicSky",
-    "#FloatingArchitecture",
-    "#DuskGlow"
+    "#ObsidianShip",
+    "#CloudHarbor",
+    "#DarkVessels",
+    "#MysticMaritime",
+    "#StormySeas",
+    "#FantasyNavy",
+    "#GlowingRunes",
+    "#EpicVoyage"
   ]
 }

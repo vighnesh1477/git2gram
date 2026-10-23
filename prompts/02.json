@@ -1,13 +1,17 @@
 {
   "id": 2,
-  "name": "The Clockwork Orchid Garden",
-  "description": "A surreal garden where clock gears and cogs bloom into delicate orchids, each petal moving with tiny synchronized ticks, surrounded by misty sunrise and dewdrops that catch the light.",
-  "prompt": "A surreal Clockwork Orchid Garden: intricate brass gears and springs forming delicate orchid blossoms, each petal moving with subtle mechanical ticking, surrounding misty morning atmosphere, droplets of dew shimmering on metallic petals, soft golden sunrise filtering through, hyperrealistic detail, fantasy art style.",
-  "caption": "Watch time bloom into beauty—the Clockwork Orchid Garden whispers the melody of moments in flower form 🌸⏰.",
+  "name": "The Floating Tea Garden of Drifting Petals",
+  "description": "A serene garden suspended on giant lotus leaves drifting across a calm sea of clouds, with cherry blossom petals floating around traditional tea pavilions.",
+  "prompt": "serene garden on giant lotus leaves floating on cloud sea, traditional Japanese tea pavilions with paper lanterns, cherry blossom petals drifting in the air, soft pastel colors, peaceful atmosphere, magical realism, ultra-detailed, cinematic lighting",
+  "caption": "Sip tea while floating between heaven and earth 🍵 Where would your leaf take you today?",
   "hashtags": [
-    "#ClockworkNature",
-    "#SurrealGarden",
-    "#MechanicalBloom",
-    "#TimeFlower"
+    "#FloatingGarden",
+    "#TeaTimeMagic",
+    "#CherryBlossoms",
+    "#CloudGarden",
+    "#PeacefulMoments",
+    "#JapaneseGarden",
+    "#MagicalRealism",
+    "#SerenityNow"
   ]
 }

@@ -1,13 +1,17 @@
 {
   "id": 3,
-  "name": "The Floating Lantern Bazaar",
-  "description": "A bustling market suspended among clouds, stalls made of translucent glass shelves hold glowing lanterns that drift gently, merchants trade in shards of starlight and rainbow-colored fabrics.",
-  "prompt": "A vibrant Floating Lantern Bazaar in the sky: translucent glass market stalls laden with floating lanterns emitting warm amber light, merchants wearing flowing robes exchange bundles of starlight and rainbow silk, clouds below create a soft backdrop, dynamic composition, luminous colors, magical realism style.",
-  "caption": "Rise above the ordinary and wander the Floating Lantern Bazaar—where every stall sparkles with sky‑borne treasures ✨.",
+  "name": "The Clockwork Aviary of Mechanical Songbirds",
+  "description": "An ornate Victorian aviary filled with intricate brass and copper mechanical birds, each crafted with gemstone feathers and tiny gears that make them sing.",
+  "prompt": "ornate Victorian-style aviary filled with mechanical birds made of brass and copper, gemstone feathers and tiny visible gears, beautiful lighting streaming through glass roof, steampunk aesthetic, highly detailed, metallic textures, warm golden hour light",
+  "caption": "When time itself takes flight 🕰️ What melody would your mechanical companion sing?",
   "hashtags": [
-    "#SkyBazaar",
-    "#FloatingMarket",
-    "#LanternLights",
-    "#CloudCommerce"
+    "#SteampunkArt",
+    "#MechanicalBirds",
+    "#VictorianMagic",
+    "#BrassAndCopper",
+    "#TimeFlies",
+    "#OrnateDesign",
+    "#SteampunkDreams",
+    "#ClockworkCreatures"
   ]
 }

@@ -1,13 +1,17 @@
 {
   "id": 5,
-  "name": "The Living Rainbow Bridge",
-  "description": "A breathtaking bridge composed of interlocking crystal steps that emit a continuous spectrum of colors, spanning a glowing canyon where luminous flora and fauna celebrate with light.",
-  "prompt": "A magnificent Living Rainbow Bridge made of iridescent crystal steps that pulse with vivid colors, spanning a luminous canyon filled with bioluminescent flora and fauna, soft ambient lighting, dynamic reflection on water below, ultra‑detailed, fantasy landscape art.",
-  "caption": "Step onto the Living Rainbow Bridge and walk through a cascade of colors—where every footfall paints a new hue 🌈🚶.",
+  "name": "The Candyfloss Cloud Sculptor's Workshop",
+  "description": "A whimsical workshop perched on a cotton candy-colored cloud where an artist shapes living clouds into fantastical creatures using rainbow brushes.",
+  "prompt": "whimsical workshop on pastel pink and blue cloud, artist with rainbow brushes shaping living clouds into fantastical creatures, cotton candy textures, magical tools floating nearby, dreamy color palette, fantasy illustration style, soft lighting",
+  "caption": "Painting dreams into reality, one fluffy masterpiece at a time ☁️🎨 What creature would you bring to life?",
   "hashtags": [
-    "#RainbowBridge",
-    "#LivingColors",
-    "#BioluminescentCanyon",
-    "#FantasyArchitecture"
+    "#CloudSculpting",
+    "#CandyflossDreams",
+    "#FantasyArt",
+    "#MagicalWorkshop",
+    "#RainbowBrush",
+    "#DreamCreatures",
+    "#WhimsicalArt",
+    "#CloudMagic"
   ]
 }

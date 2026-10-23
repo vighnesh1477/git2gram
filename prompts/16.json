@@ -1,13 +1,17 @@
 {
   "id": 16,
-  "name": "The Glass Mushroom City",
-  "description": "A sprawling metropolis built from bioluminescent glass mushrooms, each cap houses a tiny glowing window, streets of crystal pathways, floating lanterns drift overhead.",
-  "prompt": "A surreal Glass Mushroom City: towering glass mushrooms forming buildings, each cap containing glowing windows, crystal walkways connecting structures, floating lanterns drifting along streets, night sky deep blue, hyperrealistic, fantastical urban landscape.",
-  "caption": "Welcome to the Glass Mushroom City—where even the smallest dwellings shine with city‑wide brilliance 🌌🏢.",
+  "name": "The Luminous Tidepool Library",
+  "description": "An underwater library where books float like jellyfish and coral formations serve as shelves, with bioluminescent sea creatures reading the glowing texts aloud.",
+  "prompt": "underwater library where books float like jellyfish, coral formations as shelves, bioluminescent sea creatures reading glowing texts aloud, soft blue-green lighting, detailed marine life, ethereal atmosphere, fantasy book setting, magical underwater environment",
+  "caption": "Knowledge flows like water here 📖🌊 Let the wise sea creatures guide your next great adventure.",
   "hashtags": [
-    "#GlassMushroom",
-    "#FantasyCity",
-    "#BioluminescentArchitecture",
-    "#CityOfLight"
+    "#TidepoolLibrary",
+    "#UnderwaterBooks",
+    "#BioluminescentReading",
+    "#MarineWisdom",
+    "#OceanLibrary",
+    "#GlowingBooks",
+    "#SeaCreatureStories",
+    "#MagicalLearning"
   ]
 }

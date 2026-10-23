@@ -1,13 +1,17 @@
 {
   "id": 4,
-  "name": "The Starry Desert Mirage Oasis",
-  "description": "An oasis hidden in a glass-like desert where mirage pools reflect constellations, silver dunes ripple, and ancient wind‑carved arches frame a glowing crater lake.",
-  "prompt": "A breathtaking Starry Desert Mirage Oasis: crystal‑clear reflective pools mirroring the night sky, shimmering silver dunes, wind‑sculpted glass arches framing a luminous crater lake, distant constellations vividly reflected, soft ambient glow, hyperrealistic photography, surreal landscape.",
-  "caption": "In the heart of glass sands, a nocturnal oasis mirrors the cosmos—your deepest wonder awaits beneath the star‑filled mirage 🌌.",
+  "name": "The Bioluminescent Coral Library of the Deep",
+  "description": "An underwater library built entirely from living coral and bioluminescent plants, with books made of translucent sea glass and jellyfish providing gentle lighting.",
+  "prompt": "underwater library constructed from living coral and glowing bioluminescent plants, books made of translucent sea glass, jellyfish providing soft blue-green lighting, schools of small fish swimming between shelves, ethereal atmosphere, detailed aquatic environment",
+  "caption": "Dive into stories that shimmer with the light of a thousand ocean stars 🌊📚 Every page holds the mystery of the deep.",
   "hashtags": [
-    "#DesertMirage",
-    "#StarryOasis",
-    "#CosmicReflection",
-    "#GlassDesert"
+    "#UnderwaterLibrary",
+    "#Bioluminescence",
+    "#OceanMagic",
+    "#CoralArchitecture",
+    "#SeaGlassBooks",
+    "#AquaticWonder",
+    "#DeepSeaDreams",
+    "#GlowingNature"
   ]
 }

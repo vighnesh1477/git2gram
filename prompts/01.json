@@ -1,13 +1,17 @@
 {
   "id": 1,
-  "name": "The Luminous Tidepool Library",
-  "description": "A whimsical underwater library where glass bookshelves float among glowing tide pools, bioluminescent fish swim between aisles, and soft moonlight filters down creating a serene, magical reading sanctuary.",
-  "prompt": "An ethereal underwater library with floating glass bookshelves filled with floating books, crystal-clear tide pools reflecting starlight, bioluminescent fish darting between aisles, soft shafts of moonlight filtering through the water surface, intricate architectural details of arches and vaulted ceilings, hyperrealistic rendering, soft pastel colors, cinematic lighting, fantasy style.",
-  "caption": "Dive into a secret world where knowledge floats like water lilies 🌊📚 Discover the Luminous Tidepool Library—every page glows with its own star.",
+  "name": "The Starlight Origami Observatory",
+  "description": "A grand observatory where thousands of glowing origami cranes form constellation maps, floating in a dome filled with swirling galaxies and nebulae.",
+  "prompt": "massive observatory dome interior, thousands of glowing origami cranes suspended in mid-air forming constellation patterns, swirling galaxies and colorful nebulae projected on domed ceiling, soft starlight illuminating the scene, cinematic lighting, ultra-detailed, 8K resolution",
+  "caption": "Where ancient paper art meets the cosmos ✨ Each crane holds a wish, each constellation tells a story. What star would you fold into existence?",
   "hashtags": [
-    "#UnderwaterLibrary",
-    "#FantasyGarden",
-    "#LuminousTales",
-    "#NightTimeNooks"
+    "#OrigamiArt",
+    "#StarryNight",
+    "#CosmicDreams",
+    "#OrigamiObservatory",
+    "#GalaxyMagic",
+    "#PaperCranes",
+    "#NightSkyArt",
+    "#DreamyVibes"
   ]
 }

@@ -1,13 +1,17 @@
 {
   "id": 20,
-  "name": "The Neon Coral Reef",
-  "description": "An underwater city of neon‑lit coral structures, fish swim through glowing arches, and bioluminescent waves create an electric underwater ballet.",
-  "prompt": "A vibrant Neon Coral Reef: towering coral formations bathed in neon blues and purples, schools of glowing fish dart through archways, bioluminescent waves creating electric ripples, deep ocean backdrop, hyperrealistic, cyber‑nature scene.",
-  "caption": "Dive into the Neon Coral Reef—where nature electrifies the ocean depths in a symphony of color 🔵⚡️.",
+  "name": "The Mystic Orchard of Anti-Gravity Apples",
+  "description": "An enchanted orchard where apples float gently in the air, rotating slowly as they ripen, with rainbow light filtering through their translucent skins.",
+  "prompt": "enchanted orchard with floating apples defying gravity, slowly rotating as they ripen, rainbow light filtering through translucent apple skins, detailed orchard setting with ancient trees, magical atmosphere, soft diffused lighting, fantasy food art style",
+  "caption": "Fruit that literally rises to the occasion 🍎🌈 What would you wish for if each apple granted a floating fantasy?",
   "hashtags": [
-    "#NeonReef",
-    "#UnderwaterNeon",
-    "#CoralLights",
-    "#ElectricOcean"
+    "#FloatingApples",
+    "#AntiGravityOrchard",
+    "#MysticFruit",
+    "#RainbowLight",
+    "#EnchantedGrove",
+    "#MagicalHarvest",
+    "#DefyingGravity",
+    "#FantasyFoodArt"
   ]
 }

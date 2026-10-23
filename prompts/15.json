@@ -1,13 +1,17 @@
 {
   "id": 15,
-  "name": "The Time‑Woven Desert Garden",
-  "description": "A desert oasis where vines of living clocks entwine, each leaf showing a different hour, and sundials bloom into flowers that track the passage of time.",
-  "prompt": "A mesmerizing Time‑Woven Desert Garden: desert oasis surrounded by vines made of interlocking clocks, each leaf displaying a glowing hour, sundial flowers blooming and rotating with the sun, golden sand, soft warm lighting, ultra‑realistic, surreal desert.",
-  "caption": "Tend the Time‑Woven Desert Garden and watch hours blossom into petals⏳🌸.",
+  "name": "The Time-Traveling Telescope on a Cliff Watching a Comet",
+  "description": "An ornate brass telescope perched on a dramatic cliff edge, showing different historical moments through its lens while a spectacular comet streaks across a colorful sky.",
+  "prompt": "ornate brass telescope on dramatic cliff edge, showing different historical moments through lens, spectacular comet streaking across colorful sunset sky, Victorian aesthetic, steampunk details, detailed brass mechanisms, epic landscape view, cinematic composition",
+  "caption": "One look through time, one glimpse of eternity 🔭✨ What moment in history would you witness?",
   "hashtags": [
-    "#TimeGarden",
-    "#DesertOasis",
-    "#LivingClocks",
-    "#BloomingHours"
+    "#TimeTelescope",
+    "#CometWatching",
+    "#HistoricalMoments",
+    "#SteampunkStyle",
+    "#CliffsideView",
+    "#CosmicObservation",
+    "#VintageScience",
+    "#EpicSkies"
   ]
 }

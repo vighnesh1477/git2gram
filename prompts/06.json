@@ -1,13 +1,17 @@
 {
   "id": 6,
-  "name": "The Gilded Clockwork Bazaar",
-  "description": "A bustling market where clockwork automata sell golden brass contraptions, ornate gears serve as stall awnings, and the air hums with melodic ticking.",
-  "prompt": "A vibrant Gilded Clockwork Bazaar: stalls adorned with ornate brass clock gears and cogs, automata vendors offering gleaming mechanical trinkets, warm golden sunlight glinting off polished metal, bustling crowd of whimsical creatures, dynamic composition, hyperrealistic, steampunk fantasy style.",
-  "caption": "Trade in time‑crafted wonders at the Gilded Clockwork Bazaar—where every tick holds treasure ⏱️✨.",
+  "name": "The Mirror Maze of Reflected Seasons",
+  "description": "An enchanted maze where each mirror reflects a different season simultaneously - spring blossoms, summer warmth, autumn leaves, and winter snow all visible at once.",
+  "prompt": "enchanted mirror maze where each pane reflects a different season simultaneously, spring cherry blossoms, summer green landscapes, autumn golden leaves, winter snow scenes, all visible in one space, magical lighting, surreal atmosphere, highly detailed reflections",
+  "caption": "Walk through all four seasons in a single step 🍂☀️❄️🌸 Which seasonal reflection speaks to your soul?",
   "hashtags": [
-    "#ClockworkMarket",
-    "#SteampunkBazaar",
-    "#GildedGears",
-    "#MechanizedMarts"
+    "#MirrorMaze",
+    "#FourSeasons",
+    "#EnchantedForest",
+    "#SeasonalMagic",
+    "#SurrealArt",
+    "#ReflectionWonder",
+    "#FantasyIllusion",
+    "#NaturalBeauty"
   ]
 }
