@@ -1,17 +1,19 @@
 {
   "id": 5,
-  "name": "The Candyfloss Cloud Sculptor's Workshop",
-  "description": "A whimsical workshop perched on a cotton candy-colored cloud where an artist shapes living clouds into fantastical creatures using rainbow brushes.",
-  "prompt": "whimsical workshop on pastel pink and blue cloud, artist with rainbow brushes shaping living clouds into fantastical creatures, cotton candy textures, magical tools floating nearby, dreamy color palette, fantasy illustration style, soft lighting",
-  "caption": "Painting dreams into reality, one fluffy masterpiece at a time ☁️🎨 What creature would you bring to life?",
+  "name": "Butterfly Wing Umbrella Workshop",
+  "description": "A cozy artisan workshop where beautiful umbrellas are crafted from iridescent butterfly wings, silk threads, and delicate wooden frames, with natural light streaming through windows.",
+  "prompt": "A cozy wooden workshop interior with natural sunlight streaming through large windows. Various iridescent butterfly wings in shades of blue, orange, and purple are arranged by color on wooden tables. Half-finished umbrellas with intricate wing patterns hang from the ceiling. Silk threads, wooden frames, and crafting tools scattered around. Warm, inviting atmosphere, detailed textures, 8k",
+  "caption": "Where fashion meets the flutter of wings! 🦋☂️ Step into this artisan's dream workshop, where every umbrella is a captured sunset made from butterfly wings. If you could have wings instead of an umbrella, what color would they be? Drop a 🦋 if you'd wear these!",
   "hashtags": [
-    "#CloudSculpting",
-    "#CandyflossDreams",
-    "#FantasyArt",
-    "#MagicalWorkshop",
-    "#RainbowBrush",
-    "#DreamCreatures",
-    "#WhimsicalArt",
-    "#CloudMagic"
+    "#ButterflyWings",
+    "#ArtisanCrafts",
+    "#UmbrellaArt",
+    "#HandmadeMagic",
+    "#WorkshopWonder",
+    "#NatureFashion",
+    "#WingedDreams",
+    "#Craftsmanship",
+    "#AIArtistry",
+    "#SlowMade"
   ]
 }
