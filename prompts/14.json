@@ -1,19 +1,14 @@
 {
   "id": 14,
-  "name": "Mini Balloon Workshop",
-  "description": "A charming workshop where artisans handcraft miniature hot air balloons from colorful paper, silk, and delicate baskets, with balloons of various sizes and patterns suspended from the ceiling.",
-  "prompt": "A warm, inviting workshop interior with wooden workbenches and hanging mini hot air balloons made from colorful patterned paper and silk fabric. Artisans at work crafting tiny wicker baskets and delicate balloon envelopes. Balloons of various sizes and patterns float gently from the ceiling. Tools and materials scattered on tables, warm golden lighting, detailed textures, 8k",
-  "caption": "Where dreams take shape one balloon at a time! 🎈🔧✨ In this tiny workshop, master craftspeople create the most adorable hot air balloons you've ever seen. If you could send a miniature message on one of these, what would you write? 'Wish you were here' takes on a whole new meaning when you're literally flying!",
+  "name": "Ancient Ruins Overgrown by Golden Vines",
+  "description": "Ancient stone ruins partially overgrown by golden vines, bathed in sunrise light.",
+  "prompt": "Ancient stone ruins partially overgrown by golden vines, sunrise light bathing the scene, misty atmosphere, hyper-realistic, detailed textures, 8k",
+  "caption": "Where history meets nature in a golden glow.",
   "hashtags": [
-    "#MiniBalloonWorkshop",
-    "#PaperCrafts",
-    "#HotAirArt",
-    "#TinyAviation",
-    "#HandcraftedDreams",
-    "#WickerAndWings",
-    "#ColorfulCreation",
-    "#WorkshopWonder",
-    "#AIArtDaily",
-    "#MadeWithError"
+    "#AncientRuins",
+    "#GoldenVines",
+    "#Sunrise",
+    "#Fantasy",
+    "#AIArt"
   ]
 }

@@ -1,19 +1,14 @@
 {
   "id": 13,
-  "name": "Levitating Sphere Fountain",
-  "description": "An elegant fountain where water flows upward into crystal spheres that hover and rotate in midair before gently descending, creating a mesmerizing dance of defying gravity.",
-  "prompt": "An ornate marble fountain in a formal garden, water shooting upward into multiple crystal spheres that hover and slowly rotate in midair. The spheres are transparent with internal swirling mist, catching and refracting light. Water flows from the spheres back into the fountain basin in graceful arcs. Symmetrical design, classical architecture, golden hour lighting, ultra-detailed, 8k",
-  "caption": "When gravity takes a vacation... 🌊🪐✨ These crystal spheres dance to a rhythm only they can hear, floating effortlessly as water streams upward to join them. What if you could bottle this moment and carry it in your pocket? Some magic is meant to be witnessed, not owned. Watch and believe!",
+  "name": "Golden Hour Observatory on a Floating Mesa",
+  "description": "A sleek glass observatory perched on a floating mesa during golden hour, sunlight streaming through transparent walls.",
+  "prompt": "A sleek glass observatory perched on a floating mesa during golden hour, sunlight streaming through transparent walls, warm hues, dramatic shadows, ultra-realistic, detailed architecture, 8k",
+  "caption": "Observe the sunrise from the heights of the heavens.",
   "hashtags": [
-    "#LevitatingFountain",
-    "#GravityDefyingWater",
-    "#CrystalSpheres",
-    "#UpsideDownFountain",
-    "#KineticArt",
-    "#GardenMagic",
-    "#WaterArchitecture",
-    "#FloatingOrbs",
-    "#AIArtistry",
-    "#ImpossiblePhysics"
+    "#GoldenObservatory",
+    "#FloatingMesa",
+    "#Sunset",
+    "#Architecture",
+    "#AIArt"
   ]
 }

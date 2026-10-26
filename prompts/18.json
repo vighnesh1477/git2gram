@@ -1,18 +1,14 @@
 {
   "id": 18,
-  "name": "Autumn Leaf Hot Air Balloon",
-  "description": "A magnificent hot air balloon entirely constructed from layered autumn maple leaves in brilliant shades of red, orange, and yellow, drifting gracefully over a golden valley below.",
-  "prompt": "A stunning hot air balloon whose envelope is constructed entirely from hundreds of layered autumn maple leaves in brilliant shades of red, orange, yellow, and gold. The leaves form a cohesive balloon shape while maintaining their individual beauty. The balloon drifts gracefully over a valley carpeted in autumn colors. Clear blue sky, perfect weather for flying, ultra-detailed, 8k",
-  "caption": "Flying high on the breeze of fall! 🍁🎈✨ This balloon doesn't need fabric—nature provided the perfect material straight from the trees. Imagine soaring above the world while wrapped in autumn's most vibrant colors. Where would YOU drift if you could ride the season's last breath?",
+  "name": "Moonlit Coral Amphitheater",
+  "description": "An open-air amphitheater carved from luminous coral, where waves produce melodic tones.",
+  "prompt": "An open-air amphitheater carved from luminous coral, waves crashing to produce melodic tones, moonlight illuminating the scene, ethereal glow, ultra-realistic, detailed marine life, 8k",
+  "caption": "Listen to the sea’s symphony under moonlit coral arches.",
   "hashtags": [
-    "#LeafBalloon",
-    "#AutumnFlight",
-    "#FallColors",
-    "#MapleMagic",
-    "#SeasonalTravel",
-    "#HotAirArt",
-    "#GoldenValley",
-    "#NatureInTheSky",
-    "#AIArtistry,#FlyingHigh"
+    "#CoralAmphitheater",
+    "#Moonlight",
+    "#Music",
+    "#Fantasy",
+    "#AIArt"
   ]
 }

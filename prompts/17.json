@@ -1,19 +1,14 @@
 {
   "id": 17,
-  "name": "Reed Book River Library",
-  "description": "A peaceful library where books made of woven reeds float gently along a slow-moving river, with willow trees arching overhead and soft natural lighting filtering through the branches.",
-  "prompt": "A tranquil riverside library scene where books made of woven reeds and natural materials float gently on the water's surface. Willow trees arch overhead, their branches creating a natural canopy. Soft dappled sunlight filters through the leaves. Paper boats with tiny scrolls float alongside the reed books. Peaceful, natural lighting, ultra-detailed, 8k",
-  "caption": "Libraries don't need walls when nature provides the perfect reading nook! 📖🌿✨ These books made of woven reeds seem to tell stories as old as the river itself. Each one carries tales of forests, floods, and the wisdom of flowing water. What story would you write on a reed scroll?",
+  "name": "Celestial Origami Observatory",
+  "description": "An observatory shaped like a giant origami crane, made of shimmering metal, perched on a hill under a swirling galaxy.",
+  "prompt": "A celestial observatory shaped like a giant origami crane, constructed from shimmering metal panels, perched atop a hill under a swirling galaxy sky, soft starlight, ultra-realistic, dramatic lighting, 8k",
+  "caption": "Explore the cosmos from a winged masterpiece.",
   "hashtags": [
-    "#ReedBooks",
-    "#RiverLibrary",
-    "#NaturalReading",
-    "#WillowWisdom",
-    "#FloatingStories",
-    "#OutdoorLibrary",
-    "#PaperAndReeds",
-    "#PeacefulPages",
-    "#AIArtistry",
-    "#EcoFriendlyReads"
+    "#OrigamiObservatory",
+    "#Celestial",
+    "#Stars",
+    "#FantasyArt",
+    "#AIArt"
   ]
 }

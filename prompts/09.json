@@ -1,19 +1,14 @@
 {
   "id": 9,
-  "name": "Era-Reflecting Ballroom",
-  "description": "A grand ballroom where ornate mirrors line the walls and reflect not the present visitors, but scenes from different historical time periods, creating a fascinating blend of eras.",
-  "prompt": "An opulent Victorian-style ballroom with crystal chandeliers and gilded mirrors lining every wall. However, each mirror reflects a different historical era—Ancient Rome, Medieval Castle, Renaissance Court, Roaring Twenties. Elegant dancers in period-appropriate costumes appear in the reflections while modern visitors stand in the actual room. Rich textures, golden accents, dramatic lighting, 8k",
-  "caption": "Dancing through time, one reflection at a time! 💃🕰️ In this ballroom, every mirror is a portal to a different era. Would you rather waltz with Victorian elegance or dance the Charleston in the 1920s? The past and present meet in perfect harmony here. Which era calls to you?",
+  "name": "Chrono-Compass on a Cliff Watching a Meteor Shower",
+  "description": "An ornate brass compass perched on a rugged cliff edge, its needle pointing toward a meteor shower streaking across a star-filled night sky.",
+  "prompt": "An ornate brass chrono-compass perched on a rugged cliff edge, its needle pointing toward a meteor shower streaking across a star-filled night sky, soft moonlight, detailed metalwork, cinematic lighting, 8k",
+  "caption": "Navigate the cosmos with a timeless compass.",
   "hashtags": [
-    "#EraBallroom",
-    "#TimeReflections",
-    "#DancingThroughTime",
-    "#HistoricalFashion",
-    "#MirrorMagic",
-    "#VictorianElegance",
-    "#PeriodDrama",
-    "#TimelessBeauty",
-    "#AIArtistry",
-    "#BallroomBliss"
+    "#ChronoCompass",
+    "#MeteorShower",
+    "#NightSky",
+    "#FantasyArt",
+    "#AIArt"
   ]
 }

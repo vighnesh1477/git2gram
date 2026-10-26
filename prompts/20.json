@@ -1,18 +1,14 @@
 {
   "id": 20,
-  "name": "Sugar Glass Maze",
-  "description": "A whimsical maze built from crystallized sugar glass in candy-colored refractions, with sweet aromas visible as colorful wisps and a playful, sugary atmosphere throughout.",
-  "prompt": "A fantastical maze constructed from crystallized sugar glass in vibrant candy colors—pink, blue, yellow, green. The walls sparkle and refract light into rainbow patterns on the ground. Visible wisps of sweet aromas drift through the air like colorful smoke. Whimsical, playful atmosphere, bright lighting, ultra-detailed, 8k",
-  "caption": "Warning: this maze is highly addictive! 🍭🌀✨ Made entirely of crystallized sugar glass, every wall sparkles with the promise of something sweet. The aroma alone could power a bakery for a month! Can you find your way out, or will you get lost in the sugar rush? Either way, it's a tasty adventure!",
+  "name": "Clockwork Tree in a Desert of Glass",
+  "description": "A colossal clockwork tree with interlocking gears standing in a desert of shimmering glass dunes.",
+  "prompt": "A colossal clockwork tree with interlocking gears standing in a desert of shimmering glass dunes, sunrise casting long shadows, intricate mechanical details, hyper-realistic, 8k",
+  "caption": "Time ticks in a desert of crystal sands.",
   "hashtags": [
-    "#SugarGlassMaze",
-    "#CandyLand",
-    "#SweetArchitecture",
-    "#SugarRush",
-    "#PrismaticPlayground",
-    "#GummyWalls",
-    "#DessertMaze",
-    "#SugarHigh",
-    "#AIArtistry,#WhimsicalWednesday"
+    "#ClockworkTree",
+    "#GlassDesert",
+    "#Sunrise",
+    "#Steampunk",
+    "#AIArt"
   ]
 }

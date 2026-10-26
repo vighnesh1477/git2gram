@@ -1,18 +1,14 @@
 {
   "id": 23,
-  "name": "Water Surface Star Map",
-  "description": "A powerful telescope that projects detailed star maps onto the perfectly still surface of a mountain lake, creating a mirror image of the cosmos with incredible clarity.",
-  "prompt": "A large ornate telescope positioned on a stone platform at the edge of a perfectly still mountain lake. The telescope projects a detailed star map onto the water's surface, creating an inverted reflection of the cosmos with constellations clearly visible. Mountains rise in the background, and the night sky is filled with countless stars. Crystal clear water, dramatic lighting, ultra-detailed, 8k",
-  "caption": "The universe reflects back to you! 🌌🔭✨ When the lake becomes a mirror for the stars, the boundary between earth and sky dissolves. Lie back and find your constellation—maybe today, you'll see a new one that's been waiting just for you. The cosmos is speaking; are you listening?",
+  "name": "Garden of Clockwork Flowers",
+  "description": "A garden where each flower is a delicate clockwork mechanism that blooms and ticks.",
+  "prompt": "A garden of intricate clockwork flowers with gears and petals that open and close, set in a lush meadow under soft sunlight, delicate mechanical details, hyper-realistic, pastel colors, 8k",
+  "caption": "Watch time blossom in a garden of moving petals.",
   "hashtags": [
-    "#StarMapLake",
-    "#CosmicReflection",
-    "#TelescopeToTheSoul",
-    "#MountainStargazing",
-    "#MirrorLake",
-    "#ConstellationGazing",
-    "#NightSkyMagic",
-    "#CelestialMeeting",
-    "#AIArtistry,#StarryNights"
+    "#ClockworkFlowers",
+    "#Garden",
+    "#Time",
+    "#Fantasy",
+    "#AIArt"
   ]
 }

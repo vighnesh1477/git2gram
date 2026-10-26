@@ -1,19 +1,14 @@
 {
   "id": 5,
-  "name": "Butterfly Wing Umbrella Workshop",
-  "description": "A cozy artisan workshop where beautiful umbrellas are crafted from iridescent butterfly wings, silk threads, and delicate wooden frames, with natural light streaming through windows.",
-  "prompt": "A cozy wooden workshop interior with natural sunlight streaming through large windows. Various iridescent butterfly wings in shades of blue, orange, and purple are arranged by color on wooden tables. Half-finished umbrellas with intricate wing patterns hang from the ceiling. Silk threads, wooden frames, and crafting tools scattered around. Warm, inviting atmosphere, detailed textures, 8k",
-  "caption": "Where fashion meets the flutter of wings! 🦋☂️ Step into this artisan's dream workshop, where every umbrella is a captured sunset made from butterfly wings. If you could have wings instead of an umbrella, what color would they be? Drop a 🦋 if you'd wear these!",
+  "name": "Mushroom Metropolis at Dusk",
+  "description": "A bustling futuristic city built among towering glowing mushrooms at twilight, neon lights flickering from caps.",
+  "prompt": "A sprawling futuristic city built among towering bioluminescent mushrooms at twilight, neon lights glowing from caps, misty atmosphere, ultra-realistic, detailed architecture, 8k",
+  "caption": "Live in a world where mushrooms light the night.",
   "hashtags": [
-    "#ButterflyWings",
-    "#ArtisanCrafts",
-    "#UmbrellaArt",
-    "#HandmadeMagic",
-    "#WorkshopWonder",
-    "#NatureFashion",
-    "#WingedDreams",
-    "#Craftsmanship",
-    "#AIArtistry",
-    "#SlowMade"
+    "#MushroomCity",
+    "#Twilight",
+    "#Fantasy",
+    "#AIArt",
+    "#Dreamscape"
   ]
 }

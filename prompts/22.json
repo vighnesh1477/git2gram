@@ -1,18 +1,14 @@
 {
   "id": 22,
-  "name": "Dream Compass Workshop",
-  "description": "A mystical workshop crafting compasses that point toward dreams rather than north, using magnetized stardust and enchanted materials that glow with inner light.",
-  "prompt": "A magical workshop interior where artisans craft ornate compasses that glow with inner light. The compasses use magnetized stardust and enchanted materials—crystal needles, star metal casings, and luminous dials. Workbenches are covered with tools, glowing materials, and half-finished compasses. Warm mystical lighting, detailed craftsmanship, 8k",
-  "caption": "Finding your way by following your heart! 🧭✨✨ These aren't ordinary compasses—they point toward your deepest dreams, not magnetic north. If such a tool existed, where would yours lead? To adventure? Love? A beach with unlimited tacos? The needle knows the way that's truest to you!",
+  "name": "Solar-Powered Glass Airship Over Lavender Dunes",
+  "description": "A solar-powered glass airship gliding over lavender-colored dunes, leaving a sparkling light trail.",
+  "prompt": "A solar-powered glass airship gliding over lavender dunes, leaving a sparkling light trail, bright daylight, reflective glass surfaces, hyper-realistic, dynamic motion, 8k",
+  "caption": "Ride the wind on a crystal vessel through a dreamy desert.",
   "hashtags": [
-    "#DreamCompass",
-    "#StardustCrafted",
-    "#MagicalNavigation",
-    "#FollowYourHeart",
-    "#CompassToDreams",
-    "#WorkshopOfWonders",
-    "#EnchantedTools",
-    "#MysticalDirection",
-    "#AIArtistry,#GuidedByMagic"
+    "#GlassAirship",
+    "#LavenderDunes",
+    "#SolarPower",
+    "#Fantasy",
+    "#AIArt"
   ]
 }

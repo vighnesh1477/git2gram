@@ -1,18 +1,14 @@
 {
   "id": 21,
-  "name": "Lantern Droplet Fountain",
-  "description": "An elegant fountain where individual water droplets transform into tiny glowing paper lanterns that rise gracefully into the night sky, creating a cascading display of light.",
-  "prompt": "An ornate stone fountain at night where delicate water droplets arc gracefully upward, transforming mid-flight into tiny glowing paper lanterns in shades of gold, red, blue, and white. The lanterns rise into the dark night sky, joining hundreds of others already floating above. Moonlight and lantern glow create a warm, magical atmosphere. Ultra-detailed, 8k",
-  "caption": "Every drop becomes a dream! 💧🏮✨ Watch in wonder as water droplets transform into glowing lanterns that carry wishes skyward. How many wishes do you think float above us at any given moment? Make a silent wish as you watch—this fountain has a way of making them real.",
+  "name": "Floating Bazaar of Holographic Lantern Kites",
+  "description": "A bustling market floating on a sea of soft clouds, stalls selling holographic lanterns that drift like fireflies.",
+  "prompt": "A bustling floating bazaar on a sea of soft clouds, stalls selling holographic lanterns that drift like fireflies, vibrant colors, warm lantern glow, ultra-realistic, detailed market scenes, 8k",
+  "caption": "Shop among the clouds and watch lanterns dance.",
   "hashtags": [
-    "#LanternFountain",
-    "#WaterTurnedToLight",
-    "#NightMagic",
-    "#FloatingWishes",
-    "#PaperLanternDreams",
-    "#DropletTransformation",
-    "#MoonlitFountain",
-    "#WishUponADrop",
-    "#AIArtistry,#MagicalMoments"
+    "#CloudBazaar",
+    "#HolographicLanterns",
+    "#Market",
+    "#Fantasy",
+    "#AIArt"
   ]
 }

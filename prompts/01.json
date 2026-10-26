@@ -1,19 +1,14 @@
 {
   "id": 1,
-  "name": "Abalone Shell City",
-  "description": "A magnificent city built inside a colossal abalone shell, with iridescent mother-of-pearl walls, bioluminescent pathways, and tiny buildings carved into the shell's interior.",
-  "prompt": "A breathtaking aerial view inside a massive iridescent abalone shell, the curved walls shimmering with mother-of-pearl hues of blue, green, and purple. Tiny buildings and winding streets are carved into the shell's interior surface. Bioluminescent pathways glow with soft blue and gold light. Warm ambient lighting from countless glowing windows. Enchanting and surreal atmosphere, hyperrealistic detail, 8k resolution, cinematic lighting",
-  "caption": "Welcome to the most magical city you've never seen! 🐚✨ Everything about this place shimmers with nature's own artistry. Can you imagine waking up in a home carved from an abalone shell? What would you build if your walls could glow with the colors of the ocean?",
+  "name": "Starlight Carousel of Moonlit Reflections",
+  "description": "A whimsical carousel built from luminous moonlit crystal arches, each seat shaped like a tiny glowing planet, rotating slowly under a deep indigo sky filled with swirling constellations and aurora lights.",
+  "prompt": "A majestic carousel constructed from luminous moonlit crystal arches, each seat shaped like a small glowing planet, rotating slowly under a deep indigo sky filled with swirling constellations and aurora lights, soft moonlight reflecting off polished crystal surfaces, ultra-realistic, cinematic lighting, high detail, 8k",
+  "caption": "Spin into the night sky and let the stars guide your dreams.",
   "hashtags": [
-    "#AbaloneShellCity",
-    "#Bioluminescent",
-    "#NatureArt",
-    "#FantasyArchitecture",
-    "#MagicalPlaces",
-    "#UnderTheSea",
-    "#OceanGem",
-    "#Dreamscape",
-    "#AIArt",
-    "#Imagination"
+    "#MoonlitCarousel",
+    "#StarrySky",
+    "#FantasyArt",
+    "#Dreamy",
+    "#AIArt"
   ]
 }

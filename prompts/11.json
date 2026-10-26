@@ -1,19 +1,14 @@
 {
   "id": 11,
-  "name": "Candle Flame Staircase",
-  "description": "A mystical staircase composed entirely of stepped candle flames that float in midair, with blue, gold, and purple flames creating an ethereal ascending path in a dark cathedral setting.",
-  "prompt": "A grand Gothic cathedral interior, but instead of stone steps, a floating staircase is made entirely of stepped candle flames—blue, gold, and purple flames hovering in perfect formation. Each step glows brighter than the last, ascending into shadowy darkness above. Dramatic lighting with deep shadows, mystical atmosphere, ultra-detailed, 8k",
-  "caption": "Not your ordinary staircase! 🔥🪜 These steps are made of living flame that won't burn you (we promise!). Each color of fire carries its own magic—blue for wisdom, gold for courage, purple for mystery. What would you discover at the top? The climb alone is an adventure worth taking!",
+  "name": "Neon Jungle Canopy of Bioluminescent Vines",
+  "description": "A dense jungle canopy where neon-colored vines glow, creating a luminous tunnel.",
+  "prompt": "A dense jungle canopy of towering trees with neon-colored bioluminescent vines winding through the foliage, creating a luminous tunnel of light, night setting, vibrant colors, hyper-realistic, 8k",
+  "caption": "Step into a neon jungle where the vines glow like fireworks.",
   "hashtags": [
-    "#FlameStairs",
-    "#CandleMagic",
-    "#GothicFantasy",
-    "#MysticalSteps",
-    "#FireAndLight",
-    "#CathedralDreams",
-    "#EtherealBeauty",
-    "#DarkRomance",
-    "#AIArtistry",
-    "#Ascension"
+    "#NeonJungle",
+    "#Bioluminescent",
+    "#Canopy",
+    "#Fantasy",
+    "#AIArt"
   ]
 }

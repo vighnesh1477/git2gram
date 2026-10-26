@@ -1,19 +1,14 @@
 {
   "id": 15,
-  "name": "Lightning Bolt Bridge",
-  "description": "A bridge woven entirely from solidified lightning bolts, crackling with electric energy and connecting two floating cloud islands in a stormy sky filled with thunderheads.",
-  "prompt": "A dramatic bridge made entirely from solidified lightning bolts—crackling strands of electric blue and purple energy forming a pathway between two floating cloud islands. The bridge pulses with electrical energy, small sparks flying between the bolts. Stormy sky with towering thunderheads and flashes of lightning. Epic scale, dynamic lighting, ultra-detailed, 8k",
-  "caption": "Bridging the skies one spark at a time! ⚡🌉⚡ This isn't your average walking path—every step crackles with raw energy! The lightning that formed this bridge was captured and woven into something beautiful. Would you dare to walk across? The view from the other side might shock you!",
+  "name": "Floating Tea Garden on a Mirrored Lagoon",
+  "description": "A delicate tea house floating on a perfectly still mirrored lagoon reflecting the sky.",
+  "prompt": "A delicate floating tea house perched on a perfectly still mirrored lagoon, reflections of pastel sky and clouds, gentle ripples, soft lantern light, ultra-realistic, serene, 8k",
+  "caption": "Sip tea while the sky reflects in tranquil waters.",
   "hashtags": [
-    "#LightningBridge",
-    "#StormChasers",
-    "#ElectricPathway",
-    "#CloudIslands",
-    "#ThunderWalk",
-    "#LightningArtistry",
-    "#WeatherMagic",
-    "#SkyBridge",
-    "#AIArtistry",
-    "#Electrifying"
+    "#FloatingTea",
+    "#MirrorLagoon",
+    "#Serenity",
+    "#Nature",
+    "#AIArt"
   ]
 }
