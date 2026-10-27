@@ -1,14 +1,17 @@
 {
   "id": 22,
-  "name": "Solar-Powered Glass Airship Over Lavender Dunes",
-  "description": "A solar-powered glass airship gliding over lavender-colored dunes, leaving a sparkling light trail.",
-  "prompt": "A solar-powered glass airship gliding over lavender dunes, leaving a sparkling light trail, bright daylight, reflective glass surfaces, hyper-realistic, dynamic motion, 8k",
-  "caption": "Ride the wind on a crystal vessel through a dreamy desert.",
+  "name": "The Balloon Library of Floating Memories",
+  "description": "A library without walls, floating in a calm stratosphere. Books are gas-filled balloons -- each contains a memory written in scented vapor. Readers inhale a balloon's essence to experience the memory. Colors indicate emotional tone.",
+  "prompt": "Serene stratosphere library. No walls, just floating platforms connected by rope bridges. Thousands of memory-balloons tethered: each a translucent sphere containing swirling colored vapor. Colors = emotions: gold (joy), blue (sorrow), green (growth), rose (love), violet (wisdom), amber (nostalgia). Readers sit on cloud-benches, inhaling from balloon-straws to experience memories as immersive VR-like visions projected around them. Balloons glow internally. Some are ancient (faded sepia), some new (vivid). Sunset lighting through vapor clouds. Peaceful, contemplative atmosphere. Weightless architecture.",
+  "caption": "Don't read the memory. Breathe it. 🎈📖 Each balloon holds a life in scented vapor. Gold for joy. Blue for the goodbyes. Inhale and you're there -- the summer afternoon, the hospital hallway, the first kiss. Which color would you choose?",
   "hashtags": [
-    "#GlassAirship",
-    "#LavenderDunes",
-    "#SolarPower",
-    "#Fantasy",
-    "#AIArt"
+    "#BalloonLibrary",
+    "#MemoryBalloons",
+    "#ScentedMemories",
+    "#StratosphereLibrary",
+    "#InhaleThePast",
+    "#AIArt",
+    "#FloatingWorld",
+    "#MemoryArt"
   ]
 }

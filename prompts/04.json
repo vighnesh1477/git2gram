@@ -1,14 +1,17 @@
 {
   "id": 4,
-  "name": "Steampunk Airship over a Cloud Harbor of Light",
-  "description": "A massive steampunk airship with brass gears and billowing sails docked at a floating platform of translucent glass clouds, sunrise casting golden hues.",
-  "prompt": "A colossal steampunk airship with brass gears and billowing sails docked on a floating platform of translucent glass clouds, sunrise casting golden light, intricate mechanical details, ultra-realistic, high detail, 8k",
-  "caption": "Where sky-bound engineering meets dreamy clouds.",
+  "name": "The Shadow Puppet Metropolis",
+  "description": "A city built entirely from shadows cast by invisible structures, where buildings only exist when light hits them at specific angles, and citizens are living silhouettes who change form with the sun's position.",
+  "prompt": "A impossible cityscape where architecture exists only as projected shadows on a vast white plane. Multiple light sources (multiple suns, moons, lanterns) cast overlapping shadow-buildings: gothic spires, domed temples, modernist towers, all coexisting as dark silhouettes. Shadow-citizens -- 2D figures with intricate cutout details -- walk shadow-streets, their forms shifting as light angles change. Some areas have colored gels creating stained-glass shadow effects. The 'buildings' are actually invisible wireframe structures floating above, revealed only by their shadows. Dramatic chiaroscuro, high contrast, graphic art style meets architectural precision.",
+  "caption": "A city that only exists when the light allows it. 🏙️🌑 The residents are made of silhouette and suggestion. At noon they're sharp; at golden hour they stretch impossible. What would your shadow-self look like?",
   "hashtags": [
-    "#Steampunk",
-    "#Airship",
-    "#CloudHarbor",
-    "#Sunrise",
-    "#AIArt"
+    "#ShadowArt",
+    "#SilhouetteCity",
+    "#LightAndShadow",
+    "#Chiaroscuro",
+    "#ImpossibleArchitecture",
+    "#AIArt",
+    "#GraphicArt",
+    "#ShadowPuppets"
   ]
 }

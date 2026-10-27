@@ -1,14 +1,17 @@
 {
   "id": 7,
-  "name": "Giant Lotus Pond Within a Glass Canyon",
-  "description": "A tranquil giant lotus pond nestled within a towering glass canyon, enormous lotus blossoms floating on crystal-clear water.",
-  "prompt": "A tranquil giant lotus pond nestled within a towering glass canyon, enormous lotus blossoms floating on crystal-clear water, reflections of light, serene atmosphere, ultra-realistic, detailed flora, 8k",
-  "caption": "Sail on a lotus leaf into serenity.",
+  "name": "The Hourglass Desert of Frozen Moments",
+  "description": "An endless desert where sand grains are tiny hourglasses, each containing a frozen memory. When wind blows, millions of microscopic moments sparkle -- a first kiss, a graduation, a quiet sunset -- creating dunes that shimmer with collective nostalgia.",
+  "prompt": "Vast desert dunes under twin moons. Each sand grain is a perfect microscopic hourglass with glowing sand inside. Wind creates waves of shimmering light across dunes as billions of tiny moments catch light. Close-up reveals: one grain shows a child's first step, another a wedding kiss, another an old hands holding tea. The hourglass-sand flows upward, sideways, in impossible directions. Some dunes glow warmer (happy memories), others cooler (bittersweet). Ancient hourglass monoliths stand like standing stones, each the size of a building, containing epoch-scale memories. Stars reflected in each tiny glass. Magical realism, macro/micro scale contrast, emotional lighting.",
+  "caption": "Every grain a lifetime. ⏳✨ The wind doesn't just move sand -- it stirs memories. Billions of frozen moments catching starlight. Whose first laugh is glowing in that dune? Whose last goodbye?",
   "hashtags": [
-    "#LotusPond",
-    "#GlassCanyon",
-    "#Serenity",
-    "#NatureArt",
-    "#AIArt"
+    "#HourglassDesert",
+    "#FrozenMoments",
+    "#MemorySand",
+    "#Nostalgia",
+    "#TwinMoons",
+    "#AIArt",
+    "#MagicalRealism",
+    "#TimeArt"
   ]
 }

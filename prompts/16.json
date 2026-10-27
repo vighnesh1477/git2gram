@@ -1,14 +1,17 @@
 {
   "id": 16,
-  "name": "Giant Redwood Treehouse Library",
-  "description": "A massive redwood treehouse built into the trunk of a giant living tree, serving as a library with books fluttering like leaves.",
-  "prompt": "A massive redwood treehouse library built into the trunk of a giant living tree, books fluttering like leaves, warm interior lighting, soft mossy textures, hyper-realistic, detailed foliage, 8k",
-  "caption": "Read among the whispering branches of ancient trees.",
+  "name": "The Library of Unwritten Letters",
+  "description": "An infinite archive where blank paper floats in zero gravity, each sheet waiting for a letter never sent. When a visitor approaches, the paper unfolds into origami birds carrying the unsent words -- confessions, apologies, declarations -- glowing with the writer's emotional resonance.",
+  "prompt": "Vast zero-gravity archive. Millions of blank sheets float in gentle currents. Near a visitor, sheets spontaneously fold into origami birds -- cranes, swallows, phoenixes -- each glowing with emotional color (rose for love, blue for grief, gold for gratitude, violet for regret). The birds hover, their wings displaying the unwritten words in flowing calligraphy that writes itself in light. Some birds are tiny (short notes), some massive (life stories). The air shimmers with floating phrases. Architecture: impossible floating staircases, reading nooks in bubbles. Soft ambient glow from the letters themselves. Magical realism, emotional visualization.",
+  "caption": "Every 'I never told you' has wings. 🕊️💌 The paper remembers what the heart couldn't say. They fold themselves into birds and wait. Some have waited centuries. Which letter would you finally let fly?",
   "hashtags": [
-    "#TreehouseLibrary",
-    "#Redwood",
-    "#Nature",
-    "#Fantasy",
-    "#AIArt"
+    "#UnwrittenLetters",
+    "#OrigamiBirds",
+    "#FloatingArchive",
+    "#UnsentWords",
+    "#EmotionalArt",
+    "#AIArt",
+    "#LetterArt",
+    "#PaperMagic"
   ]
 }

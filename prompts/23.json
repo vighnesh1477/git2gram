@@ -1,14 +1,17 @@
 {
   "id": 23,
-  "name": "Garden of Clockwork Flowers",
-  "description": "A garden where each flower is a delicate clockwork mechanism that blooms and ticks.",
-  "prompt": "A garden of intricate clockwork flowers with gears and petals that open and close, set in a lush meadow under soft sunlight, delicate mechanical details, hyper-realistic, pastel colors, 8k",
-  "caption": "Watch time blossom in a garden of moving petals.",
+  "name": "The Mosaic Path of Living Tiles",
+  "description": "An infinite pathway where each tile is a tiny living ecosystem -- moss, micro-ferns, crystalline lichen, bioluminescent bacteria. The path changes pattern seasonally as tiles bloom, fruit, spore, and hibernate. Walking it is tending a linear garden.",
+  "prompt": "An endless winding path through varied landscapes (forest, desert, mountain, coast). Each 'tile' (1m hexagon) is a self-contained micro-ecosystem visible in cross-section: living moss carpets, tiny fern forests, crystalline lichen geodes, bioluminescent bacterial pools. Tiles connect seamlessly but each is unique. Seasonal transition captured: some tiles blooming (spring), some fruiting (summer), some sporing (autumn), some dormant but glowing (winter). Footprints cause tiles to pulse with light. The path maintains itself -- tiles exchange nutrients through hidden root-network. Macro detail on micro-ecosystems, wide view on infinite path. Botanical accuracy, magical stewardship.",
+  "caption": "Every step tends a garden. 🌱🛤️ Each tile a world. Each season a new mosaic. Your footfall wakes the bioluminescence. The path remembers every traveler. Where does it lead? Only the tiles know.",
   "hashtags": [
-    "#ClockworkFlowers",
-    "#Garden",
-    "#Time",
-    "#Fantasy",
-    "#AIArt"
+    "#LivingMosaic",
+    "#MicroEcosystemTiles",
+    "#InfinitePath",
+    "#BotanicalPathway",
+    "#SeasonalArt",
+    "#AIArt",
+    "#LivingArchitecture",
+    "#GardenPath"
   ]
 }

@@ -1,14 +1,17 @@
 {
   "id": 13,
-  "name": "Golden Hour Observatory on a Floating Mesa",
-  "description": "A sleek glass observatory perched on a floating mesa during golden hour, sunlight streaming through transparent walls.",
-  "prompt": "A sleek glass observatory perched on a floating mesa during golden hour, sunlight streaming through transparent walls, warm hues, dramatic shadows, ultra-realistic, detailed architecture, 8k",
-  "caption": "Observe the sunrise from the heights of the heavens.",
+  "name": "The Gravity Garden of Inverted Waterfalls",
+  "description": "A cliffside garden where waterfalls flow upward into floating basins, fed by clouds below. Plants grow downward from the cliff edge, roots drinking from rising water. Gravity reverses in layered bands, creating impossible horticulture.",
+  "prompt": "Dramatic cliff face with horizontal bands of alternating gravity. Lowest band: normal gravity, lush normal garden. Next band up: reversed gravity -- waterfalls flow UP from a cloud layer into floating stone basins. Plants grow DOWNWARD from cliff edge, roots reaching up into rising water. Next band: normal gravity again -- trees growing upward from floating soil islands. Bands continue upward into clouds. Each band has distinct flora adapted to its gravity. Water cycles visibly between bands. Rainbow prisms in upward waterfalls. Soft diffused light through cloud layer. Surreal but botanically plausible. Wide angle showing full gravity stratification.",
+  "caption": "Up is down. Down is up. 🌊↕️🌿 Roots drink from sky-rivers. Trees grow both ways. The water doesn't fall -- it rises to meet the clouds. In which band would you plant your garden?",
   "hashtags": [
-    "#GoldenObservatory",
-    "#FloatingMesa",
-    "#Sunset",
-    "#Architecture",
-    "#AIArt"
+    "#GravityGarden",
+    "#InvertedWaterfalls",
+    "#ImpossibleBotany",
+    "#FloatingBasins",
+    "#SurrealLandscape",
+    "#AIArt",
+    "#GravityArt",
+    "#HangingGardens"
   ]
 }
