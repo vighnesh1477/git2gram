@@ -1,17 +1,14 @@
 {
   "id": 24,
-  "name": "The Mirror Lake of Parallel Lives",
-  "description": "A perfectly still lake that doesn't reflect the viewer -- it shows the life they would have lived if they'd made different choices. Each ripple reveals another branch. The shore is lined with visitors watching their unlived lives with wonder, grief, or relief.",
-  "prompt": "A supernatural mirror-still lake at twilight. The reflection shows NOT the current reality. Instead: each viewer sees their alternate life paths. One person sees themselves as a musician (holding violin), another as a parent (holding child), another as a traveler (with backpack), another at peace (meditating). The reflections are fully realized scenes with depth, not flat images. Ripples (from wind, thrown stones) shift between parallel lives rapidly. Shore lined with diverse figures -- young, old, all cultures -- gazing with complex emotions. Some weep, some smile, some just watch. The sky reflects as a different sky in each life. Hyper-realistic water physics, emotional storytelling, magical realism.",
-  "caption": "The road not taken has a reflection. 🌊🪞 You're a musician in that ripple. A parent in the next. A traveler in the one after. The lake shows every 'what if.' Some visitors stay for days. Which life would you watch longest?",
+  "name": "Dandelion Constellation Garden",
+  "description": "A peaceful field of dandelions at wind's edge, seeds floating upwards forming recognizable constellations in the night sky, soft golden hour light, dark blue sky emerging, delicate seed textures, magical transition from day to night, serene and wondrous.",
+  "prompt": "A peaceful field of dandelions at the edge of a gentle wind, seeds floating upwards forming recognizable constellations in a darkening night sky, soft golden hour light fading into deep blue, delicate seed textures, magical day-to-night transition, serene and wondrous atmosphere, high detail, nature magic style",
+  "caption": "Seeds becoming stars. 🌼✨🌌",
   "hashtags": [
-    "#MirrorLake",
-    "#ParallelLives",
-    "#RoadNotTaken",
-    "#AlternateSelf",
-    "#Choices",
-    "#AIArt",
-    "#MagicalRealism",
-    "#ReflectionArt"
+    "#DandelionConstellations",
+    "AIArt",
+    "NatureMagic",
+    "NightSky",
+    "Whimsical"
   ]
 }

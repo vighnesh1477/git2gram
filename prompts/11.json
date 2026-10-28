@@ -1,17 +1,14 @@
 {
   "id": 11,
-  "name": "The Resonant Crystal Harp Cavern",
-  "description": "A subterranean cathedral where stalactites and stalagmites are perfectly tuned crystal harps. Groundwater dripping plays eternal symphonies, each chamber a different key. Bioluminescent moss glows in rhythm with the music.",
-  "prompt": "Massive limestone cavern transformed into a natural concert hall. Stalactites and stalagmites are perfectly formed crystal harps -- transparent calcite strings of varying lengths bridge between ceiling and floor formations. Water droplets fall in precise rhythmic patterns, striking crystal strings to produce pure tones. Each chamber resonates in a different musical key (marked by color-coded bioluminescent moss: C-major chamber glows warm amber, D-minor cool blue, etc.). Sound visualized as glowing particles rising from impact points. Underground pool reflects crystal forest. Ethereal, sacred atmosphere. Architectural photography style, subterranean lighting.",
-  "caption": "The earth sings in mineral voices. 💎🎶 Every drop a note. Every chamber a key. The moss pulses with the rhythm of water on crystal. Listen long enough and you'll hear the planet's heartbeat.",
+  "name": "Upside-Down Waterfall",
+  "description": "Water defying gravity, flowing upwards into a swirling vortex of colors leading to a painted sky, dramatic lighting, deep blues and vibrant splashes, impossible physics, artistic and surreal, high detail, visual paradox.",
+  "prompt": "A stunning visual paradox of water flowing upwards against gravity, forming a swirling vortex of vibrant colors leading to a painted sky, dramatic lighting, deep blues and bright splashes, impossible physics, artistic and surreal style, high detail, cinematic composition",
+  "caption": "When water paints the sky. 🎨💧↑",
   "hashtags": [
-    "#CrystalHarp",
-    "#SingingCavern",
-    "#StalactiteMusic",
-    "#BioluminescentMoss",
-    "#SubterraneanSymphony",
-    "#AIArt",
-    "#CaveArt",
-    "#NaturalMusic"
+    "#UpsideDownWaterfall",
+    "AIArt",
+    "ImpossiblePhysics",
+    "Surreal",
+    "Artistic"
   ]
 }

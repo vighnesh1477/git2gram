@@ -1,17 +1,14 @@
 {
   "id": 19,
-  "name": "The Clockwork City of Nested Gears",
-  "description": "A city where every building, bridge, and street is a functional gear in a continent-sized clockwork mechanism. Citizens live inside the gear-teeth, their daily routines powering the great calculation. The sun and moon are driven by the city's motion.",
-  "prompt": "Aerial view of a massive steampunk metropolis where urban planning IS mechanical engineering. Concentric gear-districts mesh perfectly: residential gear-teeth housing millions, industrial gear-cores, commercial gear-rims. Bridges are gear-trains transferring motion. The entire city rotates imperceptibly. Central axle: a towering spire where the Great Calculation occurs. Sun and moon on mechanical arms driven by city's rotation. Steam vents synchronized with gear meshing. Citizens visible as tiny figures moving in gear-tooth apartments. Warm copper/brass/steel palette. Golden hour lighting catching gear teeth. Infinite complexity, fractal mechanical detail. No two gears alike.",
-  "caption": "The city ticks. ⚙️🏙️ Every commute winds the mainspring. Every heartbeat meshes with the Great Calculation. The sun rises because a million people walked to work today. What time is it in your gear?",
+  "name": "Stone Star Map Archive",
+  "description": "An ancient library with walls covered in glowing celestial star maps carved into stone, soft blue ambient lighting, towering bookshelves, astronomical charts, mystical atmosphere, detailed engravings, warm lamplight, timeless wisdom.",
+  "prompt": "An ancient library with walls covered in glowing celestial star maps carved into warm stone, soft blue ambient lighting illuminating intricate engravings, towering bookshelves lined with astronomical charts, mystical and timeless atmosphere, detailed carvings, warm lamplight, scholarly and magical vibe, 8k",
+  "caption": "Maps of the ancient skies. 🗺️✨🌌",
   "hashtags": [
-    "#ClockworkCity",
-    "#GearMetropolis",
-    "#SteampunkCity",
-    "#MechanicalUrbanism",
-    "#GreatCalculation",
-    "#AIArt",
-    "#KineticArchitecture",
-    "#Clockpunk"
+    "#StarMapArchive",
+    "AIArt",
+    "AncientAstronomy",
+    "Elegant",
+    "Cosmic"
   ]
 }

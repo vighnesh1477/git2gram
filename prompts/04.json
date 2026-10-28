@@ -1,17 +1,14 @@
 {
   "id": 4,
-  "name": "The Shadow Puppet Metropolis",
-  "description": "A city built entirely from shadows cast by invisible structures, where buildings only exist when light hits them at specific angles, and citizens are living silhouettes who change form with the sun's position.",
-  "prompt": "A impossible cityscape where architecture exists only as projected shadows on a vast white plane. Multiple light sources (multiple suns, moons, lanterns) cast overlapping shadow-buildings: gothic spires, domed temples, modernist towers, all coexisting as dark silhouettes. Shadow-citizens -- 2D figures with intricate cutout details -- walk shadow-streets, their forms shifting as light angles change. Some areas have colored gels creating stained-glass shadow effects. The 'buildings' are actually invisible wireframe structures floating above, revealed only by their shadows. Dramatic chiaroscuro, high contrast, graphic art style meets architectural precision.",
-  "caption": "A city that only exists when the light allows it. 🏙️🌑 The residents are made of silhouette and suggestion. At noon they're sharp; at golden hour they stretch impossible. What would your shadow-self look like?",
+  "name": "Mirrorscape River Under Starry Night",
+  "description": "A calm river with a perfectly mirror-like surface reflecting the entire Milky Way galaxy, fireflies hovering above, misty banks, deep blues and purples, tranquil atmosphere, high detail, serene night scene.",
+  "prompt": "A serene river at night with a mirror-like surface perfectly reflecting the Milky Way galaxy, fireflies hovering gently above the water, misty banks, deep navy and purple sky, tranquil and magical atmosphere, high detail, long exposure style",
+  "caption": "Where the river reflects the universe. 🌌🪁💙",
   "hashtags": [
-    "#ShadowArt",
-    "#SilhouetteCity",
-    "#LightAndShadow",
-    "#Chiaroscuro",
-    "#ImpossibleArchitecture",
+    "#Mirrorscape",
+    "StarryNight",
     "#AIArt",
-    "#GraphicArt",
-    "#ShadowPuppets"
+    "NatureReflection",
+    "Dreamy"
   ]
 }

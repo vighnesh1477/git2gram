@@ -1,17 +1,14 @@
 {
   "id": 12,
-  "name": "The Paper Lantern Jellyfish Bloom",
-  "description": "An ocean bay where bioluminescent jellyfish are living paper lanterns -- translucent rice paper bells with ink-brush calligraphy tentacles. They pulse with haiku written in light, drifting in currents that carry poems between shores.",
-  "prompt": "A tranquil bay at twilight. Thousands of jellyfish-lanterns: bells of handmade rice paper, glowing from within with warm candle-light. Tentacles are flowing ink-brush calligraphy strokes that rewrite themselves as they drift -- kanji, hangul, latin script, abstract marks. Each pulse illuminates a new haiku in light. Some lanterns are traditional round, others hexagonal, crane-shaped, lotus-shaped. They drift in coordinated currents forming readable verses across the water. Reflection doubles the poetry. Distant shore has stone lanterns matching the jellyfish. Magical realism, Japanese aesthetic (wabi-sabi), bioluminescence, calligraphy as living motion.",
-  "caption": "Poetry that swims. 🏮🌊 Each pulse a new verse. Each tentacle a brushstroke rewriting itself. The tide carries haiku between shores. What would your jellyfish-lantern say?",
+  "name": "Constellation Zoo",
+  "description": "A night-time savanna where animals are formed from star constellations, their bodies outlined by glowing stars, faint galaxy background, serene moonlight, detailed star patterns, magical wilderness, high detail, celestial wildlife.",
+  "prompt": "A savanna landscape at night where animals are formed from constellations, their bodies outlined by glowing stars, faint galaxy backdrop, serene moonlight, detailed star patterns, magical wilderness atmosphere, dark blues and soft silvers, high detail, celestial wildlife style",
+  "caption": "Stars come to life. 🦁✨🌟",
   "hashtags": [
-    "#PaperLanternJellyfish",
-    "#HaikuArt",
-    "#CalligraphyLight",
-    "#BioluminescentBay",
-    "#WabiSabi",
-    "#AIArt",
-    "#PoetryInMotion",
-    "#LivingLanterns"
+    "#ConstellationZoo",
+    "AIArt",
+    "NightSky",
+    "FantasyAnimals",
+    "Stellar"
   ]
 }

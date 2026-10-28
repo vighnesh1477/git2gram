@@ -1,17 +1,14 @@
 {
   "id": 6,
-  "name": "The Chromatic Chameleon Forest",
-  "description": "A forest where every tree, leaf, and creature shifts color in response to emotions projected by visitors -- fear makes blue spirals, joy creates golden fractals, curiosity ripples through violet gradients -- creating a living mood ring landscape.",
-  "prompt": "A dense magical forest where bark, leaves, vines, and creatures are living color-shifting surfaces. In one area, trees ripple with golden fractal patterns (joy). Nearby, blue spiral patterns pulse on ferns (melancholy). Violet gradients wash through canopy leaves (wonder). Crimson geometric bursts on flower petals (passion). The forest floor shows footprints that bloom in the walker's emotional color. Translucent chameleon-like creatures crawl branches, their skin displaying moving mandalas of feeling. Ethereal glow, bioluminescence, subsurface scattering in organic matter. First-person perspective showing color ripples spreading from viewer's position.",
-  "caption": "The forest feels what you feel. 🌈🌳 Walk with joy and the leaves turn gold. Pause in wonder and violet ripples through the canopy. Your heart paints the woods in real time. What color are you today?",
+  "name": "Forest of Echoing Instruments",
+  "description": "A mystical forest where tree trunks are giant musical instruments like violins and trumpets, wind creating gentle melodies, soft golden light filtering through, ethereal atmosphere, detailed instrument-bark hybrids, serene yet musical.",
+  "prompt": "A mystical forest where trees are giant musical instruments such as violins, cellos and trumpets, wind creating soft visible sound ripples, golden light filtering through instrument bark, ethereal atmosphere, detailed hybrid nature-music elements, serene and magical, 8k resolution",
+  "caption": "Where every tree sings a tune. 🎻🌲🎶",
   "hashtags": [
-    "#ChameleonForest",
-    "#EmotionalLandscape",
-    "#LivingColor",
-    "#MoodRing",
-    "#Bioluminescence",
-    "#AIArt",
-    "#InteractiveArt",
-    "#ColorTherapy"
+    "#MusicalForest",
+    "AIgenerated",
+    "#Fantasy",
+    "NatureMusic",
+    "Ethereal"
   ]
 }

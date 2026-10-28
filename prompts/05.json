@@ -1,17 +1,14 @@
 {
   "id": 5,
-  "name": "The Terrarium Worlds Library",
-  "description": "An infinite library where each book is a self-contained living terrarium world -- tiny planets with microscopic civilizations, weather systems, and ecosystems sealed in glass, their stories written in the growth of moss and movement of tiny clouds.",
-  "prompt": "Endless library shelves stretching into misty vanishing point. Each 'book' is a sealed glass terrarium sphere/rectangle containing a complete microscopic world: one has a tiny jungle with waterfall, another a miniature desert with sandstorms, another a microscopic ocean with glowing plankton, another a tiny city with glowing windows. Tiny weather systems visible -- minuscule clouds raining on microscopic forests. Moss grows as 'text' on glass walls. Bioluminescent fungi spell out histories. Warm amber library lighting reflects off thousands of glass worlds. Dust motes dance like stars. Macro photography detail on micro-worlds, cozy magical atmosphere.",
-  "caption": "Every book a world. Every world a story written in moss and rain. 🌍📚🔬 Pull a volume from the shelf and watch a civilization rise and fall in the time it takes to blink. Which tiny world would you guard?",
+  "name": "Spice Bazaar of Floating Orbs",
+  "description": "A vibrant floating sky market where each stall is a colorful balloon carrying exotic spices and treasures, people in traditional attire wandering beneath, vast blue sky background, warm golden lighting, intricate patterns, high detail, cultural fusion.",
+  "prompt": "A vibrant floating sky market, colorful spherical stalls made of woven silk and balloons, selling exotic spices and treasures, people in traditional attire strolling beneath, vast blue sky background, warm golden lighting, intricate textile patterns, whimsical and cultural atmosphere, 8k resolution",
+  "caption": "Shopping on the wind. 🎈🌬️🛍️",
   "hashtags": [
-    "#TerrariumWorlds",
-    "#Microverse",
-    "#LibraryOfWorlds",
-    "#TinyPlanets",
-    "#MossArt",
+    "#FloatingBazaar",
+    "SkyMarket",
     "#AIArt",
-    "#MagicalLibrary",
-    "#WorldBuilding"
+    "Colorful",
+    "CulturalFusion"
   ]
 }

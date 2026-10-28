@@ -1,17 +1,14 @@
 {
   "id": 8,
-  "name": "The Living Stained Glass Cathedral of Seasons",
-  "description": "A cathedral grown from living trees whose leaves are stained glass, changing color with seasons. Sunlight paints the forest floor with shifting sacred geometry that migrates across the year -- spring's pastel mandalas, summer's blazing gold, autumn's amber fractals, winter's ice-crystal blues.",
-  "prompt": "A massive cathedral-like space formed by ancient trees grown in architectural arches. Their leaves are literal stained glass -- thick, leaded, jewel-toned panels that photosynthesize light. Spring: pastel pink/green leaves casting rose mandalas on moss floor. Summer: blazing ruby/gold/amber panels projecting intense sacred geometry. Autumn: amber/orange/red fractal patterns. Winter: clear ice-crystal leaves casting blue snowflake patterns. The 'floor' is living moss that glows where light touches. Branches form flying buttresses. No roof needed -- canopy is the art. Hyper-detailed botanical accuracy meets gothic architecture. Seasonal transition captured in single image.",
-  "caption": "A cathedral not built, but grown. 🌳🕊️ Its leaves are stained glass, its light a prayer in color. The floor remembers every season's shadow. Come back in three months -- the sermon will be completely different.",
+  "name": "Cloud Stairway to Nowhere",
+  "description": "A grand staircase of fluffy white clouds rising into a clear azure sky, a tiny floating island with a single tree at the top, dreamlike perspective, soft lighting, atmospheric perspective, serene and inspiring, high detail.",
+  "prompt": "A grand staircase made of soft white clouds ascending into a clear azure sky, a tiny floating island with a single thriving tree at the top, dreamlike perspective, soft golden sunlight, atmospheric perspective, serene and inspiring mood, high detail, ethereal atmosphere",
+  "caption": "Steps to your dreams. 🪂⛅️🌿",
   "hashtags": [
-    "#StainedGlassTrees",
-    "#LivingCathedral",
-    "#SeasonalArt",
-    "#SacredGeometry",
-    "#TreeArchitecture",
+    "#CloudStairway",
+    "Dreamscape",
     "#AIArt",
-    "#BotanicalArt",
-    "#LightAndColor"
+    "VisualMetaphor",
+    "SkyHigh"
   ]
 }

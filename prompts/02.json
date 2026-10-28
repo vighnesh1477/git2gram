@@ -1,17 +1,14 @@
 {
   "id": 2,
-  "name": "The Origami Beast Migration",
-  "description": "Thousands of giant origami animals -- cranes, elephants, whales, dragons -- folding and unfolding themselves in a perpetual migration across a desert of folded paper dunes, leaving crease-pattern trails that glow at night.",
-  "prompt": "An endless desert where the sand is made of crisp folded paper in warm earth tones. Giant origami creatures migrate in slow motion: 50-foot cranes with wings that fold/unfold like living geometry, elephants whose trunks pleat and unfold with each step, whales swimming through paper dunes leaving phosphorescent crease trails. A massive origami dragon coils around a mesa, its scales catching sunset light. The sky is a gradient of folded-paper clouds. Each creature's surface shows intricate crease patterns that glow faintly in twilight. Cinematic lighting, golden hour, macro details of paper texture, origami art style meets epic scale.",
-  "caption": "They fold themselves into existence at dawn, unfold at dusk. 🦋🐘🐋 A migration written in creases and light. What creature would you fold from a single sheet of sky?",
+  "name": "Bioluminescent Clockwork Garden",
+  "description": "A midnight garden where flowers are made of stained-glass petals and brass gears, emitting soft neon light, surrounded by darkness, intricate mechanical details glowing gently, serene yet vibrant, magical fusion of nature and machinery.",
+  "prompt": "A midnight garden of bioluminescent clockwork flowers, glowing petals made of stained glass and brass gears, soft ethereal light radiating from each flower, surrounding deep darkness, intricate mechanical details, serene yet vibrant atmosphere, 8k resolution, detailed foliage and gears",
+  "caption": "When flowers tell time and glow in the dark. ⏰🌸💫",
   "hashtags": [
-    "#OrigamiArt",
-    "#PaperWorld",
-    "#GiantOrigami",
-    "#DesertDreams",
-    "#FoldedLight",
-    "#AIArt",
-    "#PaperSculpture",
-    "#Migration"
+    "#ClockworkGarden",
+    "#Bioluminescent",
+    "#AIgenerated",
+    "#FantasyArt",
+    "NatureMeetsMachine"
   ]
 }

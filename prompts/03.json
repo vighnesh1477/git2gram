@@ -1,17 +1,14 @@
 {
   "id": 3,
-  "name": "The Confectionery Cloud Factory",
-  "description": "A floating industrial wonderland where clouds are spun from cotton candy, carved into marzipan sculptures, glazed with caramel waterfalls, and packaged in wafer-thin boxes by gingerbread automata for delivery to sleeping children's dreams.",
-  "prompt": "A massive steampunk-fantasy factory floating among cumulus clouds. Clouds are harvested and processed: spun-sugar cotton candy clouds pulled by copper gears, marzipan sculpted into intricate shapes by articulated brass arms, caramel waterfalls cascading over crystallized sugar cliffs. Gingerbread automatons with icing-piping fingers pack dream-clouds into wafer-thin boxes stamped with wax seals. Conveyor belts made of licorice rope. Chimneys puff vanilla-scented steam. Warm golden lighting through sugar-glass windows. Hyper-realistic textures: crystalline sugar, matte marzipan, glossy caramel, soft cotton candy. Magical industrial aesthetic.",
-  "caption": "Ever wonder where sweet dreams come from? 🍬☁️ This factory spins clouds from spun sugar and carves them into memories. Each box delivered on a licorice conveyor holds a flavor of tomorrow. What does your dream taste like?",
+  "name": "Crystal Spire City at Dawn",
+  "description": "A futuristic city nested within massive natural geodes and crystals on a mountainside, sunrise rays refracting through crystal spires, colorful sky reflections, towering prisms, serene architecture, detailed, cinematic lighting, breathtaking view.",
+  "prompt": "A breathtaking city built inside giant geodes and crystals on a mountainside at sunrise, prismatic light refraction coloring the sky, towering crystal spires emerging from rock, colorful reflections, serene architectural details, cinematic lighting, high detail, wide-angle view",
+  "caption": "Living in light's prism. 🌅✨💎",
   "hashtags": [
-    "#CloudFactory",
-    "#CottonCandyClouds",
-    "#SteampunkFantasy",
-    "#SweetDreams",
-    "#ConfectioneryArt",
+    "#CrystalCity",
+    "#PrismLight",
     "#AIArt",
-    "#MagicalRealism",
-    "#Gingerbread"
+    "#Futuristic",
+    "MorningMagic"
   ]
 }

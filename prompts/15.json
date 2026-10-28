@@ -1,17 +1,14 @@
 {
   "id": 15,
-  "name": "The Porcelain Pagoda of Folding Weather",
-  "description": "A pagoda made of delicate porcelain that folds and unfolds like origami to catch different weather -- rain channels into blue celadon pools, snow accumulates on white bisque terraces, sunlight focuses through clear glaze prisms, wind plays ceramic chimes.",
-  "prompt": "A multi-tiered pagoda constructed entirely of fine porcelain in varying glazes. The structure is kinetic -- roof corners fold/unfold like origami to catch weather. Rain mode: blue celadon gutters channel water into reflective pools. Snow mode: white bisque terraces extend to catch drifts. Sun mode: clear glaze prisms deploy, projecting rainbow spectra onto courtyard. Wind mode: delicate ceramic chimes unfurl from eaves. Each tier a different dynasty style (Tang, Song, Ming, Qing glazes). Porcelain translucency glows from within. Surrounding garden has porcelain flowers. Misty mountain background. Exquisite craftsmanship detail, kinetic architecture.",
-  "caption": "A building that dances with the sky. 🏮🌧️☀️❄️ It folds for rain, unfolds for snow, prisms for sun, chimes for wind. Each glaze a different dynasty's answer to weather. What would your house catch?",
+  "name": "Mirror Library of Parallel Lives",
+  "description": "An elegant library with towering mirrors, each reflecting a different living room, landscape, or version of a story, warm lamplight, wooden floors, mysterious yet cozy atmosphere, intricate mirror frames, high detail, contemplative ambiance.",
+  "prompt": "An elegant library with towering ornate mirrors, each reflecting a different living room, landscape, or alternate story version, warm lamplight casting golden glow, wooden floors, mysterious yet cozy atmosphere, intricate mirror frames, high detail, contemplative and sophisticated mood",
+  "caption": "See your other selves. 📖🪞✨",
   "hashtags": [
-    "#PorcelainPagoda",
-    "#KineticArchitecture",
-    "#FoldingBuilding",
-    "#CeladonGlaze",
-    "#WeatherArchitecture",
+    "#MirrorLibrary",
+    "ParallelLives",
     "#AIArt",
-    "#CeramicArt",
-    "#ChineseArchitecture"
+    "Contemplation",
+    "Elegant"
   ]
 }

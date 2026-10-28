@@ -1,17 +1,14 @@
 {
   "id": 10,
-  "name": "The Quilted Landscape of Ancestral Dreams",
-  "description": "A rolling countryside stitched together from infinite fabric patches -- each field a different textile: silk meadows, denim mountains, velvet forests, lace rivers. Quilted paths connect patchwork villages where button-moon rises over embroidered stars.",
-  "prompt": "A vast landscape composed entirely of textiles at macro scale. Rolling hills: silk charmeuse meadows catching light, heavy denim mountains with topstitched ridges, crushed velvet forests with nap that shifts, lace rivers with actual holes showing substrate beneath. Patchwork fields separated by rickrack fences. Quilted paths (running stitch lines) connect villages of button houses with embroidered windows. A massive button moon rises, casting soft light. Embroidered constellations in velvet night sky. Thread trails show movement. Textures hyper-real: individual fibers, stitch tension, fabric sheen. Cozy magical realism, overhead soft lighting.",
-  "caption": "The world, stitched by generations. 🧵🌙 Silk meadows, denim peaks, velvet woods. Every seam holds a story. The moon is mother-of-pearl button. What patch would you add to the quilt?",
+  "name": "Library of Floating Thoughts",
+  "description": "A vast ethereal library floating in a void, books as glowing translucent orbs of light floating in organized disarray, each orb inscribed with tiny glowing runes, soft golden glow, cosmic background, magical atmosphere, high detail, mysterious yet wondrous.",
+  "prompt": "A vast ethereal library floating in a cosmic void, books as glowing translucent orbs of light floating in gentle disarray, each orb inscribed with tiny glowing runes, soft golden ambient light, deep starry background, magical and mysterious atmosphere, intricate detail, 8k resolution",
+  "caption": "Shelving the universe's thoughts. 📚✨💭",
   "hashtags": [
-    "#QuiltedWorld",
-    "#TextileArt",
-    "#FabricLandscape",
-    "#PatchworkPlanet",
-    "#ButtonMoon",
-    "#AIArt",
-    "#FiberArt",
-    "#CozyMagic"
+    "#LibraryOfThoughts",
+    "AIArt",
+    "Ethereal",
+    "Bookish",
+    "CosmicLibrary"
   ]
 }

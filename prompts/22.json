@@ -1,17 +1,14 @@
 {
   "id": 22,
-  "name": "The Balloon Library of Floating Memories",
-  "description": "A library without walls, floating in a calm stratosphere. Books are gas-filled balloons -- each contains a memory written in scented vapor. Readers inhale a balloon's essence to experience the memory. Colors indicate emotional tone.",
-  "prompt": "Serene stratosphere library. No walls, just floating platforms connected by rope bridges. Thousands of memory-balloons tethered: each a translucent sphere containing swirling colored vapor. Colors = emotions: gold (joy), blue (sorrow), green (growth), rose (love), violet (wisdom), amber (nostalgia). Readers sit on cloud-benches, inhaling from balloon-straws to experience memories as immersive VR-like visions projected around them. Balloons glow internally. Some are ancient (faded sepia), some new (vivid). Sunset lighting through vapor clouds. Peaceful, contemplative atmosphere. Weightless architecture.",
-  "caption": "Don't read the memory. Breathe it. 🎈📖 Each balloon holds a life in scented vapor. Gold for joy. Blue for the goodbyes. Inhale and you're there -- the summer afternoon, the hospital hallway, the first kiss. Which color would you choose?",
+  "name": "Season Bubbles Garden",
+  "description": "Giant bubbles floating in the air, each containing a different season's scenery - spring blossoms, summer sun, autumn leaves, winter snow, crystal clear surfaces, soft lighting, magical atmosphere, high detail, nature's cycles encapsulated.",
+  "prompt": "A surreal garden of giant floating bubbles in the air, each bubble containing a different season's scenery - spring blossoms inside one, summer sun within another, autumn leaves swirling in a third, fourth containing gentle snow, crystal clear bubble surfaces, soft ambient lighting, magical atmosphere, high detail, nature's cycles visualized",
+  "caption": "Seasons in a bubble. 💨🌸❄️",
   "hashtags": [
-    "#BalloonLibrary",
-    "#MemoryBalloons",
-    "#ScentedMemories",
-    "#StratosphereLibrary",
-    "#InhaleThePast",
-    "#AIArt",
-    "#FloatingWorld",
-    "#MemoryArt"
+    "#SeasonBubbles",
+    "AIArt",
+    "Surreal",
+    "NatureCycles",
+    "VisualPoetry"
   ]
 }

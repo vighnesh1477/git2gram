@@ -1,17 +1,14 @@
 {
   "id": 17,
-  "name": "The Prism Cathedral of Refracted Souls",
-  "description": "A cathedral where every stained glass window is a living prism that refracts visitors into their component colors -- revealing auras, memories, and dreams as projected light paintings on the walls. Each person casts a unique spectrum.",
-  "prompt": "Gothic cathedral interior. No traditional stained glass -- instead, massive architectural prisms (diamond-cut, faceted, geometric) fill every window frame. Sunlight enters and each visitor standing in the nave is refracted into their personal spectrum projected on walls: not just ROYGBIV but impossible colors -- memory-gold, regret-blue, hope-rose, dream-violet. The projections are animated light-paintings: childhood scenes, future hopes, hidden talents. Prisms rotate slowly on hidden mechanisms, changing the projections. Floor is mirrored black stone reflecting the spectra. Incense smoke catches light, making beams visible. Sacred, awe-inspiring, deeply personal.",
-  "caption": "You are not one color. 🌈⛪ You are a spectrum of every version of yourself. The prisms know. They split your light into memories you forgot and dreams you haven't dared. What colors would your soul refract?",
+  "name": "Rainbow Light Bridge",
+  "description": "An ethereal bridge of pure light arching between two majestic mountain peaks, colors shifting like a living rainbow, soft mist below, golden hour lighting, dreamy atmosphere, high detail, cinematic composition, inspiring crossing.",
+  "prompt": "A breathtaking rainbow light bridge arching between two majestic mountain peaks, colors shifting and fading like living light, soft misty valley below, golden hour lighting, dreamy and inspirational atmosphere, high detail, cinematic composition, wide-angle view",
+  "caption": "Crossing into wonder. 🌈⛰️✨",
   "hashtags": [
-    "#PrismCathedral",
-    "#SoulSpectrum",
-    "#RefractedSelf",
-    "#LivingStainedGlass",
-    "#AuraArt",
-    "#AIArt",
-    "#LightPainting",
-    "#SacredGeometry"
+    "#RainbowLightBridge",
+    "AIArt",
+    "MountainViews",
+    "Dreamy",
+    "LightArt"
   ]
 }

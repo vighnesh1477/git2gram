@@ -1,17 +1,14 @@
 {
   "id": 16,
-  "name": "The Library of Unwritten Letters",
-  "description": "An infinite archive where blank paper floats in zero gravity, each sheet waiting for a letter never sent. When a visitor approaches, the paper unfolds into origami birds carrying the unsent words -- confessions, apologies, declarations -- glowing with the writer's emotional resonance.",
-  "prompt": "Vast zero-gravity archive. Millions of blank sheets float in gentle currents. Near a visitor, sheets spontaneously fold into origami birds -- cranes, swallows, phoenixes -- each glowing with emotional color (rose for love, blue for grief, gold for gratitude, violet for regret). The birds hover, their wings displaying the unwritten words in flowing calligraphy that writes itself in light. Some birds are tiny (short notes), some massive (life stories). The air shimmers with floating phrases. Architecture: impossible floating staircases, reading nooks in bubbles. Soft ambient glow from the letters themselves. Magical realism, emotional visualization.",
-  "caption": "Every 'I never told you' has wings. 🕊️💌 The paper remembers what the heart couldn't say. They fold themselves into birds and wait. Some have waited centuries. Which letter would you finally let fly?",
+  "name": "Singing Mushroom Choir",
+  "description": "An enchanted forest of glowing mushrooms that produce visible sound ripples, soft bioluminescent colors, gentle light pulses rippling through mist, magical ambiance, detailed fungal textures, dark background with luminous elements, serene and otherworldly.",
+  "prompt": "An enchanted forest of bioluminescent mushrooms that produce visible sound ripples in the air, soft glowing colors pulse rhythmically, gentle light waves rippling through mist, magical ambient darkness, detailed fungal textures, luminous elements against dark background, high detail, ethereal soundscape visualizer",
+  "caption": "Where mushrooms sing in colors. 🍄🎵💫",
   "hashtags": [
-    "#UnwrittenLetters",
-    "#OrigamiBirds",
-    "#FloatingArchive",
-    "#UnsentWords",
-    "#EmotionalArt",
-    "#AIArt",
-    "#LetterArt",
-    "#PaperMagic"
+    "#SingingMushrooms",
+    "AIArt",
+    "Bioluminescent",
+    "MagicForest",
+    "SoundVisualized"
   ]
 }
