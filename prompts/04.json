@@ -1,14 +1,14 @@
 {
   "id": 4,
-  "name": "Mirrorscape River Under Starry Night",
-  "description": "A calm river with a perfectly mirror-like surface reflecting the entire Milky Way galaxy, fireflies hovering above, misty banks, deep blues and purples, tranquil atmosphere, high detail, serene night scene.",
-  "prompt": "A serene river at night with a mirror-like surface perfectly reflecting the Milky Way galaxy, fireflies hovering gently above the water, misty banks, deep navy and purple sky, tranquil and magical atmosphere, high detail, long exposure style",
-  "caption": "Where the river reflects the universe. 🌌🪁💙",
+  "name": "The Inkwell Ocean Observatory",
+  "description": "A colossal inkwell turned ocean observatory with star maps swirling inside.",
+  "prompt": "A colossal glass observatory shaped like a floating inkwell, resting on calm ocean waves, ink swirls and star maps inside, moonlit night, surreal, detailed, cinematic, single image, no text",
+  "caption": "The ocean keeps secrets, but it lets you look.",
   "hashtags": [
-    "#Mirrorscape",
-    "StarryNight",
+    "#Inkwell",
+    "#OceanObservatory",
+    "#SurrealArt",
     "#AIArt",
-    "NatureReflection",
-    "Dreamy"
+    "#NightSky"
   ]
 }

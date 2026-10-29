@@ -1,14 +1,14 @@
 {
   "id": 8,
-  "name": "Cloud Stairway to Nowhere",
-  "description": "A grand staircase of fluffy white clouds rising into a clear azure sky, a tiny floating island with a single tree at the top, dreamlike perspective, soft lighting, atmospheric perspective, serene and inspiring, high detail.",
-  "prompt": "A grand staircase made of soft white clouds ascending into a clear azure sky, a tiny floating island with a single thriving tree at the top, dreamlike perspective, soft golden sunlight, atmospheric perspective, serene and inspiring mood, high detail, ethereal atmosphere",
-  "caption": "Steps to your dreams. 🪂⛅️🌿",
+  "name": "The Moonpool Lantern Pond",
+  "description": "A quiet moonpool reflecting a full moon and glowing lanterns.",
+  "prompt": "A quiet moonpool reflecting a full moon, glowing paper lanterns floating on still water, lily pads, fireflies, misty forest edge, serene, magical, detailed, single image, no text",
+  "caption": "The pond holds the moon and lets it go.",
   "hashtags": [
-    "#CloudStairway",
-    "Dreamscape",
+    "#Moonpool",
+    "#LanternPond",
+    "#MagicalNature",
     "#AIArt",
-    "VisualMetaphor",
-    "SkyHigh"
+    "#NightScene"
   ]
 }

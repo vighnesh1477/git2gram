@@ -1,14 +1,14 @@
 {
   "id": 15,
-  "name": "Mirror Library of Parallel Lives",
-  "description": "An elegant library with towering mirrors, each reflecting a different living room, landscape, or version of a story, warm lamplight, wooden floors, mysterious yet cozy atmosphere, intricate mirror frames, high detail, contemplative ambiance.",
-  "prompt": "An elegant library with towering ornate mirrors, each reflecting a different living room, landscape, or alternate story version, warm lamplight casting golden glow, wooden floors, mysterious yet cozy atmosphere, intricate mirror frames, high detail, contemplative and sophisticated mood",
-  "caption": "See your other selves. 📖🪞✨",
+  "name": "The Moonlit Ink Forest",
+  "description": "Ancient trees made of flowing black ink and silver moonlight.",
+  "prompt": "An enchanted forest where ancient trees are made of flowing black ink and silver moonlight, glowing calligraphy vines, misty path, surreal, detailed, cinematic, single image, no text",
+  "caption": "The forest writes its own legends after dark.",
   "hashtags": [
-    "#MirrorLibrary",
-    "ParallelLives",
+    "#InkForest",
+    "#Moonlit",
+    "#SurrealNature",
     "#AIArt",
-    "Contemplation",
-    "Elegant"
+    "#FantasyArt"
   ]
 }

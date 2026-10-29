@@ -1,14 +1,14 @@
 {
   "id": 6,
-  "name": "Forest of Echoing Instruments",
-  "description": "A mystical forest where tree trunks are giant musical instruments like violins and trumpets, wind creating gentle melodies, soft golden light filtering through, ethereal atmosphere, detailed instrument-bark hybrids, serene yet musical.",
-  "prompt": "A mystical forest where trees are giant musical instruments such as violins, cellos and trumpets, wind creating soft visible sound ripples, golden light filtering through instrument bark, ethereal atmosphere, detailed hybrid nature-music elements, serene and magical, 8k resolution",
-  "caption": "Where every tree sings a tune. 🎻🌲🎶",
+  "name": "The Windchime Desert Archive",
+  "description": "A desert archive where wind chimes made of bone and glass hold ancient songs.",
+  "prompt": "A desert archive carved into sandstone cliffs, thousands of wind chimes made of bone, brass, and glass hanging in vast echoing chambers, sand dunes outside, sunset, mysterious, detailed, fantasy, single image, no text",
+  "caption": "The desert keeps its stories in song.",
   "hashtags": [
-    "#MusicalForest",
-    "AIgenerated",
+    "#WindchimeArchive",
+    "#Desert",
     "#Fantasy",
-    "NatureMusic",
-    "Ethereal"
+    "#AIArt",
+    "#SoundAndLight"
   ]
 }

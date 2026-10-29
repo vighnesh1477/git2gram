@@ -1,14 +1,14 @@
 {
   "id": 3,
-  "name": "Crystal Spire City at Dawn",
-  "description": "A futuristic city nested within massive natural geodes and crystals on a mountainside, sunrise rays refracting through crystal spires, colorful sky reflections, towering prisms, serene architecture, detailed, cinematic lighting, breathtaking view.",
-  "prompt": "A breathtaking city built inside giant geodes and crystals on a mountainside at sunrise, prismatic light refraction coloring the sky, towering crystal spires emerging from rock, colorful reflections, serene architectural details, cinematic lighting, high detail, wide-angle view",
-  "caption": "Living in light's prism. 🌅✨💎",
+  "name": "The Glass Otter Lagoon",
+  "description": "A serene lagoon where otters live in glass dens beneath the water.",
+  "prompt": "A serene lagoon under a glassy turquoise surface, playful otters with shells made of translucent blue glass building cozy dens among reeds, sunbeams filtering through water, reflections, whimsical, detailed, single image, no text",
+  "caption": "Even the smallest builders deserve a view of the sea.",
   "hashtags": [
-    "#CrystalCity",
-    "#PrismLight",
+    "#GlassOtter",
+    "#Whimsical",
+    "#Underwater",
     "#AIArt",
-    "#Futuristic",
-    "MorningMagic"
+    "#FantasyWorld"
   ]
 }

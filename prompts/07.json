@@ -1,14 +1,14 @@
 {
   "id": 7,
-  "name": "Lunar Tide City",
-  "description": "An underwater city illuminated by silver moonlight streaming through water, glass and coral structures glowing, bioluminescent fish swimming around, serene and magical deep-sea view, detailed architecture, cool blue tones, cinematic underwater lighting.",
-  "prompt": "An underwater city at night, glass and coral structures illuminated by silver moonlight streaming from above, bioluminescent fish swimming around intricate spires, serene deep sea environment, cool blue tones, magical ambiance, detailed marine architecture, cinematic underwater lighting, 8k",
-  "caption": "Moonlit depths. 🌙🐠💎",
+  "name": "The Firebird Greenhouse",
+  "description": "Fiery firebirds and molten glass flowers inside a glowing glass greenhouse.",
+  "prompt": "A vast glass greenhouse filled with fiery firebirds and molten glass flowers, glowing embers floating in the air, tropical vines, sunset light through glass, warm reds and golds, intricate, magical, single image, no text",
+  "caption": "Where flames learn to bloom.",
   "hashtags": [
-    "#UnderwaterCity",
-    "Moonlight",
+    "#Firebird",
+    "#GlassGreenhouse",
+    "#Fantasy",
     "#AIArt",
-    "OceanMyst",
-    "Bioluminescent"
+    "#Bioluminescence"
   ]
 }

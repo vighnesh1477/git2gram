@@ -1,14 +1,14 @@
 {
   "id": 12,
-  "name": "Constellation Zoo",
-  "description": "A night-time savanna where animals are formed from star constellations, their bodies outlined by glowing stars, faint galaxy background, serene moonlight, detailed star patterns, magical wilderness, high detail, celestial wildlife.",
-  "prompt": "A savanna landscape at night where animals are formed from constellations, their bodies outlined by glowing stars, faint galaxy backdrop, serene moonlight, detailed star patterns, magical wilderness atmosphere, dark blues and soft silvers, high detail, celestial wildlife style",
-  "caption": "Stars come to life. 🦁✨🌟",
+  "name": "The Starlight Heron Marsh",
+  "description": "Starlight herons standing among glowing reeds in a misty marsh.",
+  "prompt": "A misty marsh at twilight, herons made of soft starlight standing among glowing reeds, moon reflection on water, purple and blue tones, magical, peaceful, detailed, single image, no text",
+  "caption": "Even reflections can stand still.",
   "hashtags": [
-    "#ConstellationZoo",
-    "AIArt",
-    "NightSky",
-    "FantasyAnimals",
-    "Stellar"
+    "#StarlightHeron",
+    "#MagicalMarsh",
+    "#NightNature",
+    "#AIArt",
+    "#FantasyArt"
   ]
 }
