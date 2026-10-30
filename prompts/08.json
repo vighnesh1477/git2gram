@@ -1,14 +1,14 @@
 {
   "id": 8,
-  "name": "The Moonpool Lantern Pond",
-  "description": "A quiet moonpool reflecting a full moon and glowing lanterns.",
-  "prompt": "A quiet moonpool reflecting a full moon, glowing paper lanterns floating on still water, lily pads, fireflies, misty forest edge, serene, magical, detailed, single image, no text",
-  "caption": "The pond holds the moon and lets it go.",
+  "name": "Eclipse Butterfly Arboretum",
+  "description": "A garden where butterflies create their own eclipse, forming a living silhouette that darkens the sun and casts prismatic shadows.",
+  "prompt": "A vibrant arboretum filled with fluttering butterflies that collectively form an eclipse pattern, casting shifting kaleidoscopic shadows on radiant petals, ethereal, dreamlike, ultra-detailed, no text.",
+  "caption": "Witness the butterflies' eclipse – nature’s own celestial performance.",
   "hashtags": [
-    "#Moonpool",
-    "#LanternPond",
-    "#MagicalNature",
-    "#AIArt",
-    "#NightScene"
+    "#EclipseButterfly",
+    "#LivingEclipse",
+    "#ArboretumDreams",
+    "#ButterflyEclipse",
+    "#NatureSpectacle"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "id": 3,
-  "name": "The Glass Otter Lagoon",
-  "description": "A serene lagoon where otters live in glass dens beneath the water.",
-  "prompt": "A serene lagoon under a glassy turquoise surface, playful otters with shells made of translucent blue glass building cozy dens among reeds, sunbeams filtering through water, reflections, whimsical, detailed, single image, no text",
-  "caption": "Even the smallest builders deserve a view of the sea.",
+  "name": "Floating Archive of Lost Whispers",
+  "description": "A floating library of glass books, each holding captured whispers of forgotten memories, drifting among fluffy clouds.",
+  "prompt": "A breathtaking floating archive composed of translucent glass books, each glowing with captured whispers, suspended in a sea of soft cumulus clouds, sunlit from below, whimsical, highly detailed, no text, ethereal atmosphere.",
+  "caption": "Discover the stories that once drifted away – the Floating Archive holds whispers of a forgotten past.",
   "hashtags": [
-    "#GlassOtter",
-    "#Whimsical",
-    "#Underwater",
-    "#AIArt",
-    "#FantasyWorld"
+    "#FloatingArchive",
+    "#LostWhispers",
+    "#GlassBooks",
+    "#CloudLibrary",
+    "#MemoryDreams"
   ]
 }
