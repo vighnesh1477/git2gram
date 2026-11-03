@@ -1,14 +1,17 @@
 {
   "id": 10,
-  "name": "Bioluminescent Desert",
-  "description": "An endless desert of glowing sand dunes that pulse with soft blue‑green bioluminescence, creating rivers of light that wind across the night landscape.",
-  "prompt": "Vast desert at night, sand dunes emitting gentle bioluminescent glow, rivers of liquid light winding through, stars overhead, cool blue‑green tones, photorealistic, sense of quiet wonder, no text, immersive atmosphere.",
-  "caption": "Walk through a desert that shines from within—each step illuminates a luminous pathway through the night.",
+  "name": "Velvet Nebula Cradle",
+  "description": "A cosmic nursery where infant stars rest in clouds of crushed velvet and silk, their first light filtering through fabric nebulae in soft pastel gradients.",
+  "prompt": "Cosmic stellar nursery, infant protostars cradled in clouds of deep velvet and silk fabric nebulae, soft pastel gradients — rose, lavender, mint, peach — first starlight filtering through textile textures, quilted galaxy backdrop, tactile cosmic materials, macro texture detail, dreamlike soft focus, 8k, fantasy space art",
+  "caption": "Even stars need swaddling. 🌌🍼",
   "hashtags": [
-    "#BioluminescentDesert",
-    "#GlowSand",
-    "#NightDesert",
-    "#LightInTheDark",
-    "#EerieBeauty"
+    "#NebulaArt",
+    "#StellarNursery",
+    "#TextileCosmos",
+    "#SoftUniverse",
+    "#PastelSpace",
+    "#AIArt",
+    "#FantasySpace",
+    "#CosmicTextiles"
   ]
 }

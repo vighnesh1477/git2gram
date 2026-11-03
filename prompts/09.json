@@ -1,14 +1,17 @@
 {
   "id": 9,
-  "name": "Cloud Palace of Weather Layers",
-  "description": "A surreal palace built from stacked clouds, each level representing a different weather phenomenon, with waterfalls of rain cascading between them.",
-  "prompt": "Floating palace constructed from layers of fluffy clouds, each tier showing a distinct weather effect—sunny yellow, stormy gray, rainbows, soft mist—rain waterfalls linking levels, soft pastel sky, wide panoramic view, hyperrealistic, no text, whimsical fantasy.",
-  "caption": "Live among the clouds—where each floor brings a new weather song, turning the palace into a living meteorologist.",
+  "name": "Prism Rain Symphony",
+  "description": "Rain frozen mid-fall, each droplet a perfect prism refracting the world into spectra, suspended on invisible strings like a harp waiting for wind to play it.",
+  "prompt": "Rain frozen mid-fall in vast cathedral space, each droplet a perfect geometric prism refracting surroundings into full spectra, suspended on invisible tension threads like harp strings, rainbow caustics painting surfaces, single shaft of white light entering, macro detail on droplet facets, physics-defying stillness, 8k, optical photography style",
+  "caption": "Every raindrop holds a rainbow. This storm holds them all. 🌈💧",
   "hashtags": [
-    "#CloudPalace",
-    "#WeatherLayers",
-    "#SkyCastles",
-    "#CloudArchitecture",
-    "#WeatherWonder"
+    "#PrismRain",
+    "#FrozenRain",
+    "#Caustics",
+    "#RainbowPhysics",
+    "#MacroPhotography",
+    "#AIArt",
+    "#OpticalArt",
+    "#SuspendedMoment"
   ]
 }

@@ -1,14 +1,17 @@
 {
   "id": 24,
-  "name": "Crystal Canyon Temple",
-  "description": "A hidden canyon carved entirely from massive crystal formations, housing a ancient temple whose walls reflect shifting constellations and glow with inner light.",
-  "prompt": "Stunning canyon lined with towering crystal formations, an ancient temple nestled within, walls shimmering with reflected stars, soft ambient glow, dramatic lighting, hyperrealistic, no text, sense of timeless reverence.",
-  "caption": "Step into a canyon of glass where the night sky lives within the walls—ancient stone meets eternal starlight.",
+  "name": "Prism Wing Atrium",
+  "description": "A sunlit conservatory where butterflies with prism-wing scales fly through beams of light, each wingbeat projecting shifting rainbows that paint the glass walls in living color.",
+  "prompt": "Sunlit glass conservatory, butterflies with prismatic crystalline wing scales flying through concentrated light beams, each wingbeat projecting shifting rainbows painting glass walls in living color, caustic patterns dancing on surfaces, hundreds of species, macro detail on wing nanostructure, joyful chaotic beauty, 8k, nature photography",
+  "caption": "They don't just reflect rainbows. They throw them. 🦋🌈",
   "hashtags": [
-    "#CrystalCanyon",
-    "#TempleOfGlass",
-    "#StarReflecting",
-    "#InnerGlow",
-    "#EternalSanctuary"
+    "#PrismWings",
+    "#ButterflyConservatory",
+    "#LivingRainbows",
+    "#CausticArt",
+    "#WingNanostructure",
+    "#AIArt",
+    "#NaturePhotography",
+    "#ColorTheory"
   ]
 }

@@ -1,14 +1,17 @@
 {
   "id": 8,
-  "name": "Golden Honeycomb Fortress",
-  "description": "A towering fortress shaped like a massive honeycomb, perched on a cliff edge, with golden bees buzzing around its entrances and intricate wax sculptures.",
-  "prompt": "Impressive fortress with hexagonal honeycomb structure, gleaming golden exterior, cliffs below, swarms of golden bees hovering, sunlit surfaces catching fire, realistic textures, dramatic lighting, no text, awe‑inspiring scale.",
-  "caption": "Enter the golden honeycomb fortress—where every cell holds the buzz of countless industrious bees.",
+  "name": "Airborne Coral Atoll",
+  "description": "A floating reef kingdom suspended in cloud layers, coral formations in impossible colors hosting sky-fish and cloud-anemones, connected by bridges of woven vapor.",
+  "prompt": "Floating coral atoll suspended in cloud layers, impossible coral colors — electric pink, deep violet, bioluminescent teal, living sky-fish swimming through air, cloud-anemones pulsing, bridges of woven vapor connecting formations, cumulus sunset lighting, atmospheric perspective, fantasy seascape in sky, 8k, unreal engine 5",
+  "caption": "The ocean dreamed of flying. The sky agreed. 🪸☁️",
   "hashtags": [
-    "#HoneycombFortress",
-    "#GoldenBees",
-    "#CliffsideCastle",
-    "#NatureArchitecture",
-    "#BuzzingGlory"
+    "#FloatingReef",
+    "#SkyOcean",
+    "#CoralKingdom",
+    "#Cloudscape",
+    "#FantasyWorld",
+    "#AIArt",
+    "#Bioluminescent",
+    "#AtmosphericArt"
   ]
 }

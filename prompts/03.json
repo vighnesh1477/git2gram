@@ -1,14 +1,17 @@
 {
   "id": 3,
-  "name": "Singing Clockwork Garden",
-  "description": "A whimsical garden where mechanical flowers bloom in synchronized patterns, each petal rotating and emitting melodic tones as the gentle breeze passes through.",
-  "prompt": "A vivid garden of brass and copper clockwork flowers, gears visible, petals turning in harmony, soft breezes causing them to whirr and produce gentle musical notes, warm golden sunlight, detailed textures, steampunk meets nature, no text, peaceful yet magical ambience.",
-  "caption": "Watch the flowers dance and sing—nature reimagined with the heart of a thousand tiny clocks.",
+  "name": "Neon Moss Grotto",
+  "description": "A subterranean cavern where walls pulse with electric moss in cyan, magenta, and gold, stalactites dripping liquid light into pools that reflect impossible constellations.",
+  "prompt": "Subterranean grotto, walls covered in pulsating neon moss in electric cyan, hot magenta, vibrant gold, stalactites dripping liquid light into mirror pools reflecting impossible constellations, bioluminescent fungi clusters, atmospheric volumetric fog, dramatic rim lighting, 8k, unreal engine 5 render style, fantasy environment art",
+  "caption": "The underground knows colors the sun has never seen. 🌈🕳️",
   "hashtags": [
-    "#ClockworkNature",
-    "#SingingFlowers",
-    "#SteampunkGarden",
-    "#MechanicalBeauty",
-    "#HarmoniousGarden"
+    "#NeonNature",
+    "#MossGrotto",
+    "#Bioluminescence",
+    "#Subterranean",
+    "#FantasyEnvironment",
+    "#AIArt",
+    "#VolumetricLighting",
+    "#CyberNature"
   ]
 }
