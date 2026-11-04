@@ -1,17 +1,14 @@
 {
   "id": 3,
-  "name": "Neon Moss Grotto",
-  "description": "A subterranean cavern where walls pulse with electric moss in cyan, magenta, and gold, stalactites dripping liquid light into pools that reflect impossible constellations.",
-  "prompt": "Subterranean grotto, walls covered in pulsating neon moss in electric cyan, hot magenta, vibrant gold, stalactites dripping liquid light into mirror pools reflecting impossible constellations, bioluminescent fungi clusters, atmospheric volumetric fog, dramatic rim lighting, 8k, unreal engine 5 render style, fantasy environment art",
-  "caption": "The underground knows colors the sun has never seen. 🌈🕳️",
+  "name": "Aetherial Clockwork Garden",
+  "description": "Floating islands drift in a pastel sky, each hosting intricate clockwork flora that ticks in harmony with the wind.",
+  "prompt": "A surreal sky garden: several levitating islands covered in brass and copper clockwork plants — gear-driven vines, piston blossoms, ticking leaf mechanisms. Soft pastel clouds, golden hour light, gentle motion blur on moving gears. Steampunk aesthetic, ultra-sharp, 8K.",
+  "caption": "Time blossoms in brass and wind. ⚙️🌿 #AetherialClockworkGarden",
   "hashtags": [
-    "#NeonNature",
-    "#MossGrotto",
-    "#Bioluminescence",
-    "#Subterranean",
-    "#FantasyEnvironment",
-    "#AIArt",
-    "#VolumetricLighting",
-    "#CyberNature"
+    "#AetherialClockworkGarden",
+    "#SteampunkNature",
+    "#FloatingIslands",
+    "#ClockworkArt",
+    "#AIArt"
   ]
 }

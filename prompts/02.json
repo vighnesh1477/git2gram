@@ -1,17 +1,14 @@
 {
   "id": 2,
-  "name": "Time-Woven Vine Atrium",
-  "description": "An immense greenhouse where ancient vines have grown through centuries in a single moment, each leaf showing a different season, clocks blooming like flowers among the foliage.",
-  "prompt": "Massive glass atrium, time-woven vines growing through centuries simultaneously, leaves displaying all four seasons at once — blossoms, green, amber, frost on same branch, antique clocks blooming as flowers with roman numeral petals, golden hour light through glass panes, dust motes dancing, hyperrealistic textures, 8k resolution, architectural photography style",
-  "caption": "Every leaf a different year. Every flower a frozen hour. 🌿⏳",
+  "name": "Solar Flare Meadow of Glass Flowers",
+  "description": "A meadow of delicate glass flowers that catch and refract solar flares, turning sunlight into rainbow ribbons.",
+  "prompt": "A vast meadow at high noon, covered in translucent glass flowers of varied shapes — tulips, lilies, orchids — each petal catching intense solar flares. The light refracts into vivid spectral ribbons that dance across the grass. Photorealistic, macro detail, HDR, vibrant colors.",
+  "caption": "When the sun kisses glass petals, the meadow sings in rainbows. 🌞🌸 #SolarFlareMeadow",
   "hashtags": [
-    "#TimeLapse",
-    "#VineAtrium",
-    "#FourSeasons",
-    "#ClockFlowers",
-    "#GlassArchitecture",
-    "#AIArt",
-    "#Surrealism",
-    "#GoldenHour"
+    "#SolarFlareMeadow",
+    "#GlassFlowers",
+    "#LightArt",
+    "#NatureMagic",
+    "#AIArt"
   ]
 }
