@@ -1,14 +1,12 @@
 {
   "id": 22,
-  "name": "The Moonlit Coral Carousel",
-  "description": "A coral carousel under the sea where sea creatures ride glowing horses.",
-  "prompt": "A coral carousel under the sea where sea creatures ride glowing horses, colorful coral reefs, soft blue underwater light, dreamy aquatic fantasy, cinematic lighting, highly detailed, no text, no logo, single image.",
-  "caption": "Ride the tide, ride the dream.",
+  "name": "Floating Market of Dreamcatchers",
+  "description": "Booths floating on mist, selling dreamcatchers woven from starlight and cloud fibers.",
+  "prompt": "An ethereal floating market on misty clouds, stalls selling dreamcatchers made of woven starlight and soft cloud fibers, glowing at night.",
+  "caption": "Catch your dreams in the clouds 🌙🪷 #FloatingDreamcatchers #CloudMarket #StarWeave",
   "hashtags": [
-    "#CoralCarousel",
-    "#UnderwaterFantasy",
-    "#AIArt",
-    "#FantasyArt",
-    "#Dreamscape"
+    "#FloatingDreamcatchers",
+    "#CloudMarket",
+    "#StarWeave"
   ]
 }

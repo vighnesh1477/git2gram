@@ -1,14 +1,12 @@
 {
   "id": 20,
-  "name": "The Luminous Ink Ocean",
-  "description": "An ocean made of glowing ink where whales swim through stories.",
-  "prompt": "An ocean made of glowing ink where whales swim through stories, swirling dark ink clouds with bioluminescent blue light, floating script-like waves, dreamy surreal ocean, cinematic lighting, highly detailed, no text, no logo, single image.",
-  "caption": "The tide reads different at night.",
+  "name": "Crystal Harp Cavern of Echoes",
+  "description": "A cavern where crystal harps hang from the ceiling, played by gentle breezes, producing ethereal chords that ripple through light.",
+  "prompt": "An underground cavern lined with crystalline harps, strings resonating with soft breezes, luminous tones visualized as flowing light, mystical.",
+  "caption": "Hear the stones sing 🎶💎 #CrystalHarpCavern #EchoesOfLight #WindMusic",
   "hashtags": [
-    "#InkOcean",
-    "#FantasyArt",
-    "#AIArt",
-    "#Bioluminescence",
-    "#Dreamscape"
+    "#CrystalHarpCavern",
+    "#EchoesOfLight",
+    "#WindMusic"
   ]
 }
