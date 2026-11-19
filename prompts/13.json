@@ -1,16 +1,14 @@
 {
   "id": 13,
-  "name": "Cactus Lantern Desert",
-  "description": "A twilight desert where cacti bloom into glowing lantern flowers as travelers rest beside a campfire.",
-  "prompt": "A single serene twilight desert scene where tall saguaro cacti bloom with glowing paper-lantern flowers in warm gold and rose. A small caravan of robed travelers rests beside a campfire, camels silhouetted, dunes rolling toward distant mountains. Deep violet sky with early stars, soft magical light, culture-inspired fantasy, no text, no logos, no watermarks.",
-  "caption": "The desert doesn't need streetlights—it grows them. Would you camp beneath the cactus lanterns?",
+  "name": "The Comet Tail Orchard",
+  "description": "An orchard where luminous fruit trees grow along the glittering tail of a comet.",
+  "prompt": "A magical orchard at night where fruit trees grow along the glittering tail of a passing comet, luminous pears and apples like small stars, deep blue sky, soft purple hills, sparkling dust, dreamy celestial landscape, ultra-detailed, single image, no text, no logos, no watermark.",
+  "caption": "The harvest falls from the stars. ☄️🍐",
   "hashtags": [
-    "#CactusLanterns",
-    "#DesertMagic",
-    "#TwilightDesert",
-    "#GlowingBloom",
+    "#CometOrchard",
+    "#CelestialHarvest",
     "#AIArt",
-    "#FantasyTravel",
-    "#LanternFlowers"
+    "#NightSkyMagic",
+    "#FantasyLandscape"
   ]
 }

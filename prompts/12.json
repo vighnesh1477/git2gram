@@ -1,16 +1,14 @@
 {
   "id": 12,
-  "name": "Mossy Megaphone Grove",
-  "description": "A forest clearing with giant vintage megaphones overgrown by moss, broadcasting birdsong through the trees.",
-  "prompt": "A single mysterious yet gentle forest scene where giant vintage brass megaphones lie half-buried among moss, ferns, and wildflowers. Tiny birds perch on the rims, and soft rings of sound ripple through the air as golden pollen. Dappled sunlight, ancient trees, emerald and brass palette, magical realism, high detail, no text, no logos, no watermarks.",
-  "caption": "If the forest could speak through old megaphones, what would it say first?",
+  "name": "The Woolly Mammoth Meadow",
+  "description": "A gentle woolly mammoth calf standing in a wildflower meadow under a vast nostalgic sky.",
+  "prompt": "A peaceful green meadow at golden hour with a gentle woolly mammoth calf standing among wildflowers, distant mountains, huge soft clouds, warm nostalgic light, prehistoric wonder, detailed fur, serene mood, cinematic wide shot, single image, no text, no logos, no watermark.",
+  "caption": "A little giant from another time. 🦣🌼",
   "hashtags": [
-    "#MossyMegaphones",
-    "#ForestMagic",
-    "#SoundOfNature",
-    "#MagicalRealism",
+    "#WoollyMammoth",
+    "#PrehistoricWonder",
     "#AIArt",
-    "#WhimsicalForest",
-    "#BrassAndMoss"
+    "#NatureNostalgia",
+    "#GoldenHour"
   ]
 }
