@@ -1,14 +1,13 @@
 {
   "id": 19,
-  "name": "The Bamboo Sky Elevator",
-  "description": "A bamboo elevator rising through clouds toward a floating village.",
-  "prompt": "A tall bamboo elevator structure rising through soft clouds toward a floating village of wooden houses and hanging gardens, warm lanterns, lush green mountains, birds circling, serene fantasy architecture, intricate details, cinematic lighting, single image, no text, no logos, no watermark.",
-  "caption": "Next stop: above the clouds. 🎋☁️",
+  "name": "Celestial Mosaic Bridge",
+  "description": "A bridge composed of luminous mosaic tiles that map constellations, leading travelers through a sky of stars.",
+  "prompt": "Elegant bridge made of colorful mosaic tiles that depict swirling constellations, each tile glowing softly, spanning a valley under a star‑filled sky, twilight ambiance, ethereal illumination.",
+  "caption": "Cross a bridge that maps the heavens—walk among the stars. 🌌🌉",
   "hashtags": [
-    "#BambooElevator",
-    "#SkyVillage",
-    "#AIArt",
-    "#FantasyArchitecture",
-    "#CloudJourney"
+    "#CelestialBridge",
+    "#MosaicStars",
+    "#ConstellationWalk",
+    "#SkyBridge"
   ]
 }
