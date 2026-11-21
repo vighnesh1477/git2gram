@@ -1,17 +1,14 @@
 {
   "id": 20,
-  "name": "Floating Lantern Meadow",
-  "description": "A meadow suspended in the sky, dotted with thousands of floating lanterns that drift like seeds.",
-  "prompt": "A vast meadow floating among clouds, covered in soft grass and thousands of glowing lanterns drifting gently like seeds, sunrise lighting, dreamy atmosphere, hyperrealistic, 8k, unreal engine 5",
-  "caption": "A field of wishes released to the wind. 🌾🏮 #FloatingLanternMeadow",
+  "name": "Floating Ember Meadow",
+  "description": "A meadow hovering above a calm lake, grass blades tipped with glowing embers that drift like fireflies, reflecting in the mirror‑like water.",
+  "prompt": "A surreal meadow suspended a few meters above a perfectly still lake, grass blades end in soft amber embers that pulse gently, reflection doubles the glow, distant mountains under a pastel sunset, dreamy atmosphere, ultra‑sharp detail, 8k",
+  "caption": "Walk on light, breathe in ember‑kissed air. 🌾🔥",
   "hashtags": [
-    "#FloatingLanternMeadow",
-    "#Lanterns",
-    "#FloatingIsland",
-    "#Meadow",
-    "#FantasyLandscape",
-    "#AIArt",
-    "#DigitalArt",
-    "#Dreams"
+    "#FloatingMeadow",
+    "#EmberGlow",
+    "#DreamLandscape",
+    "#ReflectiveArt",
+    "#AIArt"
   ]
 }

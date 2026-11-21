@@ -1,17 +1,14 @@
 {
   "id": 24,
-  "name": "Velvet Dawn Cascade",
-  "description": "A cascade of water over velvet‑soft cliffs at dawn, the mist catching the first light in rose‑gold tones.",
-  "prompt": "A serene waterfall cascading over cliffs covered in soft velvet‑textured moss at dawn, mist catching rose‑gold sunlight, tranquil pool below, hyperrealistic, 8k, cinematic, peaceful fantasy landscape",
-  "caption": "Dawn drapes the falls in velvet gold. 🌅💧 #VelvetDawnCascade",
+  "name": "Moonlit Prism Orchard",
+  "description": "An orchard where each tree bears fruit that refracts moonlight into prismatic spectra, creating a rainbow canopy.",
+  "prompt": "Nighttime orchard with trees heavy with glowing fruit, each fruit acts as a prism splitting moonlight into vivid rainbows that overlay to form a luminous canopy, grass glows softly, fireflies drift, ultra‑realistic, 8k",
+  "caption": "Taste the colors of the night. 🌙🍎",
   "hashtags": [
-    "#VelvetDawnCascade",
-    "#Waterfall",
-    "#Dawn",
-    "#VelvetTexture",
-    "#FantasyLandscape",
-    "#AIArt",
-    "#DigitalArt",
-    "#MorningLight"
+    "#MoonlitOrchard",
+    "#PrismFruit",
+    "#RainbowCanopy",
+    "#NightHarvest",
+    "#AIArt"
   ]
 }
