@@ -1,19 +1,14 @@
 {
   "id": 18,
-  "name": "Pendulum Wave Desert",
-  "description": "A desert where sand dunes are replaced by thousands of giant pendulums swinging in perfect phase patterns — each bob a polished stone sphere — creating mesmerizing wave patterns across the landscape as they sync and desync.",
-  "prompt": "Vast desert landscape covered in thousands of giant pendulums instead of dunes, each pendulum 10 meters tall with polished stone sphere bobs (marble, obsidian, quartz, sandstone), suspended from invisible sky anchors, swinging in mesmerizing phase wave patterns — syncing into perfect lines then dissolving into chaos then reforming, golden hour light catches spheres creating moving constellations, shadows sweep ground like clock hands, hypnotic mathematical beauty, 8k, aerial drone perspective showing wave patterns",
-  "caption": "Time doesn't just pass here. It dances. ⏳🌊\n\nThousands of pendulums. One perfect, endless equation.\n\n#PendulumWave #DesertTime #PhasePatterns #MathematicalBeauty #KineticLandscape #SyncAndDesync #AIArt #HypnoticArt #TimeVisualized #Mesmerizing",
+  "name": "Deep Sea Cathedral",
+  "description": "An enormous submerged cathedral with glass walls, gothic arches, and bioluminescent sea creatures swimming in the nave, rays of sunlight piercing from above, creating a sacred underwater scene.",
+  "prompt": "Submerged Gothic cathedral with transparent glass walls, bioluminescent fish and seaweed swimming inside, sunlight beams piercing from surface above, ethereal blue light, sacred atmosphere, intricate architectural details, no text",
+  "caption": "Sacred depths. 🐋🕊️ #AIArt #DeepSeaCathedral #Underwater",
   "hashtags": [
-    "#PendulumWave",
-    "#DesertTime",
-    "#PhasePatterns",
-    "#MathematicalBeauty",
-    "#KineticLandscape",
-    "#SyncAndDesync",
     "#AIArt",
-    "#HypnoticArt",
-    "#TimeVisualized",
-    "#Mesmerizing"
+    "#DeepSeaCathedral",
+    "#Underwater",
+    "#Gothic",
+    "#Bioluminescent"
   ]
 }

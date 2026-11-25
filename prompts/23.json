@@ -1,19 +1,14 @@
 {
   "id": 23,
-  "name": "Braille Constellation Field",
-  "description": "A field of raised dots covering the earth like Braille — each constellation a sentence written across the landscape — readable only by touch, telling the sky's stories to those who walk the lines barefoot.",
-  "prompt": "Vast field covered in raised tactile dots forming Braille constellations across landscape, each star a raised dome, lines connecting them form sentences in universal Braille, blind and sighted people walk barefoot reading the sky's stories with their feet, fingertips tracing constellation lines, night sky above mirrors the ground patterns perfectly, moonlight casts shadows making dots readable visually too, profound accessibility concept, peaceful starlit atmosphere, 8k, human scale perspective",
-  "caption": "The stars wrote their stories in Braille — so everyone could read them. ⭐👣\n\nWalk the constellations. Feel the universe tell its tales.\n\n#BrailleConstellations #TactileStars #AccessibleUniverse #SkyStories #InclusiveDesign #TouchTheStars #AIArt #UniversalLanguage #BlindAccessibility #ProfoundBeauty",
+  "name": "Clockwork Cloud City",
+  "description": "A city built on drifting clouds, with gear-driven mechanisms keeping the platforms afloat, steam-powered elevators, and people in Victorian-inspired attire gliding between structures, blending Victorian and steampunk aesthetics.",
+  "prompt": "Steampunk city on clouds, gear-driven mechanisms keeping platforms afloat, steam vents, Victorian-style buildings and attire, people on gliders or airships, dreamy cloud sea below, warm golden lighting, intricate machinery, no text",
+  "caption": "When clouds have gears. ☁️⚙️ #AIArt #Steampunk #CloudCity",
   "hashtags": [
-    "#BrailleConstellations",
-    "#TactileStars",
-    "#AccessibleUniverse",
-    "#SkyStories",
-    "#InclusiveDesign",
-    "#TouchTheStars",
     "#AIArt",
-    "#UniversalLanguage",
-    "#BlindAccessibility",
-    "#ProfoundBeauty"
+    "#Steampunk",
+    "#CloudCity",
+    "#Victorian",
+    "#Mechanical"
   ]
 }

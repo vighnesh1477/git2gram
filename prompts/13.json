@@ -1,19 +1,14 @@
 {
   "id": 13,
-  "name": "Typewriter Key Rain",
-  "description": "Rain falling as individual typewriter keys — each drop a letter, number, or symbol — striking the ground and forming words that bloom into temporary stories before dissolving into ink puddles.",
-  "prompt": "Rainstorm of vintage typewriter keys falling through lamplit night, each key distinct — letters, numbers, punctuation, symbols — striking cobblestone pavement and arranging themselves into coherent sentences that glow briefly before dissolving into pools of iridescent ink, words like 'remember' 'forgive' 'begin' 'breathe' bloom and fade, vintage streetlamps cast warm cones of light, reflections in wet stone, cinematic noir atmosphere, high speed photography frozen moment, 8k, poetic surrealism",
-  "caption": "The sky is typing a letter to the earth. ⌨️🌧️\n\nCatch a sentence. Read it before it dissolves.\n\n#TypewriterRain #WordStorm #LettersFromSky #InkPuddles #NoirAtmosphere #PoeticSurrealism #AIArt #TypographicArt #FleetingStories #MidnightThoughts",
+  "name": "Invisible City of Sound",
+  "description": "An architectural cityscape where buildings are shaped like musical instruments and sound waves, visible as colorful ripples in the air, people walking on streets made of harmonics.",
+  "prompt": "City architecture derived from musical forms: buildings shaped like violins, pianos, speakers, colorful sound waves rippling in the air between structures, people strolling on harmonic streets, vibrant, conceptual, detailed, no text",
+  "caption": "Where every street sings. 🎵🏙️ #AIArt #SoundCity #ConceptualArt",
   "hashtags": [
-    "#TypewriterRain",
-    "#WordStorm",
-    "#LettersFromSky",
-    "#InkPuddles",
-    "#NoirAtmosphere",
-    "#PoeticSurrealism",
     "#AIArt",
-    "#TypographicArt",
-    "#FleetingStories",
-    "#MidnightThoughts"
+    "#SoundCity",
+    "#ConceptualArt",
+    "#MusicLover",
+    "#Architecture"
   ]
 }

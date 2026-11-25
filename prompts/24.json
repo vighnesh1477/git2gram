@@ -1,20 +1,14 @@
 {
   "id": 24,
-  "name": "Seed Vault Aurora",
-  "description": "The Svalbard Global Seed Vault reimagined as a living aurora — each seed variety a distinct color particle in the northern lights, the vault's entrance a doorway into the dancing genome of Earth's future.",
-  "prompt": "Svalbard Global Seed Vault entrance glowing at Arctic twilight, but the aurora borealis above is composed of distinct colored particles — each hue a different seed variety: wheat gold, rice pearl, maize amber, tomato crimson, heritage rainbow — particles dance in genetic sequences, vault door opens into light tunnel of dancing genomes, polar bears watch from distance, facility lights warm against blue ice, hopeful futuristic vision, 8k, cinematic Arctic photography style",
-  "caption": "Hope doesn't just sleep in a vault. It dances in the sky. 🌱🌌\n\nEvery color a crop. Every dance, a future secured.\n\n#SeedVault #AuroraGenome #Svalbard #Biodiversity #FutureSeeds #HopeDances #ArcticLight #AIArt #FoodSecurity #LivingLibrary #Optimism",
+  "name": "Whispering Willow Library",
+  "description": "A quiet library under a canopy of weeping willows, books floating in the air around the reading area, pages turning by gentle breeze, soft dappled light filtering through leaves, creating a serene reading sanctuary.",
+  "prompt": "Library setting under weeping willow trees, floating books in the air around a wooden reading nook, pages gently turning due to breeze, dappled sunlight filtering through leaves, peaceful atmosphere, warm wood tones, detailed natural textures, no text overlays",
+  "caption": "Where stories float. 📚🌳 #AIArt #WillowLibrary #Serene",
   "hashtags": [
-    "#SeedVault",
-    "#AuroraGenome",
-    "#Svalbard",
-    "#Biodiversity",
-    "#FutureSeeds",
-    "#HopeDances",
-    "#ArcticLight",
     "#AIArt",
-    "#FoodSecurity",
-    "#LivingLibrary",
-    "#Optimism"
+    "#WillowLibrary",
+    "#Serene",
+    "#ReadingNook",
+    "#Nature"
   ]
 }
