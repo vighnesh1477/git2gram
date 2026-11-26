@@ -1,14 +1,12 @@
 {
   "id": 22,
-  "name": "Starlight Spiderweb",
-  "description": "A gigantic spiderweb stretched between two remote mountain peaks, made of shimmering starlight and delicate glass threads, glowing softly at night, with a single dewdrop reflecting the galaxy.",
-  "prompt": "Massive spiderweb between two tall mountains, threads made of glowing starlight and glass, web glowing softly in night sky, single dewdrop at center reflecting galaxy, dramatic mountain silhouettes, mystical, high detail, no text",
-  "caption": "Cosmic architecture. ☁️🕸️ #AIArt #StarlightWeb #Mystical",
+  "name": "Starlight Goat Sky Bridge",
+  "description": "Goats walk on a starlit suspension bridge between floating islands.",
+  "prompt": "Starlight goat sky bridge, goats walking on a glowing suspension bridge between floating islands, starry night, lanterns, dreamy sky, fantasy adventure, highly detailed.",
+  "caption": "Bridge? Goat? Yes. 🌉🐐",
   "hashtags": [
-    "#AIArt",
-    "#StarlightWeb",
-    "#Mystical",
-    "#Mountains",
-    "#Night"
+    "#StarlightGoat",
+    "#SkyBridge",
+    "#FloatingIslands"
   ]
 }

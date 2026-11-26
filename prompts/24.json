@@ -1,14 +1,12 @@
 {
   "id": 24,
-  "name": "Whispering Willow Library",
-  "description": "A quiet library under a canopy of weeping willows, books floating in the air around the reading area, pages turning by gentle breeze, soft dappled light filtering through leaves, creating a serene reading sanctuary.",
-  "prompt": "Library setting under weeping willow trees, floating books in the air around a wooden reading nook, pages gently turning due to breeze, dappled sunlight filtering through leaves, peaceful atmosphere, warm wood tones, detailed natural textures, no text overlays",
-  "caption": "Where stories float. 📚🌳 #AIArt #WillowLibrary #Serene",
+  "name": "Moonbeam Rabbit Moon Garden",
+  "description": "Rabbits sleep in a moon garden made of glowing silver flowers.",
+  "prompt": "Moonbeam rabbit moon garden, rabbits nestled among glowing silver flowers, crescent moon, soft lunar light, quiet dreamy night, pastel blues and silvers, highly detailed.",
+  "caption": "Sweet dreams under the moon. 🌙🐇",
   "hashtags": [
-    "#AIArt",
-    "#WillowLibrary",
-    "#Serene",
-    "#ReadingNook",
-    "#Nature"
+    "#MoonbeamRabbit",
+    "#MoonGarden",
+    "#NightFlorals"
   ]
 }

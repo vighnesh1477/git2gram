@@ -1,14 +1,12 @@
 {
   "id": 19,
-  "name": "Pixelated Reality Garden",
-  "description": "A garden where flowers and trees have pixelated textures, blending nature with digital aesthetics, some plants transitioning from organic to pixelated, set against a soft gradient sky.",
-  "prompt": "Garden scene with flowers and trees having visible pixelated textures, some organic plants merging with digital pixels, soft gradient sky background, creative blend of nature and video game aesthetics, detailed, whimsical, no text",
-  "caption": "When nature goes pixel. 🌸💻 #AIArt #PixelArt #NatureDigital",
+  "name": "Lunar Duck Pond Observatory",
+  "description": "Ducks in a lunar pond observe Earth from a moonlit observatory.",
+  "prompt": "Lunar duck pond observatory, ducks floating in reflective moon dust pond, small domed observatory, Earth glowing in black sky, quiet surreal scene, soft silver and blue light, highly detailed.",
+  "caption": "Quack astronomy. 🌙🦆",
   "hashtags": [
-    "#AIArt",
-    "#PixelArt",
-    "#NatureDigital",
-    "#Whimsical",
-    "#Art"
+    "#LunarDuck",
+    "#MoonPond",
+    "#DuckObservatory"
   ]
 }

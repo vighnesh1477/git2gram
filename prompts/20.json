@@ -1,14 +1,12 @@
 {
   "id": 20,
-  "name": "Aurora Dragon Kite",
-  "description": "A giant kite shaped like a dragon soaring through aurora-filled skies, its tail streaming into clouds, people on the ground holding the string, colors of green and purple dominating the scene.",
-  "prompt": "Giant dragon-shaped kite flying high in an aurora borealis sky, vivid greens and purples swirling, kite tail trailing into soft clouds, tiny figures on ground holding string, majestic and playful, detailed kite texture, no text",
-  "caption": "Kiting the lights. 🐉🌟 #AIArt #AuroraKite #KiteFlying",
+  "name": "Crystal Frog Volcano Conservatory",
+  "description": "Tiny frogs live in a crystal greenhouse built into a gentle volcano.",
+  "prompt": "Crystal frog volcano conservatory, small frogs in crystal terrariums inside a dormant volcano, glowing crystals, steam, lush plants, magical micro world, highly detailed.",
+  "caption": "Hop to it. 🌋🐸",
   "hashtags": [
-    "#AIArt",
-    "#AuroraKite",
-    "#DragonKite",
-    "#AuroraBorealis",
-    "#Playful"
+    "#CrystalFrog",
+    "#VolcanoConservatory",
+    "#FrogGarden"
   ]
 }
